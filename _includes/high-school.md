@@ -1,0 +1,3 @@
+Attending high school at Oak Hill your son or daughter can study math through Trigonometry and Calculus AP. We offer science courses through Chemistry and AP Physics. There is a strong emphasis on learning to read for ideas and enjoyment, learning to write clearly and to speak eloquently.
+
+Recent College Acceptances include The University of Virginia, Johns Hopkins Whiting School of Engineering, Peabody Conservatory of Johns Hopkins University, Virginia Tech, James Madison, New Saint Andrews College, George Mason University, Pensacola Christian College, Liberty University, University of Richmond, Mary Washington, Grove City, Mary Baldwin, Chestnut Hill College, Miami University of Oxford, Ohio.

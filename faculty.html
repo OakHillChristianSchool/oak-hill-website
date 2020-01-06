@@ -1,0 +1,16 @@
+---
+layout: simple-title
+title: Faculty
+---
+
+<div class="uk-container">
+    <div class="uk-child-width-expand@s uk-grid-large uk-grid-match" uk-grid>
+        {% for person in site.data.faculty %}
+        <div class="uk-width-1-2@m">
+            <h3>{{ person.name }}</h3>
+            <img src="{{ person.image }}">
+            <p>{{ person.bio|markdownify }}</p>
+        </div>
+        {% endfor %}
+    </div>
+</div>

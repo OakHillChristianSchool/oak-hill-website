@@ -1,0 +1,4 @@
+With the help of the Veritas Omnibus textbooks and teacher-led discussion, students analyze timeless works of the West. Using logic and previous knowledge, students are able to discern the antithesis between biblical ideas and man centered ideas and how present streams of thought have been shaped. In a given year we cover Ancient Works, Medieval, or Modern Works.
+Juniors and seniors are required to engage in a year long thesis writing process, culminating in defending a thesis before a panel of faculty and visitors. Rhetoric students practice many types of speeches, writing in various styles, and incorporation of stylistic techniques, such as the figures of speech, which flavor communication.
+The Honors Program also includes Latin, learning to read Cicero, Virgil, The Vulgate, Augustine, and others as well as spoken Latin as a tool for mastery.
+Honors students attend science and math courses with other high school students at Oak Hill.

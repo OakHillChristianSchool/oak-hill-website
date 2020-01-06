@@ -1,0 +1,17 @@
+---
+layout: simple-title
+title: Homeschool Hybrid / a la Carte
+---
+
+<div class="uk-container uk-margin-bottom">
+    <p>Call or Email today for an Application Form and fee information. There is still time for 2019-20. We are
+        accepting a la carte applications from students who are new to OH. Classes are high school level unless noted.
+        Tuition amounts are for one year. They may be paid in one payment or two payments. The following courses are now
+        open:</p>
+
+    <ul class="uk-list uk-list-striped">
+        {% for item in site.data.a-la-carte-courses %}
+        <li>{{ item.title }}</li>
+        {% endfor %}
+    </ul>
+</div>

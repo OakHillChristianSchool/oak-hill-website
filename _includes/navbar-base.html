@@ -1,0 +1,21 @@
+<div class="uk-navbar-left">
+    <a href="/"><img class="uk-align-center uk-margin-remove-bottom" style="height:80px;padding-top:6px;padding-bottom:6px" src="assets/images/logo/logo-web.png"></a> 
+ </div>
+<div class="uk-navbar-right">
+
+    <ul class="uk-navbar-nav">
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="#">{{ item.title }}</a>
+            <div class="uk-navbar-dropdown">
+                <ul class="uk-nav uk-navbar-dropdown-nav">
+                    {% for page in item.pages %}
+                    <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+                    {% endfor %}
+                </ul>
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+
+</div>

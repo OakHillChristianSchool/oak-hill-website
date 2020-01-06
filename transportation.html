@@ -1,0 +1,19 @@
+---
+layout: simple-title
+title: Transportation
+---
+
+<div class="uk-container uk-margin">
+    {% for route in site.data.transportation.routes %}
+    <p class="uk-margin-remove-bottom">{{ route.title }}</p>
+    <ul class="uk-margin-remove-top">
+        {% for stop in route.stops %}
+        <li>{{ stop.title }}</li>
+        {% endfor %}
+    </ul>
+    {% endfor %}
+
+    {% for item in site.data.transportation.other_info %}
+    <p>{{ item.info }}</p>
+    {% endfor %}
+</div>

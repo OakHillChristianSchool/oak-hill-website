@@ -1,0 +1,32 @@
+---
+layout: landing-page
+image: assets/images/IMG_0051.jpg
+title: Upper School
+---
+
+<div class="uk-container uk-container-xsmall uk-margin-xlarge">
+    <h3>Junior High</h3>
+    {% capture copy %}{% include junior-high.md %}{% endcapture %}
+    {{ copy | markdownify }}
+</div>
+
+<div class="uk-section-primary uk-margin-large-top">
+    <div class="uk-child-width-expand@s uk-grid-collapse" uk-grid>
+        <div class="uk-cover-container">
+            <img src="assets/images/campus.webp" alt="" uk-cover>
+        </div>
+        <div class="">
+            <div class="uk-container uk-padding-large">
+                <h3>High School</h3>
+                {% capture copy %}{% include high-school.md %}{% endcapture %}
+                {{ copy | markdownify }}
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="uk-container uk-margin-large">
+    <h3>The Logos Honors Program</h3>
+    {% capture copy %}{% include logos-honors-program.md %}{% endcapture %}
+    {{ copy | markdownify }}
+</div>

@@ -1,0 +1,59 @@
+// 1. Your custom variables and variable overwrites.
+$global-font-family: 'Open Sans', sans-serif;
+$base-heading-font-family: 'Cormorant Garamond', serif;
+$global-font-size: 18px;
+$global-color: #303030;
+$base-body-font-weight: 200;
+$global-secondary-background: #efefef;
+$global-primary-background: #8c242b;
+$global-link-color: $global-primary-background;
+$global-link-hover-color: $global-link-color;
+
+// 2. Import default variables and available mixins.
+@import "uikit/variables-theme.scss";
+@import "uikit/mixins-theme.scss";
+
+$navbar-background: #ffffff;
+// $navbar-nav-item-color: $global-inverse-color;
+
+// 3. Your custom mixin overwrites.
+// @mixin hook-card() { color: #000; }
+@mixin hook-navbar(){
+    .uk-navbar-nav > li > a {
+        text-transform: none;
+    }
+}
+
+@mixin hook-button-large(){
+    font-size: $global-font-size;
+    font-weight: 300;
+}
+
+@mixin hook-button(){
+    border-radius: 3px;
+}
+
+@mixin hook-inverse-button-primary(){
+    background-color: white;
+    transition: .2s;
+}
+
+@mixin hook-inverse-button-primary-hover(){
+    background-color: #771e24;
+    color: white;
+    transition: .2s;
+}
+
+@mixin hook-button-primary(){
+    background-color: #771e24;
+    transition: .2s;
+}
+
+@mixin hook-button-primary-hover(){
+    background-color: white;
+    color: #771e24;
+    transition: .2s;
+}
+
+// 4. Import UIkit.
+@import "uikit/uikit-theme.scss";

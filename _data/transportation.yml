@@ -1,0 +1,19 @@
+routes:
+  - title: 'Route #1 - Leesburg/Ashburn'
+    stops:
+      - title: Stop 1 - Landsdowne Town Center - 7:30 a.m.
+      - title: Stop 2 - Broadlands Village Center - Claiborne Pkwy/Broadlands Blvd - 7:45 a.m.
+  - title: 'Route #2 Ashburn/Brambleton, Door to Door'
+    stops:
+      - title: Door to Door - Estimated time to arrive at your home is 7:45 - 8:15 a.m.
+  - title: 'Route #3 Stone Ridge/South Riding'
+    stops:
+      - title: Stop 1 - Stone Ridge Village Center - 7:45 a.m.
+      - title: Stop 2 - East Gate Marketplace Tall Cedars Pkwy/Route 50 - 8 a.m.
+  - title: 'Route #4 Annandale'
+    stops: 
+      - title: Stop 1 - Twinbrooke Centre - 7:45 a.m.
+      - title: Stop 2 - Ravensworth Shopping Center - 7:50 a.m.
+other_info:
+  - info: Door to door in an area outside Ashburn can be requested
+  - info: Afternoon routes leave at 3 p.m. (4 p.m. on days with after school activities.)

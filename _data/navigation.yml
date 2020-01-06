@@ -1,0 +1,45 @@
+- title: About
+  pages:
+    - title: Our Campus
+      url: /campus
+    - title: History and Faith
+      url: /history-faith
+    - title: School Calendar and Hours
+      url: /calendar-hours
+    - title: Faculty
+      url: /faculty
+    - title: International Students
+      url: /international-students
+    - title: Duolingo English Test
+      url: /duolingo-english-test
+
+- title: Academics
+  pages:
+    - title: Preschool and K5
+      url: /preschool-k5
+    - title: Lower School
+      url: /lower-school
+    - title: Upper School
+      url: /upper-school
+    - title: Homeschool Hybrid / a la Carte
+      url: /homeschool-hybrid
+
+- title: Students
+  pages:
+    - title: Clubs and Activites
+      url: /clubs-activities
+    - title: Athletics
+      url: /athletics
+    - title: Transportation
+      url: /transportation
+
+- title: Admissions
+  pages:
+    - title: Apply
+      url: /apply
+    - title: Visit
+      url: /visit
+    - title: Admissions and Tuition
+      url: /admissions-tuition
+    - title: International Admissions and Tuition
+      url: /international-admissions-tuition

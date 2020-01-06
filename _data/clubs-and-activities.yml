@@ -1,0 +1,61 @@
+- day: Monday
+  image: assets/images/clubs and activities/1.png
+  activities:
+    - title: Math Tutoring
+      time: 3:00-4:00 p.m.
+      ages: Grades 6-12
+    - title: Spanish Class
+      time: 3:00-4:30 p.m. (2 days per week)
+      ages: Grades 6-12
+
+- day: Tuesday
+  image: assets/images/clubs and activities/2.png
+  activities:
+    - title: Lego Club
+      time: 3:00-4:00 p.m.
+      ages: Grades PK3-2
+    - title: Spanish Class
+      time: 3:15-4:00 p.m.
+      ages: Grades 3-5
+    - title: Choral Ensemble
+      time: 3:00-4:00 p.m.
+      ages: Grades 6-12
+
+- day: Wednesday
+  image: assets/images/clubs and activities/3.png
+  activities:
+    - title: Spanish Class
+      time: 3:15-4:00 p.m.
+      ages: Grades Kindergarten-2
+    - title: Chess Club
+      time: 3:00-4:00 p.m.
+      ages: Grades 2-12
+    - title: Math Tutoring
+      time: 3:00-4:00 p.m.
+      ages: Grades 6-12
+
+- day: Thursday
+  image: assets/images/clubs and activities/4.png
+  activities:
+    - title: Latin Club
+      time: 3:00-4:00 p.m.
+      ages: Grades 2-12
+    - title: Spanish Class
+      time: 3:00-4:30 p.m. (2 days per week)
+      ages: Grades 6-12
+
+- day: Friday
+  image: assets/images/clubs and activities/5.png
+  activities:
+    - title: Science Odyssey
+      time: 3:00-4:00 p.m.
+      ages: Grades PK3-2
+    - title: Tennis
+      time: 3:00-4:00 p.m.
+      ages: Grades Kindergarten-3
+    - title: The Inklets - Reading & Writing Club
+      time: 3:00-4:00 p.m.
+      ages: Grades 2-12
+    - title: Art/Drawing
+      time: 3:00-4:00 p.m.
+      ages: Grades 6-12

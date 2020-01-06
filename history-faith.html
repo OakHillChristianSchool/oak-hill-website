@@ -1,0 +1,17 @@
+---
+layout: simple-title
+title: History and Faith
+---
+
+<div class="uk-container uk-container-small uk-margin-bottom">
+    {% for item in site.data.history %}
+    <div class="uk-child-width-expand@s" uk-grid>
+        <div class="uk-width-1-5@m">
+            <p class="uk-text-primary uk-text-large">{{ item.year }}</p>
+        </div>
+        <div class="uk-width-expand">
+            <p>{{ item.content }}</p>
+        </div>
+    </div>
+    {% endfor %}
+</div>

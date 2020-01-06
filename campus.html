@@ -1,0 +1,30 @@
+---
+layout: simple-title
+title: Our Campus
+---
+
+<div class="uk-container uk-margin-bottom">
+    <div class="uk-child-width-expand@s" uk-grid>
+        <div>
+            <div class="uk-position-relative uk-visible-toggle uk-light" tabindex="-1" uk-slideshow>
+
+                <ul class="uk-slideshow-items">
+                    {% for image in site.static_files %}
+                    {% if image.path contains 'images/campus' %}
+                    <li>
+                        <img src="{{ image.path }}" alt="" uk-cover>
+                    </li>
+                    {% endif %}
+                    {% endfor %}
+                </ul>
+            
+                <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#" uk-slidenav-previous uk-slideshow-item="previous"></a>
+                <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next uk-slideshow-item="next"></a>
+            
+            </div>
+        </div>
+        <div>
+            <p>Our building features large classrooms with beautiful views.  It includes a 2,000 square foot gym and multipurpose room as well as an outdoor playground and picnic area.  Our classes also have easy access to the adjacent Arrowbrook Park (Soccer, Tennis, Basketball) and to the Arrowbrook Nature Preserve.</p>
+        </div>
+    </div>
+</div>

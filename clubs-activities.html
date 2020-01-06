@@ -1,0 +1,33 @@
+---
+layout: simple-title
+title: Clubs and Activities
+---
+
+<div class="uk-container uk-margin-large">
+    <p>After school clubs and activities for all ages are led by Oak Hill staff, student and parent volunteers, not by
+        outside groups.</p>
+</div>
+
+<div class="uk-background-primary uk-padding">
+    <div class="uk-container">
+        {% for day in site.data.clubs-and-activities %}
+        <div style="background-color: #ffffff;" class="uk-margin-large-top">
+            <div class="uk-child-width-expand@s uk-grid-collapse" uk-grid>
+                <div class="">
+                    <div class="uk-container uk-padding-large uk-text-center">
+                        <h3>{{ day.day }}</h3>
+                        {% for activity in day.activities %}
+                        <p>{{ activity.title }}<br>
+                        {{ activity.time }}<br>
+                        {{ activity.ages }}</p>
+                        {% endfor %}
+                    </div>
+                </div>
+                <div class="uk-cover-container">
+                    <img src="{{ day.image }}" alt="" uk-cover>
+                </div>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
