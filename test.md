@@ -1,5 +1,6 @@
 ---
 layout: simple-title
+title: test
 ---
 
 test
