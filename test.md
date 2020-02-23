@@ -1,6 +1,6 @@
 ---
 layout: simple-title
-title: test title here
+title: test
 ---
 test
 * heya
