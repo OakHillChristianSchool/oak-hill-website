@@ -1,7 +1,5 @@
 ---
-image: https://d17fnq9dkz9hgj.cloudfront.net/uploads/2012/11/153558006-tips-healthy-cat-632x475.jpg
-layout: landing-page
-title: test
+layout: simple-title
 ---
 test
 * heya
