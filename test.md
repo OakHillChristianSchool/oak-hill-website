@@ -2,7 +2,7 @@
 layout: simple-title
 title: test
 ---
-test 
+test
 * heya 
 *  yeah
 *  bye
