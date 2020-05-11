@@ -124,41 +124,23 @@ url:
                     uk-slideshow="ratio: 109:100;min-height: 450;">
 
                     <ul class="uk-slideshow-items">
+                        {% for post in site.posts %}
                         <li>
                             <picture uk-cover>
-                                <source type="image/webp" srcset="assets/images/Washington.Nery.webp">
-                                <source type="image/jpeg" srcset="assets/images/Washington.Nery.jpg">
-                                <img src="assets/images/Washington.Nery.jpg" uk-cover>
+                                <img src="{% if post.image %}{{ post.image }}{% else %}assets/campus.jpg{% endif %}" alt="" uk-cover>
                             </picture>
                             <div class="uk-position-cover uk-overlay uk-flex uk-flex-center uk-flex-middle uk-light"
                                 style="background-color:rgba(0,0,0,.3);">
                                 <div class="uk-margin-large">
-                                    <h3 class="">New 3 Year Old Teacher</h3>
-                                    <p class="uk-margin-remove uk-text-small">Text</p>
-                                    <a href=""
+                                    <h3 class="">{{ post.title }}</h3>
+                                    <p class="uk-margin-remove uk-text-small">{{ post.excerpt }}</p>
+                                    <a href="{{ post.url }}"
                                         class="uk-display-inline-block uk-button uk-button-large uk-button-primary uk-margin-large-top">Read
                                         More</a>
                                 </div>
                             </div>
                         </li>
-
-                        <li>
-                            <picture uk-cover>
-                                <source type="image/webp" srcset="assets/images/alumnus.webp">
-                                <source type="image/png" srcset="assets/images/alumnus.png">
-                                <img src="assets/images/alumnus.png" uk-cover>
-                            </picture>
-                            <div class="uk-position-cover uk-overlay uk-flex uk-flex-center uk-flex-middle uk-light"
-                                style="background-color:rgba(0,0,0,.3);">
-                                <div class="uk-margin-large">
-                                    <h3 class="">Alumni Bulletin: Dryden Joss</h3>
-                                    <p class="uk-margin-remove uk-text-small">Text</p>
-                                    <a href=""
-                                        class="uk-display-inline-block uk-button uk-button-large uk-button-primary uk-margin-large-top">Read
-                                        More</a>
-                                </div>
-                            </div>
-                        </li>
+                        {% endfor %}
                     </ul>
 
                     <div class="uk-light">

@@ -1,7 +1,7 @@
 <nav class="uk-dark uk-position-z-index uk-navbar-container {% if include.transparent %}uk-navbar-transparent uk-light {% endif %}uk-visible@m" {% if include.transparent %}style="margin-bottom:-212px" {% endif %}uk-navbar>
     <div class="uk-position-absolute">
         <a href="{{ '/' | relative_url }}" class="uk-navbar-item uk-logo uk-padding-small"><img style="height:80px"
-                src="assets/images/logo/logo-{% if include.transparent %}white{% else %}web{% endif %}.png"></a>
+                src="{% if include.transparent %}{{ 'assets/images/logo/logo-white.png' | relative_url }}{% else %}{{ 'assets/images/logo/logo-web.png' | relative_url }}{% endif %}"></a>
     </div>
     <div class="uk-navbar-right uk-margin-large-right">
         <ul class="uk-navbar-nav">
@@ -25,7 +25,7 @@
 
 <div style="z-index:2;position:relative" class="uk-background-light uk-hidden@m">
     <a style="top:18px;left:16px" class="uk-dark uk-position-absolute" uk-icon="icon: menu; ratio: 1.5" uk-toggle="target: #menu-mobile;animation: uk-animation-slide-top"></a>
-    <div class="uk-text-center"><a href="{{ '/' | relative_url }}"><img style="height:60px;padding: 10px 0;" src="assets/images/logo/logo-mobile.png"></a></div>
+    <div class="uk-text-center"><a href="{{ '/' | relative_url }}"><img style="height:60px;padding: 10px 0;" src="{{ 'assets/images/logo/logo-mobile.png' | relative_url }}"></a></div>
     <div id="menu-mobile" class="uk-container uk-dark uk-position-relative" hidden>
         <ul class="uk-nav-default uk-nav-parent-icon" uk-nav>
             {% for item in site.data.navigation %}
