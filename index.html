@@ -1,28 +1,21 @@
 ---
 title: Home
-layout: base
+layout: transparent-navbar
 url:
 ---
 
-<div class="uk-position-relative uk-cover-container" uk-height-viewport>
-    <!-- <video
-        src="https://media.istockphoto.com/videos/elementary-school-kids-playing-on-climbing-net-in-playground-video-id1071490710"
-        loop muted playsinline uk-video="autoplay: inview" uk-cover></video> -->
-    <picture uk-cover>
-        <source type="image/webp" srcset="assets/images/IMG_2654.webp">
-        <source type="image/jpeg" srcset="assets/images/IMG_2654.jpg">
-        <img src="assets/images/IMG_2654.jpg" uk-cover>
-    </picture>
-    <div class="uk-position-top">
-        {% include navbar-transparent.html %}
-    </div>
-    <div class="uk-position-bottom uk-position-large">
+<div class="uk-inline@m uk-width-1-1 uk-overflow-hidden">
+    <video id="header-background" class="uk-width-1-1@m uk-background-secondary" src="assets/video/MVI_3031.mov" loop muted playsinline
+        uk-video="autoplay: inview" style="object-fit: cover; max-height: 760px;"></video>
+    <div id="header-content" class="uk-overlay uk-position-bottom">
         <div class="uk-container">
-            <h1>A Classical and Christian School</h1>
-            <div>
-                <a href="/apply" class="uk-display-inline-block uk-button uk-button-large uk-button-primary">Apply</a>
-                <a href="/visit" class="uk-display-inline-block uk-button uk-button-large uk-button-primary">Visit</a>
-                <a href="#contact" class="uk-display-inline-block uk-button uk-button-large uk-button-primary">Contact</a>
+            <div class="uk-margin-large-bottom">
+                <h1 class="uk-light">A Classical and Christian School</h1>
+                <div class="uk-light">
+                    <a href="apply" class="uk-display-inline-block uk-button uk-button-large uk-button-primary">Apply</a>
+                    <a href="visit" class="uk-display-inline-block uk-button uk-button-large uk-button-primary">Visit</a>
+                    <a href="#contact" class="uk-display-inline-block uk-button uk-button-large uk-button-primary" uk-scroll>Contact</a>
+                </div>
             </div>
         </div>
     </div>

@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+<div class="uk-container uk-margin-large-top uk-margin-large-bottom" style="max-width: 720px;">
+    {% if page.image %}<img class="uk-width-1-1" src="{{ page.image | relative_url }}">{% endif %}
+    <h1 class="uk-margin-remove-bottom">{{ page.title }}</h1>
+    <p class="uk-margin-remove-top uk-text-meta">Posted on {{ page.date | date: "%B %-d, %Y" }}</p>
+
+    {{ content }}
+</div>

@@ -1,0 +1,15 @@
+---
+layout: transparent-navbar
+---
+
+<div class="uk-inline@m uk-width-1-1 uk-overflow-hidden">
+    <img id="header-background" class="uk-width-1-1@m uk-background-secondary" src="{{ page.image | relative_url }}" style="object-fit: cover; max-height: 760px;">
+    <div id="header-content" class="uk-overlay uk-overlay-primary uk-position-bottom uk-height-1-1 uk-flex uk-flex-middle">
+        <div class="uk-container">
+            <h1 class="uk-heading-large uk-dark {% if page.subtitle %}orange-underline {% endif %}uk-margin-xlarge-top uk-text-center">{% if page.header_title %}{{ page.header_title | markdownify }}{% else %}{{ page.title }}{% endif %}</h1>
+            {% if page.subtitle %}<p style="font-size: 2rem;" class="uk-light uk-text-center">{{ page.subtitle }}</p>{% endif %}
+        </div>
+    </div>
+</div>
+
+{{ content }}
