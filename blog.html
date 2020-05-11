@@ -1,0 +1,28 @@
+---
+layout: simple-title
+title: Latest Posts
+---
+
+<div class="uk-container uk-margin-large-top uk-margin-large-bottom">
+    <ul class="uk-list uk-list-divider">
+        {% for post in site.posts %}
+        <li>
+            <div uk-grid>
+                <div class="uk-width-1-2@m uk-width-1-3@l">
+                    <a href="{{ post.url }}">
+                        <img class="uk-width-1-1"
+                            src="{% if post.image %}{{ post.image }}{% else %}assets/building.jpg{% endif %}">
+                    </a>
+                </div>
+                <div class="uk-width-expand">
+                    <a href="{{ post.url }}">
+                        <h3 class="uk-margin-remove-bottom">{{ post.title }}</h3>
+                    </a>
+                    <p class="uk-text-meta uk-margin-remove-top">{{ post.date | date: "%B %-d, %Y" }}</p>
+                    <p>{{ post.excerpt }}</p>
+                </div>
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
