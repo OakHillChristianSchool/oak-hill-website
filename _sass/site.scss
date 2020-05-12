@@ -9,6 +9,8 @@ $global-primary-background: #8c242b;
 $global-link-color: $global-primary-background;
 $global-link-hover-color: $global-link-color;
 $overlay-primary-background: rgba(#1e1e1e, 0.6);
+$inverse-global-color: #fff;
+$inverse-global-muted-color: #fff;
 
 // 2. Import default variables and available mixins.
 @import "uikit/variables-theme.scss";

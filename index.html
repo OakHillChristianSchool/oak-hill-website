@@ -5,16 +5,19 @@ url:
 ---
 
 <div class="uk-inline@m uk-width-1-1 uk-overflow-hidden">
-    <video id="header-background" class="uk-width-1-1@m uk-background-secondary" src="assets/video/MVI_3031.mov" loop muted playsinline
-        uk-video="autoplay: inview" style="object-fit: cover; max-height: 760px;"></video>
+    <video id="header-background" class="uk-width-1-1@m uk-background-secondary" src="assets/video/MVI_3031.mov" loop
+        muted playsinline uk-video="autoplay: inview" style="object-fit: cover; max-height: 760px;"></video>
     <div id="header-content" class="uk-overlay uk-position-bottom">
         <div class="uk-container">
             <div class="uk-margin-large-bottom">
                 <h1 class="uk-light">A Classical and Christian School</h1>
                 <div class="uk-light">
-                    <a href="apply" class="uk-display-inline-block uk-button uk-button-large uk-button-primary">Apply</a>
-                    <a href="visit" class="uk-display-inline-block uk-button uk-button-large uk-button-primary">Visit</a>
-                    <a href="#contact" class="uk-display-inline-block uk-button uk-button-large uk-button-primary" uk-scroll>Contact</a>
+                    <a href="apply"
+                        class="uk-display-inline-block uk-button uk-button-large uk-button-primary">Apply</a>
+                    <a href="visit"
+                        class="uk-display-inline-block uk-button uk-button-large uk-button-primary">Visit</a>
+                    <a href="#contact" class="uk-display-inline-block uk-button uk-button-large uk-button-primary"
+                        uk-scroll>Contact</a>
                 </div>
             </div>
         </div>
@@ -127,7 +130,8 @@ url:
                         {% for post in site.posts %}
                         <li>
                             <picture uk-cover>
-                                <img src="{% if post.image %}{{ post.image }}{% else %}assets/campus.jpg{% endif %}" alt="" uk-cover>
+                                <img src="{% if post.image %}{{ post.image }}{% else %}assets/campus.jpg{% endif %}"
+                                    alt="" uk-cover>
                             </picture>
                             <div class="uk-position-cover uk-overlay uk-flex uk-flex-center uk-flex-middle uk-light"
                                 style="background-color:rgba(0,0,0,.3);">
@@ -155,9 +159,8 @@ url:
             <div class="uk-text-center">
                 <div class="uk-padding"
                     style="margin:0;position:relative;top:50%;-ms-transform: translateY(-50%);transform: translateY(-50%);">
-                    <p>You can hear stories about our faculty and students, listen to our podcasts, or see news and
-                        upcoming
-                        events from the school. </p>
+                    <p>You can hear stories about our teaachers and students, or see news and upcoming events from the
+                        school.</p>
                     <a href="/blog" class="uk-button uk-button-large uk-button-primary">Blog</a>
                 </div>
             </div>
@@ -189,7 +192,8 @@ url:
             <textarea class="uk-textarea" name="message" placeholder="Message" rows="8"></textarea>
         </div>
         <div class="uk-width-1-1">
-            <input type="submit" class="uk-button uk-button-large uk-button-primary uk-align-right" value="Submit" href="#">
+            <input type="submit" class="uk-button uk-button-large uk-button-primary uk-align-right" value="Submit"
+                href="#">
         </div>
     </form>
 </div>
@@ -199,7 +203,7 @@ url:
     function contact() {
         data = $('form').serialize();
         url = `https://script.google.com/a/infercms.com/macros/s/AKfycbx1BiOoM_baAubzrsC1wsVqV8tWs61W3NZ34Moa3Sw6T-csDu8/exec?${data}&callback=?`
-        
+
         $('#contact').html('<div uk-spinner></div>');
 
         var request = jQuery.ajax({

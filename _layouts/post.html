@@ -9,5 +9,7 @@ layout: default
 
     {{ content }}
 
-    <a class="uk-button uk-button-primary uk-button-large" target="_blank" href="http://www.facebook.com/sharer.php?u={{ site.url }}{{ page.url }}">Share on facebook</a>
+    <a class="uk-button uk-button-primary uk-button-large" target="_blank" href="http://www.facebook.com/sharer.php?u={{ site.url }}{{ page.url }}">Share on Facebook</a>
+    <a class="uk-button uk-button-primary uk-button-large" target="_blank" href="mailto:?subject=Hey, I thought you might like this article&body={{ site.url }}{{ page.url }}">Share by Email</a>
+    <p><a href="{{ 'blog' | relative_url }}">Back to posts</a></p>
 </div>

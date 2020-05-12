@@ -1,5 +1,7 @@
 - title: About
   pages:
+  - title: Blog
+    url: /blog
   - title: Our Campus
     url: /campus
   - title: History and Faith
