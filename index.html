@@ -120,41 +120,55 @@ url:
 <div class="uk-background-secondary">
     <div class="uk-container uk-padding-large">
         <h1 class="">Blog</h1>
-        <div class="uk-child-width-expand@s" uk-grid>
-            <div class="uk-text-center">
+        <script>
+            const RSS_URL = 'https://cors-anywhere.herokuapp.com/https://oakhillk12.blogspot.com/feeds/posts/default';
 
-                <div class="uk-position-relative uk-visible-toggle" tabindex="-1"
-                    uk-slideshow="ratio: 109:100;min-height: 450;">
+            fetch(RSS_URL)
+                .then(response => response.text())
+                .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+                .then(data => {
+                    const items = data.querySelectorAll("entry");
+                    let html = `<div class="uk-position-relative uk-visible-toggle" tabindex="-1"
+                    uk-slideshow="autoplay:false;ratio: 109:100;min-height: 450;">
 
-                    <ul class="uk-slideshow-items">
-                        {% for post in site.posts %}
-                        <li>
-                            <picture uk-cover>
-                                <img src="{% if post.image %}{{ post.image }}{% else %}assets/campus.jpg{% endif %}"
-                                    alt="" uk-cover>
-                            </picture>
-                            <div class="uk-position-cover uk-overlay uk-flex uk-flex-center uk-flex-middle uk-light"
-                                style="background-color:rgba(0,0,0,.3);">
-                                <div class="uk-margin-large">
-                                    <h3 class="">{{ post.title }}</h3>
-                                    <p class="uk-margin-remove uk-text-small">{{ post.excerpt }}</p>
-                                    <a href="{{ post.url }}"
-                                        class="uk-display-inline-block uk-button uk-button-large uk-button-primary uk-margin-large-top">Read
-                                        More</a>
-                                </div>
-                            </div>
-                        </li>
-                        {% endfor %}
-                    </ul>
-
-                    <div class="uk-light">
-                        <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#"
-                            uk-slidenav-previous uk-slideshow-item="previous"></a>
-                        <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next
-                            uk-slideshow-item="next"></a>
-                    </div>
-
+                    <ul class="uk-slideshow-items">`;
+                    let add = ' class="uk-active uk-transition-active" style="transform: translate3d(0px, 0px, 0px);"'
+                    items.forEach(el => {
+                        html += `
+        <li>
+            <div>
+                <img src="${el.querySelector('thumbnail').getAttribute('url').replace('s72-c', 's640-c')}"
+                    alt="" uk-cover>
+            </div>
+            <div class="uk-position-cover uk-overlay uk-flex uk-flex-center uk-flex-middle uk-light"
+                style="background-color:rgba(0,0,0,.3);">
+                <div class="uk-margin-large">
+                    <h3 class="">${el.querySelector("title").innerHTML}</h3>
+                    <p class="uk-margin-remove uk-text-small">${el.querySelector("summary").textContent}</p>
+                    <a href="${el.querySelector("link[rel=alternate]").getAttribute('href')}"
+                        class="uk-display-inline-block uk-button uk-button-large uk-button-primary uk-margin-large-top">Read
+                        More</a>
                 </div>
+            </div>
+        </li>
+      `;
+                    });
+                    html += `</ul>
+
+<div class="uk-light">
+    <a class="uk-position-center-left uk-position-small uk-hidden-hover" href="#"
+        uk-slidenav-previous uk-slideshow-item="previous"></a>
+    <a class="uk-position-center-right uk-position-small uk-hidden-hover" href="#" uk-slidenav-next
+        uk-slideshow-item="next"></a>
+</div>
+
+</div>`
+                    document.getElementById('blog-slider').innerHTML = html;
+                });
+        </script>
+        <div class="uk-child-width-expand@s" uk-grid>
+            <div class="uk-text-center" id="blog-slider">
+                <div uk-spinner="ratio: 3"></div>    
             </div>
             <div class="uk-text-center">
                 <div class="uk-padding"
@@ -204,7 +218,7 @@ url:
         data = $('form').serialize();
         url = `https://script.google.com/a/infercms.com/macros/s/AKfycbx1BiOoM_baAubzrsC1wsVqV8tWs61W3NZ34Moa3Sw6T-csDu8/exec?${data}&callback=?`
 
-        $('#contact').html('<div uk-spinner></div>');
+        $('#contact').html('<div class="uk-text-center"><div uk-spinner="ratio:3"></div></div>');
 
         var request = jQuery.ajax({
             crossDomain: true,
@@ -214,6 +228,8 @@ url:
         }).done(() => {
             $('#contact').html('<div class="uk-alert-success" uk-alert><p>Thank you! Your message has been sent.</p></div>');
         });
+
+        console.log(request);
 
         return false
     }

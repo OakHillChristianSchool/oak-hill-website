@@ -109,27 +109,28 @@ title: Visit Us
         <li id="visit-time"></li>
     </ul>
     <form action="" method="POST" onsubmit="bookTime()">
-    <div class="uk-margin">
-        <input name="customer" class="uk-input" type="text" placeholder="Name (Required)" required>
-    </div>
-    <div class="uk-margin">
-        <input name="studentage" class="uk-input" type="text" placeholder="Age of Student (Required)" required>
-    </div>
-    <div class="uk-margin">
-        <input name="email" class="uk-input" type="email" placeholder="Email (Required)" required>
-    </div>
-    <div class="uk-margin">
-        <input name="phonenumber" class="uk-input" type="text" placeholder="Phone Number">
-    </div>
-    <div class="uk-margin">
-        <textarea name="howheard" class="uk-textarea" rows="5" placeholder="How did you hear about Oak Hill?"></textarea>
-    </div>
-    <div class="uk-margin">
-        <textarea name="message" class="uk-textarea" rows="5" placeholder="Message"></textarea>
-    </div>
-    <div class="uk-margin">
-        <input class="uk-button uk-button-large uk-button-primary" type="submit" value="Book It">
-    </div>
+        <div class="uk-margin">
+            <input name="customer" class="uk-input" type="text" placeholder="Name (Required)" required>
+        </div>
+        <div class="uk-margin">
+            <input name="studentage" class="uk-input" type="text" placeholder="Age of Student (Required)" required>
+        </div>
+        <div class="uk-margin">
+            <input name="email" class="uk-input" type="email" placeholder="Email (Required)" required>
+        </div>
+        <div class="uk-margin">
+            <input name="phonenumber" class="uk-input" type="text" placeholder="Phone Number">
+        </div>
+        <div class="uk-margin">
+            <textarea name="howheard" class="uk-textarea" rows="5"
+                placeholder="How did you hear about Oak Hill?"></textarea>
+        </div>
+        <div class="uk-margin">
+            <textarea name="message" class="uk-textarea" rows="5" placeholder="Message"></textarea>
+        </div>
+        <div class="uk-margin">
+            <input class="uk-button uk-button-large uk-button-primary" type="submit" value="Book It">
+        </div>
     </form>
 </div>
 
@@ -137,8 +138,8 @@ title: Visit Us
     <div class="uk-card uk-card-default uk-card-body">
         <h3 class="uk-card-title">Thank you.</h3>
         <p><b>Your tour is booked. Please save this information.</b><br>
-        <span id="final-location">Location: 13525 Dulles Technology Dr, Herndon 20170</span><br>
-        <span id="final-time">Time:</span>
+            <span id="final-location">Location: 13525 Dulles Technology Dr, Herndon 20170</span><br>
+            <span id="final-time">Time:</span>
     </div>
 </div>
 
@@ -172,6 +173,10 @@ title: Visit Us
     }
 
     function displayMonth(month, year) {
+        let today = new Date();
+        let this_day = today.getDate();
+        let this_month = today.getMonth();
+        let this_year = today.getFullYear();
         let day = new Date(year, month, 1).getDay();
         let prev_days = daysInMonth(month == 0 ? 11 : month - 1);
         let days = daysInMonth(month, year);
@@ -186,7 +191,7 @@ title: Visit Us
                 }
                 first = false;
             }
-            tableDataFromIndex(i).html(first || gray ? `<span class="uk-text-muted">${counter}</span>` : `<span style="cursor: pointer" class="uk-icon-button uk-text-primary">${counter}</span>`);
+            tableDataFromIndex(i).html((first || i % 7 == 0 || (counter <= this_day && month == this_month && year == this_year)) || gray ? `<span class="uk-text-muted">${counter}</span>` : `<span style="cursor: pointer" class="uk-icon-button uk-text-primary">${counter}</span>`);
             counter++;
         }
         $('#month').text(`${months[month]}, ${year}`);
@@ -332,7 +337,7 @@ title: Visit Us
     function bookTime() {
         $('#final-time').text(`Time: ${months[month]} ${date}, ${year} at ${time}`);
         data = $('form').serialize();
-        $('#step-two').html('<div uk-spinner></div>');
+        $('#step-two').html('<div class="uk-text-center"><div uk-spinner="ratio:3"></div></div>');
         url = `https://script.google.com/macros/s/AKfycbz7WAG9TOkJWSpSgGMGTw08uS_VcHxiG4gk81bAEMUQtsN2Vj8/exec?date=${month + 1}/${date}/${year}&time=${time}&${data}&callback=?`;
         var request = jQuery.ajax({
             crossDomain: true,
