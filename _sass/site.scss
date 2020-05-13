@@ -60,3 +60,22 @@ $navbar-background: #ffffff;
 
 // 4. Import UIkit.
 @import "uikit/uikit-theme.scss";
+
+@media only screen and (max-width: 959px) {
+    #header-background {
+        position: absolute;
+        top: 0;
+        left: 0;
+        min-width: 100%;
+        min-height: 100%;
+        z-index: -1;
+    }
+
+    #header-content {
+        position: static !important;
+    }
+
+    #header-content h1 {
+        font-size: 2rem;
+    }
+}
