@@ -272,7 +272,6 @@ title: Visit Us
                 url = `https://sheets.googleapis.com/v4/spreadsheets/1FsW45tZVrAIaSnTpxOoDqqwz2RPdb9pupKOJFfO492c/values/Bookings!B7:H?key=AIzaSyDAzl7e7m5u1Qta9WhpX7l313zysHn2Ybw`
                 $.getJSON(url, function (bookings) {
                     items = []
-                    console.log(bookings)
                     if (bookings.values) {
                         bookings.values.forEach((item, index) => {
                             bookings.values[index] = [item[4], '', '', item[5]];
