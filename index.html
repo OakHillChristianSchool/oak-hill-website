@@ -137,6 +137,8 @@ layout: transparent-navbar
                             thumbnail = el.querySelector('thumbnail').getAttribute('url').replace('s72-c', 's640-c');
                         } catch {
                         }
+                        let summary = el.querySelector('summary').textContent.substr(0, 160);
+                        summary = summary.substr(0, Math.min(summary.length, summary.lastIndexOf(' ')))
                         html += `
         <li>
             <div>
@@ -147,7 +149,7 @@ layout: transparent-navbar
                 style="background-color:rgba(0,0,0,.3);">
                 <div class="uk-margin-large">
                     <h3 class="">${el.querySelector("title").innerHTML}</h3>
-                    <p class="uk-margin-remove uk-text-small">${el.querySelector("summary").textContent}</p>
+                    <p class="uk-margin-remove uk-text-small">${summary}...</p>
                     <a target="_blank" href="${el.querySelector("link[rel=alternate]").getAttribute('href')}"
                         class="uk-display-inline-block uk-button uk-button-large uk-button-primary uk-margin-large-top">Read
                         More</a>
