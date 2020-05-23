@@ -118,12 +118,13 @@ layout: transparent-navbar
     <div class="uk-container uk-padding-large">
         <h1 class="">Blog</h1>
         <script>
-            const RSS_URL = 'https://cors-anywhere.herokuapp.com/https://oakhillk12.blogspot.com/feeds/posts/default';
+            const RSS_URL = 'https://forms.oakhillk12.com/forms/blog-feed';
 
             fetch(RSS_URL)
                 .then(response => response.text())
                 .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
                 .then(data => {
+                    console.log(data)
                     const items = data.querySelectorAll("entry");
                     let html = `<div class="uk-position-relative uk-visible-toggle" tabindex="-1"
                     uk-slideshow="autoplay:false;ratio: 109:100;min-height: 450;">
@@ -131,10 +132,15 @@ layout: transparent-navbar
                     <ul class="uk-slideshow-items">`;
                     let add = ' class="uk-active uk-transition-active" style="transform: translate3d(0px, 0px, 0px);"'
                     items.forEach(el => {
+                        let thumbnail = 'assets/images/playground.png';
+                        try {
+                            thumbnail = el.querySelector('thumbnail').getAttribute('url').replace('s72-c', 's640-c');
+                        } catch {
+                        }
                         html += `
         <li>
             <div>
-                <img src="${el.querySelector('thumbnail').getAttribute('url').replace('s72-c', 's640-c')}"
+                <img src="${thumbnail}"
                     alt="" uk-cover>
             </div>
             <div class="uk-position-cover uk-overlay uk-flex uk-flex-center uk-flex-middle uk-light"
@@ -142,7 +148,7 @@ layout: transparent-navbar
                 <div class="uk-margin-large">
                     <h3 class="">${el.querySelector("title").innerHTML}</h3>
                     <p class="uk-margin-remove uk-text-small">${el.querySelector("summary").textContent}</p>
-                    <a href="${el.querySelector("link[rel=alternate]").getAttribute('href')}"
+                    <a target="_blank" href="${el.querySelector("link[rel=alternate]").getAttribute('href')}"
                         class="uk-display-inline-block uk-button uk-button-large uk-button-primary uk-margin-large-top">Read
                         More</a>
                 </div>
