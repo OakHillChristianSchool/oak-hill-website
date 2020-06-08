@@ -11,3 +11,7 @@ markdown: kramdown
 theme: minima
 plugins:
 - jekyll-feed
+- jekyll-redirect-from
+whitelist:
+  - jekyll-redirect-from
+permalink: /:categories/:year/:month/:day/:title
