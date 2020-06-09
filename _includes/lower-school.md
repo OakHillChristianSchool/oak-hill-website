@@ -3,7 +3,7 @@ Grade school, or grammar school, is a time for developing structures that reward
 * Using [Shurley English](https://www.shurley.com/), students learn grammar. Come see first graders diagramming sentences!
 * The outstanding [Excellence in Writing](http://www.iew.com/) program teaches artful communication.
 * [Saxon Math](http://www.hmhco.com/shop/education-curriculum/math/saxon-math) is used one year ahead of grade level preparing students for pre-algebra and beyond.
-* Students travel to our science lab for Mrs. Door’s elementary courses in Chemistry, Astronomy & Geoscience, Physics, and Biology. They learn scientific method and how to organize a laboratory notebook.
+* Students travel to our science lab for elementary courses in Chemistry, Astronomy & Geoscience, Physics, and Biology. They learn scientific method and how to organize a laboratory notebook.
 * Latin with our veteran language instructors.
 * Students read original works, from Curious George and Madeline in first grade to Robin Hood and Where the Red Fern Grows in older grades. As much as possible books that relate to a particular period in history are read while students are studying that time in history.
 
