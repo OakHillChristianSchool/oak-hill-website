@@ -99,7 +99,7 @@ title: Visit Us
         </table>
     </div>
 
-    <div class="uk-child-width-expand@s uk-margin-large-top uk-text-center" uk-grid>
+    <div id="available-times" class="uk-child-width-expand@s uk-margin-large-top uk-text-center" uk-grid>
         <div>
             <p>Morning</p>
             <div id="morning" uk-margin>
@@ -204,7 +204,7 @@ title: Visit Us
                 }
                 first = false;
             }
-            tableDataFromIndex(i).html((first || i % 7 == 0 || (counter <= this_day && month == this_month && year == this_year)) || gray ? `<span class="uk-text-muted">${counter}</span>` : `<span style="cursor: pointer" class="uk-icon-button uk-text-primary">${counter}</span>`);
+            tableDataFromIndex(i).html((first || i % 7 == 0 || (counter <= this_day && month == this_month && year == this_year)) || gray ? `<span class="uk-text-muted">${counter}</span>` : `<a href="#available-times" style="cursor: pointer;" class="uk-icon-button uk-text-primary check-times-day" uk-scroll>${counter}</a>`);
             counter++;
         }
         $('#month').text(`${months[month]}, ${year}`);
