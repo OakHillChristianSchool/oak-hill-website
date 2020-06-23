@@ -29,7 +29,7 @@ layout: transparent-navbar
             <picture>
                 <source type="image/webp" srcset="assets/images/IMG_2656.webp">
                 <source type="image/jpeg" srcset="assets/images/IMG_2656.jpg">
-                <img src="assets/images/IMG_2656.jpg">
+                <img class="uk-width-1-1" src="assets/images/IMG_2656.jpg">
             </picture>
             <h3 class="uk-margin-remove-bottom">Kindergarten</h3>
             <p class="uk-margin-remove-top">Nearly all four year olds in our preschool program learn to read using our
@@ -45,7 +45,7 @@ layout: transparent-navbar
             <picture>
                 <source type="image/webp" srcset="assets/images/IMG_9941.webp">
                 <source type="image/jpeg" srcset="assets/images/IMG_9941.jpg">
-                <img src="assets/images/IMG_9941.jpg">
+                <img class="uk-width-1-1" src="assets/images/IMG_9941.jpg">
             </picture>
             <h3 class="uk-margin-remove-bottom">Lower School</h3>
             <p class="uk-margin-remove-top">Grade school, or grammar school, is a time for developing structures that
@@ -60,7 +60,7 @@ layout: transparent-navbar
             <picture>
                 <source type="image/webp" srcset="assets/images/IMG_0051.webp">
                 <source type="image/jpeg" srcset="assets/images/IMG_0051.jpg">
-                <img src="assets/images/IMG_0051.jpg">
+                <img class="uk-width-1-1" src="assets/images/IMG_0051.jpg">
             </picture>
             <h3 class="uk-margin-remove-bottom">Upper School</h3>
             <p class="uk-margin-remove-top">Students refine writing and speaking skills through classroom discussions and reading original sources.</p>
@@ -124,7 +124,6 @@ layout: transparent-navbar
                 .then(response => response.text())
                 .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
                 .then(data => {
-                    console.log(data)
                     const items = data.querySelectorAll("entry");
                     let html = `<div class="uk-position-relative uk-visible-toggle" tabindex="-1"
                     uk-slideshow="autoplay:false;ratio: 109:100;min-height: 450;">
