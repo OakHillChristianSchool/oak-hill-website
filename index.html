@@ -233,7 +233,9 @@ layout: transparent-navbar
             $('#contact').html('<div class="uk-alert-success" uk-alert><p>Thank you! Your message has been sent.</p></div>');
         });
 
-        console.log(request);
+        dataLayer.push({
+            'event': 'contact',
+        });
 
         return false
     }

@@ -7,3 +7,16 @@ title: Apply
     <p>Fill this out to request tuition information and an online application form.</p>
     <iframe class="uk-width-1-1" height="1024" src="https://forms.oakhillk12.com/forms/request"></iframe>
 </div>
+
+<script>
+    window.addEventListener('', function (event) {
+        // ignore messages from the wrong domain
+        if (event.origin != 'https://forms.oakhillk12.com') {
+            return;
+        }
+
+        dataLayer.push({
+            'event': 'request application',
+        });
+    });
+</script>
