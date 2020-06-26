@@ -2,7 +2,11 @@
   <meta charset="utf-8">
   <link rel="canonical" href="{{ site.url }}{{ page.url }}" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+  {% if page.extrahead %}
+    {% for line in page.extrahead %}
+      {{ line }}
+    {% endfor %}
+  {% endif %}
   <title>{% if page.title %}{{ page.title }} | {% endif %} {{ site.title }}</title>
 
   <!-- Google Fonts -->
