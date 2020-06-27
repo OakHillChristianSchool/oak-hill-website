@@ -121,7 +121,7 @@ title: Visit Us
         <li id="visit-date"></li>
         <li id="visit-time"></li>
     </ul>
-    <form action="" method="POST" onsubmit="bookTime()">
+    <form action="" method="POST" onsubmit="bookTime(event)">
         <div class="uk-margin">
             <input name="customer" class="uk-input" type="text" placeholder="Name (Required)" required>
         </div>
@@ -355,7 +355,8 @@ title: Visit Us
         });
     }
 
-    function bookTime() {
+    function bookTime(event) {
+        event.preventDefault();
         $('#final-time').text(`Time: ${months[month]} ${date}, ${year} at ${time}`);
         data = $('form').serialize();
         $('#step-two').html('<div class="uk-text-center"><div uk-spinner="ratio:3"></div></div>');
@@ -368,9 +369,9 @@ title: Visit Us
         }).done(() => {
             $('#step-two').slideUp(.5, () => {
                 $('#step-three').slideDown();
-                dataLayer.push({
-                    'event': 'book visit',
-                });
+                // dataLayer.push({
+                //     'event': 'book visit',
+                // });
             });
         });
 
