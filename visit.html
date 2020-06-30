@@ -369,9 +369,9 @@ title: Visit Us
         }).done(() => {
             $('#step-two').slideUp(.5, () => {
                 $('#step-three').slideDown();
-                // dataLayer.push({
-                //     'event': 'book visit',
-                // });
+                dataLayer.push({
+                    'event': 'book visit',
+                });
             });
         });
 
