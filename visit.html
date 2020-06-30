@@ -204,6 +204,7 @@ title: Visit Us
                 }
                 first = false;
             }
+            // i % 7 == 0 --> sunday; counter <= this_day && month == this_month && year == this_year --> days before today; 
             tableDataFromIndex(i).html((first || i % 7 == 0 || (counter <= this_day && month == this_month && year == this_year)) || gray ? `<span class="uk-text-muted">${counter}</span>` : `<a href="#available-times" style="cursor: pointer;" class="uk-icon-button uk-text-primary check-times-day" uk-scroll>${counter}</a>`);
             counter++;
         }
@@ -236,7 +237,16 @@ title: Visit Us
 
     function setMonthToday() {
         let d = new Date();
-        setMonth(d.getMonth(), d.getFullYear());
+        // display the next month if it's the last day of a month
+        if (d.getDate() == daysInMonth(d.getMonth(), d.getFullYear())) {
+            if (d.getMonth() == 11) {
+                setMonth(0, d.getFullYear() + 1);
+            } else {
+                setMonth(d.getMonth() + 1, d.getFullYear());
+            }
+        } else {
+            setMonth(d.getMonth(), d.getFullYear());
+        }
     }
 
     function timeFromIndex(index) {
