@@ -1,7 +1,8 @@
 <div style="background-color:rgba(255,255,255,.5)">
 <nav class="uk-container uk-dark uk-position-z-index uk-navbar-container {% if include.transparent %}uk-navbar-transparent uk-light {% endif %}uk-visible@m" {% if include.transparent %}style="margin-bottom:-212px" {% endif %}uk-navbar>
     <div class="uk-position-absolute">
-        <a href="{{ '/' | relative_url }}" class="uk-navbar-item uk-logo uk-padding-small uk-padding-remove-left"><img style="height:80px"
+        <a href="{{ '/' | relative_url }}" class="uk-navbar-item uk-logo uk-padding-small uk-padding-remove-left">
+            <img style="height:80px" alt="Oak Hill Christian School"
                 src="{% if include.transparent %}{{ 'assets/images/logo/logo-white.png' | relative_url }}{% else %}{{ 'assets/images/logo/logo-web.png' | relative_url }}{% endif %}"></a>
     </div>
     <div class="uk-navbar-right uk-margin-large-right">
