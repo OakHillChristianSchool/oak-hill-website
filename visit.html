@@ -129,7 +129,7 @@ title: Visit Us
             <input name="studentage" class="uk-input" type="text" placeholder="Age of Student (Required)" required>
         </div>
         <div class="uk-margin">
-            <input name="email" class="uk-input" type="email" placeholder="Email (Required)" required>
+            <input id="email" name="email" class="uk-input" type="email" placeholder="Email (Required)" required>
         </div>
         <div class="uk-margin">
             <input name="phonenumber" class="uk-input" type="text" placeholder="Phone Number">
@@ -369,6 +369,7 @@ title: Visit Us
         event.preventDefault();
         $('#final-time').text(`Time: ${months[month]} ${date}, ${year} at ${time}`);
         data = $('form').serialize();
+        email = $('#email').val()
         $('#step-two').html('<div class="uk-text-center"><div uk-spinner="ratio:3"></div></div>');
         url = `https://script.google.com/macros/s/AKfycbz7WAG9TOkJWSpSgGMGTw08uS_VcHxiG4gk81bAEMUQtsN2Vj8/exec?date=${month + 1}/${date}/${year}&time=${time}&${data}&callback=?`;
         var request = jQuery.ajax({
@@ -381,6 +382,7 @@ title: Visit Us
                 $('#step-three').slideDown();
                 dataLayer.push({
                     'event': 'book visit',
+                    'email': email,
                 });
             });
         });
