@@ -11,7 +11,7 @@ title: Apply
 <script>
     window.addEventListener('message', function (event) {
         // ignore messages from the wrong domain
-        if (event.origin != 'https://forms.oakhillk12.com') {
+        if (event.origin != 'https://forms.oakhillk12.com' || event.data.type != 'form submitted') {
             return;
         }
 
