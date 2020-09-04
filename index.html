@@ -196,7 +196,7 @@ extrahead:
     </div>
 </div>
 
-<div id="contact" onsubmit="contact()" class="uk-container uk-margin-large">
+<div id="contact" onsubmit="contact(event)" class="uk-container uk-margin-large">
     <h1>Contact Us</h1>
     <p>Contact us for more information or with any questions you have.</p>
     <form action="" method="POST" class="uk-grid-small" uk-grid>
@@ -224,7 +224,8 @@ extrahead:
 
 <script>
 
-    function contact() {
+    function contact(event) {
+        event.preventDefault();
         email = $('#contact-email').val()
         data = $('form').serialize();
         url = `https://script.google.com/a/infercms.com/macros/s/AKfycbx1BiOoM_baAubzrsC1wsVqV8tWs61W3NZ34Moa3Sw6T-csDu8/exec?${data}&callback=?`
