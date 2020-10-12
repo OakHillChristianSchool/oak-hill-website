@@ -5,17 +5,18 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: document
+  path: _data/a-la-carte-courses.yml
+  label: A La Carte Courses
+  match: "**/*"
+- type: document
   path: _data/athletics.yml
   label: Athletics
-  match: "**/*"
 - type: document
   path: _data/calendar.yml
   label: Calendar
-  match: "**/*"
 - type: document
   path: _data/clubs-and-activities.yml
   label: Clubs and Activities
-  match: "**/*"
 - type: document
   path: _data/faculty.yml
   label: Faculty
