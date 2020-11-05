@@ -284,15 +284,15 @@ title: Visit Us
         }
         $('#month').text(`${months[month]} ${date}, ${year}`);
         column = sheets_days[day];
-        url = `https://sheets.googleapis.com/v4/spreadsheets/1FsW45tZVrAIaSnTpxOoDqqwz2RPdb9pupKOJFfO492c/values/Time%20Available!${column}7:${column}?key=AIzaSyDAzl7e7m5u1Qta9WhpX7l313zysHn2Ybw`;
+        url = `https://sheets.googleapis.com/v4/spreadsheets/1vTVT1z-a5O9IBOCOR5KilVnKFfbMf4_-Rd_H4AYlruk/values/Time%20Available!${column}7:${column}?key=AIzaSyDAzl7e7m5u1Qta9WhpX7l313zysHn2Ybw`;
 
         morning.html('<div uk-spinner></div>');
         afternoon.html('<div uk-spinner></div>');
 
         $.getJSON(url, function (data) {
-            url = `https://sheets.googleapis.com/v4/spreadsheets/1FsW45tZVrAIaSnTpxOoDqqwz2RPdb9pupKOJFfO492c/values/Time%20Unavailable!B13:E?key=AIzaSyDAzl7e7m5u1Qta9WhpX7l313zysHn2Ybw`;
+            url = `https://sheets.googleapis.com/v4/spreadsheets/1vTVT1z-a5O9IBOCOR5KilVnKFfbMf4_-Rd_H4AYlruk/values/Time%20Unavailable!B13:E?key=AIzaSyDAzl7e7m5u1Qta9WhpX7l313zysHn2Ybw`;
             $.getJSON(url, function (days_not_avail) {
-                url = `https://sheets.googleapis.com/v4/spreadsheets/1FsW45tZVrAIaSnTpxOoDqqwz2RPdb9pupKOJFfO492c/values/Bookings!B7:H?key=AIzaSyDAzl7e7m5u1Qta9WhpX7l313zysHn2Ybw`
+                url = `https://sheets.googleapis.com/v4/spreadsheets/1vTVT1z-a5O9IBOCOR5KilVnKFfbMf4_-Rd_H4AYlruk/values/Bookings!B7:H?key=AIzaSyDAzl7e7m5u1Qta9WhpX7l313zysHn2Ybw`
                 $.getJSON(url, function (bookings) {
                     items = []
                     if (bookings.values) {
@@ -371,7 +371,7 @@ title: Visit Us
         data = $('form').serialize();
         email = $('#email').val()
         $('#step-two').html('<div class="uk-text-center"><div uk-spinner="ratio:3"></div></div>');
-        url = `https://script.google.com/macros/s/AKfycbz7WAG9TOkJWSpSgGMGTw08uS_VcHxiG4gk81bAEMUQtsN2Vj8/exec?date=${month + 1}/${date}/${year}&time=${time}&${data}&callback=?`;
+        url = `https://script.google.com/a/gmail.com/macros/s/AKfycbxzIpJBm_qaAwfLXdecc_h7axU8fpGhb16WjuYVuuFgkfFOc-hr/exec?date=${month + 1}/${date}/${year}&time=${time}&${data}&callback=?`;
         var request = jQuery.ajax({
             crossDomain: true,
             url: url,
