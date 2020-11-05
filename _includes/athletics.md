@@ -1,2 +1,2 @@
 Oak Hill offers Boys' and Girls' Junior Varsity Cross Country and Girls' JV Volleyball Teams.  
-Boys' basketball is being planned for 2019-20.  Contact the [office](mailto:office@oakhillk12.com) or our Athletic Director, [Arelis Gil](mailto:agil@oakhillk12.com).
+We have future plans to add Boys' basketball as well as elementary school sports teams.  If you have any further questions, you can contact the [office](mailto:office@oakhillk12.com) or our Athletic Director, [Arelis Gil](mailto:agil@oakhillk12.com).

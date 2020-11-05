@@ -229,7 +229,6 @@ extrahead:
         email = $('#contact-email').val()
         data = $('form').serialize();
         url = `https://script.google.com/a/gmail.com/macros/s/AKfycbwffzX73SVP7bJGOHxkJGwXZFybhUeOO0Zgj-H-b4z2l8fqsQQ/exec?${data}&callback=?`
-
         $('#contact').html('<div class="uk-text-center"><div uk-spinner="ratio:3"></div></div>');
 
         var request = jQuery.ajax({
