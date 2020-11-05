@@ -284,15 +284,15 @@ title: Visit Us
         }
         $('#month').text(`${months[month]} ${date}, ${year}`);
         column = sheets_days[day];
-        url = `https://sheets.googleapis.com/v4/spreadsheets/1vTVT1z-a5O9IBOCOR5KilVnKFfbMf4_-Rd_H4AYlruk/values/Time%20Available!${column}7:${column}?key=AIzaSyDAzl7e7m5u1Qta9WhpX7l313zysHn2Ybw`;
+        url = `https://sheets.googleapis.com/v4/spreadsheets/1vTVT1z-a5O9IBOCOR5KilVnKFfbMf4_-Rd_H4AYlruk/values/Time%20Available!${column}7:${column}?key=AIzaSyDCL2JGEo_oR9GsIWL3TjyJCBpsz3DMfBM`;
 
         morning.html('<div uk-spinner></div>');
         afternoon.html('<div uk-spinner></div>');
 
         $.getJSON(url, function (data) {
-            url = `https://sheets.googleapis.com/v4/spreadsheets/1vTVT1z-a5O9IBOCOR5KilVnKFfbMf4_-Rd_H4AYlruk/values/Time%20Unavailable!B13:E?key=AIzaSyDAzl7e7m5u1Qta9WhpX7l313zysHn2Ybw`;
+            url = `https://sheets.googleapis.com/v4/spreadsheets/1vTVT1z-a5O9IBOCOR5KilVnKFfbMf4_-Rd_H4AYlruk/values/Time%20Unavailable!B13:E?key=AIzaSyDCL2JGEo_oR9GsIWL3TjyJCBpsz3DMfBM`;
             $.getJSON(url, function (days_not_avail) {
-                url = `https://sheets.googleapis.com/v4/spreadsheets/1vTVT1z-a5O9IBOCOR5KilVnKFfbMf4_-Rd_H4AYlruk/values/Bookings!B7:H?key=AIzaSyDAzl7e7m5u1Qta9WhpX7l313zysHn2Ybw`
+                url = `https://sheets.googleapis.com/v4/spreadsheets/1vTVT1z-a5O9IBOCOR5KilVnKFfbMf4_-Rd_H4AYlruk/values/Bookings!B7:H?key=AIzaSyDCL2JGEo_oR9GsIWL3TjyJCBpsz3DMfBM`
                 $.getJSON(url, function (bookings) {
                     items = []
                     if (bookings.values) {
