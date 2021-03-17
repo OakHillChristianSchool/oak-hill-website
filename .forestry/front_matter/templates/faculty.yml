@@ -15,3 +15,5 @@ fields:
   - type: file
     name: image
     label: image
+pages:
+- _data/faculty.yml

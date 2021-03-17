@@ -1,3 +1,4 @@
+---
 - name: Robert Loren Thoburn, Jr.
   bio: Robert Thoburn teaches history, government and economics.  With his wife, Sheila,
     he lives in Herndon and has five sons and four daughters as well as five grandchildren.  Robert
@@ -12,23 +13,23 @@
     and other courses.  She and her husband attend Calvary Chapel DC Metro.
   image: assets/images/faculty/gil.jpg
 - name: Andrew Privler
-  bio: "Andrew Privler teaches mathematics.  He studied history earning a B.A and\
-    \ an M.A.  He went on to become a math teacher for over 30 years in New York City\
-    \ and in Prince George\u2019s County schools."
+  bio: Andrew Privler teaches mathematics.  He studied history earning a B.A and an
+    M.A.  He went on to become a math teacher for over 30 years in New York City and
+    in Prince George’s County schools.
   image: assets/images/faculty/privler.jpg
 - name: David Sabin
-  bio: "David Sabin teaches English and Boys' PE. Born into a family of missionaries\
-    \ to Botswana and Guatamala, he has taught international students for 15 years\
-    \ and became a fluent speaker of Spanish. Mr. Sabin participates in music ministry,\
-    \ prayer team and a food bank at his congregation, Grace Tabernacle Church, in\
-    \ Ashburn. He is married with two children and holds a B.S. in English Education\
-    \ and a master\u2019s in Educational Administration from Pensacola Christian College."
+  bio: David Sabin teaches English and Boys' PE. Born into a family of missionaries
+    to Botswana and Guatamala, he has taught international students for 15 years and
+    became a fluent speaker of Spanish. Mr. Sabin participates in music ministry,
+    prayer team and a food bank at his congregation, Grace Tabernacle Church, in Ashburn.
+    He is married with two children and holds a B.S. in English Education and a master’s
+    in Educational Administration from Pensacola Christian College.
   image: assets/images/faculty/sabin.jpg
 - name: Anne Simpson
-  bio: "Anne Simpson teaches music full time.   She first came to Oak Hill in 2003.\
-    \ Anne has earned her Kod\xE1ly music teaching certification from New Saint Andrews\
-    \ College.  She also teaches musicianship classes at the Fairfax Choral Society.\
-    \ She speaks Russian on an advanced level and also teaches piano."
+  bio: Anne Simpson teaches music full time.   She first came to Oak Hill in 2003.
+    Anne has earned her Kodály music teaching certification from New Saint Andrews
+    College.  She also teaches musicianship classes at the Fairfax Choral Society.
+    She speaks Russian on an advanced level and also teaches piano.
   image: assets/images/faculty/asimpson.jpg
 - name: Jonathan Simpson
   bio: Jonathan Simpson has a B.A. from Bob Jones University where he studied Bible
@@ -57,8 +58,8 @@
     Presbyterian Church in Leesburg and have two beautiful daughters.
   image: assets/images/faculty/culver.jpg
 - name: Sheila Key Thoburn
-  bio: "Sheila Key Thoburn serves as Director of Curriculum and has been influential\
-    \ in creating a classical curriculum at Oak Hill over the years.  She grew up\
-    \ in Arlington and is a great mother to her and Robert\u2019s children.  She thoroughly\
-    \ enjoys reading almost any book and runs an Etsy shop which can be found [here](https://www.etsy.com/people/SKT74)."
+  bio: Sheila Key Thoburn serves as Director of Curriculum and has been influential
+    in creating a classical curriculum at Oak Hill over the years.  She grew up in
+    Arlington and is a great mother to her and Robert’s children.  She thoroughly
+    enjoys reading almost any book and runs an Etsy shop which can be found [here](https://www.etsy.com/people/SKT74).
   image: assets/images/faculty/sthoburn.jpg
