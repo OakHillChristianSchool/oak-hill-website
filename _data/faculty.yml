@@ -1,7 +1,4 @@
 ---
-- name: Nancy Weathers
-  bio: Kindergarten/Junior Kindergarten. Since 2004
-  image: "/assets/weatherssized-250x300.png"
 - name: Robert Loren Thoburn, Jr.
   bio: 'Robert Thoburn II, founder and School Headmaster. Robert and his wife Sheila
     spend most of their time living and working in Herndon.  They have five sons and
@@ -100,3 +97,6 @@
     Hill and others.  He is a rising senior at New Saint Andrews College and teaches
     advanced Latin.
   image: "/assets/seth-thoburn.jpg"
+- name: Nancy Weathers
+  bio: Kindergarten/Junior Kindergarten. Since 2004
+  image: "/assets/weatherssized-250x300.png"
