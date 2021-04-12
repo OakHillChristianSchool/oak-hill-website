@@ -1,16 +1,4 @@
 ---
-- name: Abigail Thoburn
-  bio: 'Abigail Faith Thoburn is a rising senior at New Saint Andrews College.  She
-    is currently taking a leave of absence to work as the school Office Manager.  '
-  image: "/assets/abigail.jpg"
-- name: Michael Harkin
-  bio: 'Michael Harkin, Principal of our Lynchburg Campus.   Mr. Harkin is the founder
-    and former Headmaster of Tidewater Classical Academy in Virginia Beach.  He is
-    the President of FeO Inc. and served as a captain the US Marine Corps.  He holds
-    a BA in classics from the University of Idaho, a BA in Liberal Arts and Culture
-    from New Saint Andrews College and an MBA from Regent University.  He is a member
-    of Providence Church, Lynchburg.  Courses taught:  Omnibus, Worldview'
-  image: "/assets/harkin.jpg"
 - name: Robert Loren Thoburn, Jr.
   bio: 'Robert Thoburn II, founder and School Headmaster. Robert and his wife Sheila
     spend most of their time living and working in Herndon.  They have five sons and
@@ -20,6 +8,25 @@
     from Pepperdine University School of Law.  Courses taught in past years:  Omnibus
     (history, government, economics).  '
   image: assets/images/faculty/rthoburn.jpg
+- name: Michael Harkin
+  bio: 'Michael Harkin, Principal of our Lynchburg Campus.   Mr. Harkin is the founder
+    and former Headmaster of Tidewater Classical Academy in Virginia Beach.  He is
+    the President of FeO Inc. and served as a captain the US Marine Corps.  He holds
+    a BA in classics from the University of Idaho, a BA in Liberal Arts and Culture
+    from New Saint Andrews College and an MBA from Regent University.  He is a member
+    of Providence Church, Lynchburg.  Courses taught:  Omnibus, Worldview'
+  image: "/assets/harkin.jpg"
+- name: Abigail Thoburn
+  bio: 'Abigail Faith Thoburn is a rising senior at New Saint Andrews College.  She
+    is currently taking a leave of absence to work as the school Office Manager.  '
+  image: "/assets/abigail.jpg"
+- name: Rita Barillas
+  bio: 'Rita Barillas joined us in 2014 after teaching at a classical Christian school
+    in Georgia. She is working on her M.A.T. in secondary English and currently holds
+    a B.S. in English Magna Cum Laude from Liberty University. Originally from Pennsylvania,
+    Mrs. Barillas spent seven years teaching on the mission field in El Salvador.  Teaching:  elementary
+    school'
+  image: assets/images/faculty/barillas.jpg
 - name: Arelis Gil
   bio: Arelis Gil earned an M.Ed. and B.A. from the University of Nevada, Las Vegas.  She
     spent six years at Palo Verde High School in Las Vegas teaching honors history
@@ -46,13 +53,6 @@
     He presents his research regularly both nationally and internationally and is
     published widely. [https://gmu.academia.edu/justinsutters](https://gmu.academia.edu/justinsutters)
   image: assets/images/faculty/sutters.jpg
-- name: Rita Barillas
-  bio: Rita Barillas joined us in 2014 after teaching at a classical Christian school
-    in Georgia and has three children attending Oak Hill.  She is working on her M.A.T.
-    in secondary English and currently holds a B.S. in English Magna Cum Laude from
-    Liberty University.  Originally from Pennsylvania, Mrs. Barillas spent seven years
-    teaching on the mission field in El Salvador.
-  image: assets/images/faculty/barillas.jpg
 - name: Katherine Culver
   bio: Katherine Culver earned an elementary education degree as an honor student
     at Methodist University.  She taught at another ACCS school before coming to Oak
