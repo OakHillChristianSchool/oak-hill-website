@@ -1,11 +1,4 @@
 ---
-- name: Adam Thoburn
-  bio: 'Adam Jacob Thoburn teaches science at Oak Hill.  While he currently teaches
-    online from the Midwest, he and his wife, Cherie, and their 4 children will be
-    moving to Herndon for this coming school year.  Adam is a graduate of New Saint
-    Andrews College where he studied Natural History with Riot and the Dance producer
-    Gordon Wilson.  Adam is the founder of Thoburn Woodworking https://www.facebook.com/TorbjornWoodworking/.  '
-  image: "/assets/37332761_10155760098682201_7718469020218818560_n.jpg"
 - name: Robert Loren Thoburn, Jr.
   bio: 'Robert Thoburn II, founder and School Headmaster. Robert and his wife Sheila
     spend most of their time living and working in Herndon.  They have five sons and
@@ -75,9 +68,17 @@
     He presents his research regularly both nationally and internationally and is
     published widely. https://gmu.academia.edu/justinsutters
   image: assets/images/faculty/sutters.jpg
+- name: Adam Thoburn
+  bio: 'Adam Jacob Thoburn teaches science at Oak Hill.  While he currently teaches
+    online from the Midwest, he and his wife, Cherie, and their 4 children will be
+    moving to Herndon for this coming school year.  Adam is a graduate of New Saint
+    Andrews College where he studied Natural History with Riot and the Dance producer
+    Gordon Wilson.  Adam is the founder of Thoburn Woodworking https://www.facebook.com/TorbjornWoodworking/.  '
+  image: "/assets/37332761_10155760098682201_7718469020218818560_n.jpg"
 - name: Sheila Key Thoburn
-  bio: Sheila Key Thoburn serves as Director of Curriculum and has been influential
-    in creating a classical curriculum at Oak Hill over the years.  She grew up in
-    Arlington and is a great mother to her and Robert’s children.  She thoroughly
-    enjoys reading almost any book and runs an Etsy shop which can be found [here](https://www.etsy.com/people/SKT74).
+  bio: Sheila Key Thoburn was influential in creating a classical curriculum at Oak
+    Hill over the years. She grew up in Arlington and is a great mother to her and
+    Robert’s children.  She thoroughly enjoys reading almost any book and, when she
+    can, runs an Etsy shop which can be found [here](https://www.etsy.com/people/SKT74).
+    Mrs. Thoburn serves as Director of Curriculum and teaches elementary school.
   image: assets/images/faculty/sthoburn.jpg
