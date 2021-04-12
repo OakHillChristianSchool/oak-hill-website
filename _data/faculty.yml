@@ -1,7 +1,4 @@
 ---
-- name: Nery Washington
-  bio: Kindergarten/Junior Kindergarten
-  image: "/assets/new-washington.jpg"
 - name: Robert Loren Thoburn, Jr.
   bio: 'Robert Thoburn II, founder and School Headmaster. Robert and his wife Sheila
     spend most of their time living and working in Herndon.  They have five sons and
@@ -109,3 +106,6 @@
 - name: Moriah MacBeth
   bio: Kindergarten/Junior Kindergarten. Since 2014
   image: "/assets/100_sta_macbeth_moriah.JPG"
+- name: Nery Washington
+  bio: Kindergarten/Junior Kindergarten
+  image: "/assets/new-washington.jpg"
