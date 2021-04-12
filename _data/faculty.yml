@@ -1,7 +1,7 @@
 ---
-- name: Yanet Birehan
-  bio: Kindergarten/Junior Kindergarten. Since 2019
-  image: ''
+- name: Moriah MacBeth
+  bio: Kindergarten/Junior Kindergarten. Since 2014
+  image: "/assets/100_sta_macbeth_moriah.JPG"
 - name: Robert Loren Thoburn, Jr.
   bio: 'Robert Thoburn II, founder and School Headmaster. Robert and his wife Sheila
     spend most of their time living and working in Herndon.  They have five sons and
@@ -103,3 +103,6 @@
 - name: Nancy Weathers
   bio: Kindergarten/Junior Kindergarten. Since 2004
   image: "/assets/weatherssized-250x300.png"
+- name: Yanet Birehan
+  bio: Kindergarten/Junior Kindergarten. Since 2019
+  image: ''
