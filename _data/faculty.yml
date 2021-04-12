@@ -1,10 +1,4 @@
 ---
-- name: Steven Powers
-  bio: 'Steven Powers teaches Algebra and facilitates workshops with our upper school
-    students.  Mr. Powers holds a B.A. in Russian Studies from George Mason.  He has
-    four boys who attend OH as well as a new daughter.  His family belongs to St.
-    Athanasius Lutheran Church.  '
-  image: ''
 - name: Robert Loren Thoburn, Jr.
   bio: 'Robert Thoburn II, founder and School Headmaster. Robert and his wife Sheila
     spend most of their time living and working in Herndon.  They have five sons and
@@ -45,10 +39,17 @@
     and other courses. She and her husband attend Calvary Chapel DC Metro.  Mrs. Gil
     came to OH in 2014 and currently serves as our Athletic Director. '
   image: assets/images/faculty/gil.jpg
+- name: Steven Powers
+  bio: 'Steven Powers teaches Algebra and facilitates workshops with our upper school
+    students.  Mr. Powers holds a B.A. in Russian Studies from George Mason.  He has
+    four boys who attend OH as well as a new daughter.  His family belongs to St.
+    Athanasius Lutheran Church.  '
+  image: ''
 - name: Andrew Privler
-  bio: Andrew Privler teaches mathematics.  He studied history earning a B.A and an
-    M.A.  He went on to become a math teacher for over 30 years in New York City and
-    in Prince George’s County schools.
+  bio: Andrew Privler teaches mathematics. He studied history and education earning
+    a B.A. from the City College of New York as well as an M.A. in Administration
+    from Bowie State University.  He went on to become a math teacher for over 30
+    years in New York City and in Prince George’s County schools.
   image: assets/images/faculty/privler.jpg
 - name: David Sabin
   bio: David Sabin teaches English and Boys' PE. Born into a family of missionaries
