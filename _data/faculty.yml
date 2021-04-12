@@ -1,10 +1,9 @@
 ---
-- name: Robert Thoburn III and Sharon Thoburn
-  bio: |-
-    Robert graduated from New Saint Andrews with a B.A. in Liberal Arts and Culture as well as a Music Certification.  He is currently earning his Kodály music teaching certificate.  Robert and his wife Sharon attend Providence Church in Lynchburg.   Courses:  Omnibus, English, Latin, Music.
-
-    Sharon Thoburn holds an A.A. in Liberal Arts and Culture from New Saint Andrews College.  She teaches Introductory Latin.
-  image: "/assets/116022829_10217415863575532_5588408931299946306_n.jpg"
+- name: Seth Thoburn
+  bio: Seth Thoburn is a coding expert extraordinaire working for Canon Press, Oak
+    Hill and others.  He is a rising senior at New Saint Andrews College and teaches
+    advanced Latin.
+  image: "/assets/seth-thoburn.jpg"
 - name: Robert Loren Thoburn, Jr.
   bio: 'Robert Thoburn II, founder and School Headmaster. Robert and his wife Sheila
     spend most of their time living and working in Herndon.  They have five sons and
@@ -81,6 +80,12 @@
     Andrews College where he studied Natural History with Riot and the Dance producer
     Gordon Wilson.  Adam is the founder of Thoburn Woodworking https://www.facebook.com/TorbjornWoodworking/.  '
   image: "/assets/37332761_10155760098682201_7718469020218818560_n.jpg"
+- name: Robert Thoburn III and Sharon Thoburn
+  bio: |-
+    Robert graduated from New Saint Andrews with a B.A. in Liberal Arts and Culture as well as a Music Certification.  He is currently earning his Kodály music teaching certificate.  Robert and his wife Sharon attend Providence Church in Lynchburg.   Courses:  Omnibus, English, Latin, Music.
+
+    Sharon Thoburn holds an A.A. in Liberal Arts and Culture from New Saint Andrews College.  She teaches Introductory Latin.
+  image: "/assets/116022829_10217415863575532_5588408931299946306_n.jpg"
 - name: Sheila Key Thoburn
   bio: Sheila Key Thoburn was influential in creating a classical curriculum at Oak
     Hill over the years. She grew up in Arlington and is a great mother to her and
