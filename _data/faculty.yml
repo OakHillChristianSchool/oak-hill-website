@@ -1,4 +1,12 @@
 ---
+- name: Michael Harkin
+  bio: 'Michael Harkin, Principal of our Lynchburg Campus.   Mr. Harkin is the founder
+    and former Headmaster of Tidewater Classical Academy in Virginia Beach.  He is
+    the President of FeO Inc. and served as a captain the US Marine Corps.  He holds
+    a BA in classics from the University of Idaho, a BA in Liberal Arts and Culture
+    from New Saint Andrews College and an MBA from Regent University.  He is a member
+    of Providence Church, Lynchburg.  Courses taught:  Omnibus, Worldview'
+  image: "/assets/harkin.jpg"
 - name: Robert Loren Thoburn, Jr.
   bio: 'Robert Thoburn II, founder and School Headmaster. Robert and his wife Sheila
     spend most of their time living and working in Herndon.  They have five sons and
