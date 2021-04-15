@@ -131,7 +131,12 @@
 @mixin hook-base-h2(){}
 @mixin hook-base-h3(){}
 @mixin hook-base-h4(){}
-@mixin hook-base-h5(){}
+@mixin hook-base-h5(){
+    text-transform: uppercase;
+    font-family: $global-font-family;
+    font-weight: $base-body-font-weight;
+    letter-spacing: .125em;
+}
 @mixin hook-base-h6(){}
 @mixin hook-base-hr(){}
 @mixin hook-base-blockquote(){

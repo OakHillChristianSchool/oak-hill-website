@@ -4,6 +4,8 @@
     url: http://oakhillk12.blogspot.com/
   - title: Our Campus
     url: /campus
+  - title: New Lynchburg Campus
+    url: /lynchburg-campus
   - title: History and Faith
     url: /history-faith
   - title: School Calendar and Hours
@@ -12,16 +14,16 @@
     url: /faculty
   - title: International Students
     url: /international-students
-  - title: Duolingo English Test
-    url: /duolingo-english-test
+  - title: Hybrid Program
+    url: /hybrid-program
 - title: Academics
   pages:
-  - title: Preschool and K5
+  - title: PK and K-5
     url: /preschool-k5
-  - title: Lower School
-    url: /lower-school
-  - title: Upper School
-    url: /upper-school
+  - title: Junior High
+    url: /junior-high
+  - title: High School
+    url: /high-school
 - title: Students
   pages:
   - title: Clubs and Activites
