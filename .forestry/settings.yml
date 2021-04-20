@@ -14,6 +14,9 @@ sections:
   path: _data/calendar.yml
   label: Calendar
 - type: document
+  path: _includes/calendar-and-hours.md
+  label: Calendar and Hours
+- type: document
   path: _data/clubs-and-activities.yml
   label: Clubs and Activities
 - type: document
