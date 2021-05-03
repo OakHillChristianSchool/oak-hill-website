@@ -7,7 +7,7 @@ $base-body-font-weight: 200;
 $global-secondary-background: #efefef;
 $global-primary-background: #8c242b;
 $global-link-color: $global-primary-background;
-$global-link-hover-color: $global-link-color;
+$global-link-hover-color: lighten($global-link-color, 10%);
 $overlay-primary-background: rgba(#1e1e1e, 0.6);
 $inverse-global-color: #fff;
 $inverse-global-muted-color: #fff;
@@ -82,4 +82,27 @@ $navbar-background: #ffffff;
 
 .check-times-day:hover {
     text-decoration: none;
+}
+
+[style*="--aspect-ratio"] > :first-child {
+    width: 100%;
+  }
+  [style*="--aspect-ratio"] > img {  
+    height: auto;
+  } 
+  @supports (--custom:property) {
+    [style*="--aspect-ratio"] {
+      position: relative;
+    }
+    [style*="--aspect-ratio"]::before {
+      content: "";
+      display: block;
+      padding-bottom: calc(100% / (var(--aspect-ratio)));
+    }  
+    [style*="--aspect-ratio"] > :first-child {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+    }  
 }

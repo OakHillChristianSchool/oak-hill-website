@@ -3,6 +3,10 @@
 @mixin hook-accordion-title(){
 
     overflow: hidden;
+    text-decoration: none;
+
+    @include hook-base-h5();
+
 
     &::before {
         content: "";
