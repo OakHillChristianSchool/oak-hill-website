@@ -215,6 +215,9 @@ extrahead:
         <div class="uk-width-1-1@s">
             <input id="contact-email" class="uk-input" name="email" type="email" placeholder="Email" required>
         </div>
+        <div class="uk-width-1-1@s">
+            <input id="contact-city" class="uk-input" name="city" type="text" placeholder="City" required>
+        </div>
         <div class="uk-width-1-1">
             <input class="uk-input" name="howheard" type="text" placeholder="How did you hear about Oak Hill?">
         </div>
@@ -234,7 +237,7 @@ extrahead:
         event.preventDefault();
         email = $('#contact-email').val()
         data = $('form').serialize();
-        url = `https://script.google.com/a/gmail.com/macros/s/AKfycbwffzX73SVP7bJGOHxkJGwXZFybhUeOO0Zgj-H-b4z2l8fqsQQ/exec?${data}&callback=?`
+        url = `https://script.google.com/macros/s/AKfycbxvHXuRNs45KoxWiXL9bJf-ovxtfrJECYZOC0Qu8B-0YG7UEVhJu82YaojEiDFaGKdh/exec?${data}&callback=?`
         $('#contact').html('<div class="uk-text-center"><div uk-spinner="ratio:3"></div></div>');
 
         var request = jQuery.ajax({
