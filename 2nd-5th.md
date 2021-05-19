@@ -92,3 +92,14 @@ Students continue to practice **Reading** aloud in class using great literature 
 * _A Door in the Wall_, Marguerite de Angeli
 * _Duncan's War_, Douglas Bond
 * _100 Cupboards_, N.D. Wilson
+
+**Phonics and Spelling:**
+
+* Victory Drill Book
+* Phonics Pathways
+* Evan-Moor's Building Spelling Skills
+* Andrew Pudewa's Phonetic Zoo
+
+**Math**
+
+Students master basic math skills and get lots of practice and review using Saxon one grade level ahead: _Math 3, Math 54, Math 65, Math 76_
