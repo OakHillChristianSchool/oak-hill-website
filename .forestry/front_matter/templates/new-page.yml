@@ -12,6 +12,7 @@ fields:
     - image-title
     - simple-title
     - image-title-full-image
+    - simple-title-formatted
     source:
       type: simple
       section: jekyll-pages
