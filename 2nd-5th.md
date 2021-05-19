@@ -4,7 +4,6 @@ container_size: ''
 image: "/assets/4th-and-5th.jpg"
 title: 'Grades 2-5 '
 redirect_from: []
-published: false
 
 ---
 **Grammar School Curriculum Overview and Sampling**
