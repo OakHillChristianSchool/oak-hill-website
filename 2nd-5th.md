@@ -83,4 +83,12 @@ Students continue to practice **Reading** aloud in class using great literature 
 
 * _The Cricket in Times Square_
 * _The Silver Chair_, by C.S. Lewis
-* 
+* _Dangerous Journey_, Paul Bunyan
+* _Robin Hood_, by Roger Green
+* _This Was John Calvin_, by Van Helsema
+* _Beowulf_, translated by Seamus Heaney
+* _The Hobbit_, J.R.R. Tolkien
+* _Mary Poppins_, P.L. Travers
+* _A Door in the Wall_, Marguerite de Angeli
+* _Duncan's War_, Douglas Bond
+* _100 Cupboards_, N.D. Wilson
