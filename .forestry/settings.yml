@@ -28,7 +28,6 @@ sections:
 - type: document
   path: _data/navigation.yml
   label: Navigation
-  match: "**/*"
 upload_dir: assets
 public_path: "/assets"
 front_matter_path: ''
