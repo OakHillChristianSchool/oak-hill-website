@@ -7,15 +7,18 @@ redirect_from:
 container_size: xsmall
 
 ---
-Nearly all four year olds in our preschool learn to read using our proven phonics method while Kindergarten students typically read on a third grade level by the end of the year. Curriculum includes math, science, Bible, music, art, penmanship, foreign language, history and geography as well as outdoor play. Our classes at this level feature no pressure. Students learn through music, crafts, physical activity and in many other ways. We use Saxon Math 1 in the Kindergarten and Saxon Kindergarten Math in Junior Kindergarten.  Three year olds receive the same instruction but at a slower pace.
+**Pre-K (ages 3-4), Kindergarten, First Grade**
 
-Grade school, or grammar school, is a time for developing structures that reward self-control and personal discipline. Habits and concepts learned at this early age will stick for life if they are taught in an interesting and engaging way.
+Give your child a foundation and skills that he will use at every level of learning in the future. OH offers an outstanding academic program. With plenty of play and lots of enjoyment, students learn the correct habits from the time they begin learning to read and write.
 
-* Using <a href="https://www.shurley.com/" target="_blank">Shurley English</a>, students learn grammar. Come see first graders diagramming sentences!
-* The outstanding <a href="http://www.iew.com/" target="_blank">Excellence in Writing</a> program teaches artful communication.
-* <a href="http://www.hmhco.com/shop/education-curriculum/math/saxon-math" target="_blank">Saxon Math</a> is used one year ahead of grade level preparing students for pre-algebra and beyond.
-* Students travel to our science lab for elementary courses in Chemistry, Astronomy & Geoscience, Physics, and Biology. They learn scientific method and how to organize a laboratory notebook.
-* Latin with our veteran language instructors.
-* Students read original works, from Curious George and Madeline in first grade to Robin Hood and Where the Red Fern Grows in older grades. As much as possible books that relate to a particular period in history are read while students are studying that time in history.
+While there is no pressure, in a class of twenty 4 year olds, usually 20 can read by the end of the year. Students learn to read using phonics, mastering their ability at each level of phonics and reading before moving on to the next. No matter where they end up in school, students trained in this method are likely to be the best students in the class in years to come.
 
-Even from this age students are pushed towards the solidifying analysis and communication of logic and rhetoric levels of learning, though the primary focus is on filling the mind with knowledge. If you visit, you may see 5th graders having a class debate of British vs. Colonists, 4th graders giving discovery presentations about electricity, 3rd graders acting out ancient customs, 2nd graders dressing up for a play, or 1st graders explaining their favorite U.S. Presidents.
+Kindergarten students typically read on a third grade level by the end of the year. Curriculum in PK and Kindergarten includes math, science, Bible, music, art, penmanship, some foreign language, history and geography. Students have many crafts and great science activities as well as two outdoor playtimes every day.
+
+We use Saxon Math 1 in the Kindergarten and Saxon Kindergarten Math in Junior Kindergarten. Three year olds receive the same instruction but at a slower pace.
+
+In PK-1st we offer multiple reading groups allowing advanced students to move ahead and as fast as they are able. Challenge math and spelling.
+
+Good penmanship is taught and practiced. Students at this age do not use computers at school.
+
+First grade adds...science activities (growing dandelion seeds, observing the egret and ducks and turtles at the nature reserve, dissecting owl pellets), Virginia geography, retelling fairy tales, challenge spelling words.
