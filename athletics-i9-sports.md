@@ -14,7 +14,7 @@ published: false
 Play a sport with your friends! i9 Sports offers co-ed teams for various sports.
 
 Registration now open for the fall! (Locations may vary)
-
+<p></p>
 **<u>Flag Football</u>**
 
 **Start Date:** 9/25/2021
@@ -26,7 +26,7 @@ Registration now open for the fall! (Locations may vary)
 **Program Fee:** $159 if paid by 6/13/2021
 
 For more details and registration click [here](https://www.i9sports.com/programs/79579/Centreville-Centreville-Flag-Football-League-September-2021 "here")
-
+<p></p>
 **<u>Soccer</u>**
 
 **Start Date:** 9/25/2021
@@ -38,7 +38,7 @@ For more details and registration click [here](https://www.i9sports.com/programs
 **Program Fee:** $159 if paid by 6/13/2021
 
 For more details and registration click [here](https://www.i9sports.com/programs/79581/Centreville-Centreville-Soccer-League-September-2021 "here")
-
+<p></p>
 **<u>Basketball</u>**
 
 **Start Date:** 9/25/2021
@@ -50,7 +50,7 @@ For more details and registration click [here](https://www.i9sports.com/programs
 **Program Fee:** $159 if paid by 6/13/2021
 
 For more details and registration click [here](https://www.i9sports.com/programs/79600/Centreville-Centreville-Basketball-League-September-2021 "here")
-
+<p></p>
 **<u>Baseball</u>**
 
 **Start Date:** 9/25/2021
@@ -62,7 +62,7 @@ For more details and registration click [here](https://www.i9sports.com/programs
 **Program Fee:** $159 if paid by 6/13/2021
 
 For more details and registration click [here](https://www.i9sports.com/programs/79595/Centreville-Centreville-Baseball-Instructional-Program-September-2021 "here")
-
+<p></p>
 **<u>Volleyball</u>**
 
 **Start Date:** 9/25/2021
