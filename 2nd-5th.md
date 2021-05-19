@@ -46,3 +46,28 @@ Even from this age students are pushed towards the solidifying analysis and comm
 * Cursive Words and Drawing: Math Terms
 
 **English Grammar** and sentence diagramming is mastered using <a href="https://www.shurley.com/?583c10bfdbd326ba151c5e39186a4" target="_blank">Shurley English</a> levels 2-5
+
+**Science**: Students travel to our lab to study courses using Apologia curricula. They learn scientific method and how to organize a laboratory notebook.
+
+**2nd & 3rd:**
+
+* Elementary Chemistry
+* Astronomy
+
+**4th & 5th:**
+
+* Biology (Botany and Zoology)
+* Science in the Industrial Age
+
+**Latin** using Timothy Griffith's _Orbis Pictus: the Natural World_
+
+**Basic music literacy** using our own Kodaly method curriculum. Each student is trained to see music as a language. When he sees a piece of music, he can sing it. (The voice is an instrument.) When a song is heard, the student can write it. Elementary students learn...
+
+* To read music written in the pentatonic scale
+* To identify basic rhythmic patterns
+* To notate basic melodic and rhythmic patterns
+* To sing in parts with canons, partner songs, and ostinatos
+
+**Art** is taught as an integral part of history and other courses. Students make frequent trips to the National Gallery and learn drawing and appreciation each week from Dr. Justin Sutters.
+
+**Artful Writing** is practiced every year using 
