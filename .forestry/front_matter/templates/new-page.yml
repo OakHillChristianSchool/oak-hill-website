@@ -7,9 +7,13 @@ fields:
   default: []
   config:
     required: false
-    options: []
+    options:
+    - image-title-formatted
+    - image-title
+    - simple-title
+    - image-title-full-image
     source:
-      type: pages
+      type: simple
       section: jekyll-pages
       file: 
       path: 
