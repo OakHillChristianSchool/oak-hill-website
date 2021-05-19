@@ -44,7 +44,7 @@ Even from this age students are pushed towards the solidifying analysis and comm
 * <a href="https://classicalconversationsbooks.com/products/sc020" target="_blank">Cursive Words and Drawing: Scripture</a>
 * Cursive Words and Drawing: Math Terms
 
-**English Grammar** and sentence diagramming is mastered using <a href="https://www.shurley.com/?583c10bfdbd326ba151c5e39186a4" target="_blank">Shurley English</a> levels 2-5
+**English Grammar** and sentence diagramming is mastered using <a href="https://cathyduffyreviews.com/homeschool-reviews-core-curricula/composition-and-grammar/graded-language-arts-curricula/shurley-english#" target="_blank">Shurley English</a> levels 2-5
 
 **Science**: Students travel to our lab to study courses using Apologia curricula. They learn scientific method and how to organize a laboratory notebook.
 
@@ -69,7 +69,7 @@ Even from this age students are pushed towards the solidifying analysis and comm
 
 **Art** is taught as an integral part of history and other courses. Students make frequent trips to the National Gallery and learn drawing and appreciation each week from Dr. Justin Sutters.
 
-**Artful Writing** is practiced every year using <a href="https://iew.com/intro-iew" target="_blank">Andrew Pudewa's Imitation in Writing</a> approach and curriculum from Logos:
+**Artful Writing** is practiced every year using <a href="https://www.iew.com/" target="_blank">Andrew Pudewa's Imitation in Writing</a> approach and curriculum from Logos:
 
 * Imitations in Writing: Fairy Tales from Logos
 * Aesop's Fables from Logos
