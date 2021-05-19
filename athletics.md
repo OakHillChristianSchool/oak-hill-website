@@ -35,7 +35,7 @@ image: assets/i9_flag_football.jpg
             <td>{{ sport.end_date }}</td>
             <td>{{ sport.grades }}</td>
             <td>{{ sport.fee }}</td>
-            <td><a href="{{ sport.details_link }}">Details</a></td>
+            <td><a href="{{ sport.details_link }}" target="_blank">Details</a></td>
         </tr>
         {% endfor %}
     </tbody>
