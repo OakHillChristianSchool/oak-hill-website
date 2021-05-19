@@ -15,7 +15,7 @@ Play a sport with your friends! i9 Sports offers co-ed teams for various sports.
 
 Registration now open for the fall! (Locations may vary)
 
-<p>**<u>Flag Football</u>**
+**<u>Flag Football</u>**
 
 **Start Date:** 9/25/2021
 
@@ -25,7 +25,7 @@ Registration now open for the fall! (Locations may vary)
 
 **Program Fee:** $159 if paid by 6/13/2021
 
-For more details and registration click [here](https://www.i9sports.com/programs/79579/Centreville-Centreville-Flag-Football-League-September-2021 "here")</p>
+For more details and registration click [here](https://www.i9sports.com/programs/79579/Centreville-Centreville-Flag-Football-League-September-2021 "here")
 
 **<u>Soccer</u>**
 
