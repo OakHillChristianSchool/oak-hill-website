@@ -25,9 +25,10 @@ sections:
 - type: jekyll-pages
   label: Pages
   create: all
-- type: jekyll-posts
-  label: Posts
-  create: all
+- type: document
+  path: _data/navigation.yml
+  label: Navigation
+  match: "**/*"
 upload_dir: assets
 public_path: "/assets"
 front_matter_path: ''
