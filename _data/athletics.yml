@@ -1,21 +1,31 @@
-images:
-- image: assets/images/athletics/1.png
-- image: assets/images/athletics/2.png
-- image: assets/images/athletics/3.png
-- image: assets/images/athletics/4.png
-volleyball_title: Volleyball Games Schedule 2019
-volleyball_footer: '*All Home Games at: Cassel''s Sports Complex 14000 Park Center
-  Road, Herndon, VA 20171'
-volleyball_games:
-- title: Valley Homeschool, September 4, 5:30 pm, Home*
-- title: Ad Fontes,  September 9, 4:00 pm, Home*
-- title: Fairfax Homeschool, September 12, 4:30 pm, Home*
-- title: NOVA Homeschool, September 16, 4:30 pm, Home*
-- title: Saint John Paul, September 19, 4:30 pm, Home*
-- title: Virginia Academy, September 24, 4:00 pm, Virginia Academy
-- title: Fairfax Homeschool, October 1, 4:00 pm, Home*
-- title: Saint John Paul, October 10, 4:30 pm, Saint John Paul
-- title: NOVA Homeschool, October 14, 4:00 pm, Church of the Brethren
-- title: Virginia Academy, October 16, 4:30 pm, Home*
-- title: Immanuel Christian School, October 22, 4:30 pm, Home*
-- title: Valley Homeschool, October 29, 3:30 pm, Front Royal
+sports:
+- title: Flag Football
+  start_date: 9/25/2021
+  end_date: 11/6/2021
+  grades: PK3-12th Grade
+  fee: $159 if paid by 6/13/2021
+  details_link: https://www.i9sports.com/programs/79579/Centreville-Centreville-Flag-Football-League-September-2021
+- title: Soccer
+  start_date: 9/25/2021
+  end_date: 11/6/2021
+  grades: PK3-4th Grade
+  fee: $159 if paid by 6/13/2021
+  details_link: https://www.i9sports.com/programs/79581/Centreville-Centreville-Soccer-League-September-2021
+- title: Basketball
+  start_date: 9/25/2021
+  end_date: 11/6/2021
+  grades: PK4-9th grade
+  fee: $159 if paid by 6/13/2021
+  details_link: https://www.i9sports.com/programs/79600/Centreville-Centreville-Basketball-League-September-2021
+- title: Baseball
+  start_date: 9/25/2021
+  end_date: 11/6/2021
+  grades: PK3-2nd grade
+  fee: $159 if paid by 6/13/2021
+  details_link: https://www.i9sports.com/programs/79595/Centreville-Centreville-Baseball-Instructional-Program-September-2021
+- title: Volleyball
+  start_date: 9/25/2021
+  end_date: 11/6/2021
+  grades: 7-14
+  fee: $159 if paid by 6/13/2021
+  details_link: https://www.i9sports.com/programs/79511/Centreville-Centreville-Volleyball-League-September-2021
