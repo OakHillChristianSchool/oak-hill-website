@@ -1,44 +1,47 @@
+---
 - title: About
   pages:
   - title: Blog
     url: http://oakhillk12.blogspot.com/
   - title: Our Campus
-    url: /campus
+    url: "/campus"
   - title: New Lynchburg Campus
-    url: /lynchburg-campus
+    url: "/lynchburg-campus"
   - title: History and Faith
-    url: /history-faith
+    url: "/history-faith"
   - title: School Calendar and Hours
-    url: /calendar-hours
+    url: "/calendar-hours"
   - title: Faculty
-    url: /faculty
+    url: "/faculty"
   - title: International Students
-    url: /international-students
+    url: "/international-students"
   - title: Hybrid Program
-    url: /hybrid-program
+    url: "/hybrid-program"
 - title: Academics
   pages:
-  - title: PK and K-5
-    url: /preschool-k5
+  - title: PK-1st
+    url: "/preschool-1st"
+  - title: Grades 2-5
+    url: "/2nd-5th"
   - title: Junior High
-    url: /junior-high
+    url: "/junior-high"
   - title: High School
-    url: /high-school
+    url: "/high-school"
 - title: Students
   pages:
   - title: Clubs and Activites
-    url: /clubs-activities
+    url: "/clubs-activities"
   - title: Athletics
-    url: /athletics
+    url: "/athletics"
 - title: Admissions
   pages:
   - title: Apply
-    url: /apply
+    url: "/apply"
   - title: Visit
-    url: /visit
+    url: "/visit"
   - title: Admissions and Tuition
-    url: /admissions-tuition
+    url: "/admissions-tuition"
 - title: Current Students
   pages:
   - title: Current Students
-    url: /current-students
+    url: "/current-students"
