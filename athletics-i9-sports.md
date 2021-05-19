@@ -1,7 +1,7 @@
 ---
 layout: image-title-formatted
 container_size: ''
-image: "/assets/soccer.jpg"
+image: ''
 title: Athletics - I9 Sports
 redirect_from: []
 published: false
@@ -28,3 +28,49 @@ Registration now open for the fall! (Locations may vary)
 For more details and registration click [here](https://www.i9sports.com/programs/79579/Centreville-Centreville-Flag-Football-League-September-2021 "here")
 
 **<u>Soccer</u>**
+
+**Start Date:** 9/25/2021
+
+**End Date:** 11/6/2021
+
+**Grades:** PK3-4th Grade
+
+**Program Fee:** $159 if paid by 6/13/2021
+
+For more details and registration click [here](https://www.i9sports.com/programs/79581/Centreville-Centreville-Soccer-League-September-2021 "here")
+
+**<u>Basketball</u>**
+
+**Start Date:** 9/25/2021
+
+**End Date:** 11/6/2021
+
+**Grades:** PK4-9th Grade
+
+**Program Fee:** $159 if paid by 6/13/2021
+
+For more details and registration click [here](https://www.i9sports.com/programs/79600/Centreville-Centreville-Basketball-League-September-2021 "here")
+
+**<u>Baseball</u>**
+
+**Start Date:** 9/25/2021
+
+**End Date:** 11/6/2021
+
+**Grades:** PK3-2nd Grade
+
+**Program Fee:** $159 if paid by 6/13/2021
+
+For more details and registration click [here](https://www.i9sports.com/programs/79595/Centreville-Centreville-Baseball-Instructional-Program-September-2021 "here")
+
+**<u>Volleyball</u>**
+
+**Start Date:** 9/25/2021
+
+**End Date:** 11/6/2021
+
+**Ages:** 7-14
+
+**Program Fee:** $159 if paid by 6/13/2021
+
+For more details and registration click [here](https://www.i9sports.com/programs/79511/Centreville-Centreville-Volleyball-League-September-2021 "here")
