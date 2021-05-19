@@ -26,7 +26,7 @@ Even from this age students are pushed towards the solidifying analysis and comm
 * The Middle Ages, Renaissance, and Reformation
 * <a href="https://veritaspress.com/store/explorers-to-1815-flashcards.html" target="_blank">Explorers to 1815</a> (covers Exploration, New World and founding of the Republic)
 
-**Bible Classes:**
+**Bible Courses:**
 
 **2nd & 3rd**
 
