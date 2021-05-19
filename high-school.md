@@ -137,3 +137,179 @@ Recent College Acceptances include The University of Virginia, Johns Hopkins Whi
 <p><b>Humanities</b> = 2 period class covering History, Literature, Bible, and English (4 Year Chronological Cycle) </p>
 <p><b>Plus</b> = Additional coursework assigned for students in the Upper level Humanities class.</p>
 <p><b>Choir/Latin</b> = School year split between 1/2 year of Latin & 1/2 year of Choir</p>
+
+
+<h4>4 Year Humanities Course Book List</h4>
+<div uk-grid>
+  <table class="uk-table uk-table-divider uk-table-middle uk-width-1-3@m uk-table-small" style="background-color:rgb(252, 228, 214)">
+    <thead>
+        <tr>
+          <th>Bible</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td>Genesis</td>
+        </tr>
+        <tr>
+          <td>1st and 2nd Samuel</td>
+        </tr>
+        <tr>
+          <td>Job</td>
+        </tr>
+        <tr>
+          <td>Luke & Acts</td>
+        </tr>
+        <tr>
+          <td>Exodus</td>
+        </tr>
+        <tr>
+          <td>1st and 2nd Kings</td>
+        </tr>
+        <tr>
+          <td>Proverbs</td>
+        </tr>
+        <tr>
+          <td>Matthew</td>
+        </tr>
+        <tr>
+          <td>Deuteronomy</td>
+        </tr>
+        <tr>
+          <td>1st and 2nd Corinthians</td>
+        </tr>
+        <tr>
+          <td>Psalms</td>
+        </tr>
+        <tr>
+          <td>John</td>
+        </tr>
+        <tr>
+          <td>Daniel</td>
+        </tr>
+        <tr>
+          <td>1st and 2nd Timothy</td>
+        </tr>
+        <tr>
+          <td>Ecclesiastes</td>
+        </tr>
+        <tr>
+          <td>Mark</td>
+        </tr>
+    </tbody>
+</table>
+  <table class="uk-table uk-table-divider uk-table-middle uk-width-1-3@m uk-table-small" style="background-color:rgb(255, 242, 204)">
+    <thead>
+        <tr>
+          <th>Literature</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td>Iliad (Homer)</td>
+        </tr>
+        <tr>
+          <td>The Republic (Plato)</td>
+        </tr>
+        <tr>
+          <td>Theban Trilogy (Sophocles)</td>
+        </tr>
+        <tr>
+          <td>Julius Caesar (Shakespeare)</td>
+        </tr>
+        <tr>
+          <td>Odyssey (Homer)</td>
+        </tr>
+        <tr>
+          <td>Last Days of Socrates</td>
+        </tr>
+        <tr>
+          <td>The Clouds (Aristophanes)</td>
+        </tr>
+        <tr>
+          <td>Aeneid (Virgil)</td>
+        </tr>
+        <tr>
+          <td>Inferno (Dante)</td>
+        </tr>
+        <tr>
+          <td>Canterbury Tales (Chaucer)</td>
+        </tr>
+        <tr>
+          <td>Macbeth (Shakespeare)</td>
+        </tr>
+        <tr>
+          <td>Paradise Lost (Milton)</td>
+        </tr>
+        <tr>
+          <td>A Tale of Two Cites (Dickens)</td>
+        </tr>
+        <tr>
+          <td>Moby Dick (Melville)</td>
+        </tr>
+        <tr>
+          <td>Huckleberry Finn (Twain)</td>
+        </tr>
+        <tr>
+          <td>Brothers Karamazov (Dostoevsky)</td>
+        </tr>
+    </tbody>
+</table>
+  <table class="uk-table uk-table-divider uk-table-middle uk-width-1-3@m uk-table-small" style="background-color:rgb(221, 235, 247)">
+    <thead>
+        <tr>
+          <th>History</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+          <td>Codes of Ham & Moses</td>
+        </tr>
+        <tr>
+          <td>Herodotus</td>
+        </tr>
+        <tr>
+          <td>Plutarch Lives (Vol 1)</td>
+        </tr>
+        <tr>
+          <td>Early History of Rome (Livy)</td>
+        </tr>
+        <tr>
+          <td>Thucydides 1</td>
+        </tr>
+        <tr>
+          <td>Thucydides 2</td>
+        </tr>
+        <tr>
+          <td>Plutarch Lives (Vol 2)</td>
+        </tr>
+        <tr>
+          <td>Twelve Caesars (Suetonius)</td>
+        </tr>
+        <tr>
+          <td>The Church History (Eusebius)</td>
+        </tr>
+        <tr>
+          <td>Ecclesiastical History (Bede)</td>
+        </tr>
+        <tr>
+          <td>Kings of England (Malmesbury)</td>
+        </tr>
+        <tr>
+          <td>Book of Martyrs (Foxe)</td>
+        </tr>
+        <tr>
+          <td>Plymouth Plantation (Bradford)</td>
+        </tr>
+        <tr>
+          <td>Democracy in America (Tocqueville)</td>
+        </tr>
+        <tr>
+          <td>War Between the States (Dwyer)</td>
+        </tr>
+        <tr>
+          <td>Citizen Soldiers (Ambrose)</td>
+        </tr>
+    </tbody>
+</table>
+</div>
