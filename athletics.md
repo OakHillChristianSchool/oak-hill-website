@@ -1,18 +1,13 @@
 ---
-layout: image-title-formatted
+layout: simple-title-formatted
 title: Athletics
-image: assets/i9_flag_football.jpg
 ---
 
-<div uk-grid>
-    <div class="uk-width-3-4@m">
-        <p>Oak Hill Christian School has teamed up with i9 Sports! i9 Sports will try to ensure you and your Oak Hill friends are on the same team, but in order for that to happen you must enter your friend's name during registration when prompted.</p>
-        <p>Play a sport with your friends! i9 Sports offers co-ed teams for various sports.</p>
-    </div>
-    <div class="uk-width-1-4@m">
-        <img src="assets/i9-logo.png" alt="i9-sports logo">
-    </div>
-</div>
+Oak Hill Christian School has teamed up with i9 Sports! i9 Sports will try to ensure that you and your Oak Hill friends are on the same team, but in order for that to happen you must enter your friend's name during registration when prompted.
+
+![I9 Sports Logo](assets/i9-logo.png)
+
+Play a sport with your friends! i9 Sports offers co-ed teams for various sports.
 
 <h3>Registration now open for the fall! (Locations may vary)</h3>
 
