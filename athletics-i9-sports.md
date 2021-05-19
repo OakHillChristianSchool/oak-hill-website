@@ -57,11 +57,11 @@ For more details and registration click [here](https://www.i9sports.com/programs
 
 **End Date:** 11/6/2021
 
-**Grades:** PK4-9th Grade
+**Grades:** PK3-2nd Grade
 
 **Program Fee:** $159 if paid by 6/13/2021
 
-For more details and registration click
+For more details and registration click [here](https://www.i9sports.com/programs/79595/Centreville-Centreville-Baseball-Instructional-Program-September-2021 "here")
 
 **<u>Volleyball</u>**
 
