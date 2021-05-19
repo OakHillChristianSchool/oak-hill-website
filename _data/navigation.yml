@@ -19,10 +19,10 @@
     url: "/hybrid-program"
 - title: Academics
   pages:
-  - title: Grades 2-5
-    url: "/2nd-5th"
   - title: PK and K-5
     url: "/preschool-k5"
+  - title: Grades 2-5
+    url: "/2nd-5th"
   - title: Junior High
     url: "/junior-high"
   - title: High School
