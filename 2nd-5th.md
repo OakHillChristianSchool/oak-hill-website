@@ -70,4 +70,9 @@ Even from this age students are pushed towards the solidifying analysis and comm
 
 **Art** is taught as an integral part of history and other courses. Students make frequent trips to the National Gallery and learn drawing and appreciation each week from Dr. Justin Sutters.
 
-**Artful Writing** is practiced every year using 
+**Artful Writing** is practiced every year using <a href="https://iew.com/intro-iew" target="_blank">Andrew Pudewa's Imitation in Writing</a> approach and curriculum from Logos:
+
+* Imitations in Writing: Fairy Tales from Logos
+* Aesop's Fables from Logos
+* Medieval Legends from Logos
+* <a href="https://classicalacademicpress.com/collections/writing-rhetoric" target="_blank">Writing & Rhetoric, levels 1-5 from Classic Academic Press</a>
