@@ -59,7 +59,7 @@ Even from this age students are pushed towards the solidifying analysis and comm
 * Biology (Botany and Zoology)
 * Science in the Industrial Age
 
-**Latin** using Timothy Griffith's _Orbis Pictus: the Natural World_
+**Latin** using Timothy Griffith's <i>Orbis Pictus: the Natural World<i>
 
 **Basic music literacy** using our own Kodaly method curriculum. Each student is trained to see music as a language. When he sees a piece of music, he can sing it. (The voice is an instrument.) When a song is heard, the student can write it. Elementary students learn...
 
@@ -81,17 +81,17 @@ Even from this age students are pushed towards the solidifying analysis and comm
 
 Students continue to practice **Reading** aloud in class using great literature that they love as well as many books that mirror their history study. For example, during the Middle Ages history year, students read:
 
-* _The Cricket in Times Square_
-* _The Silver Chair_, by C.S. Lewis
-* _Dangerous Journey_, Paul Bunyan
-* _Robin Hood_, by Roger Green
-* _This Was John Calvin_, by Van Helsema
-* _Beowulf_, translated by Seamus Heaney
-* _The Hobbit_, J.R.R. Tolkien
-* _Mary Poppins_, P.L. Travers
-* _A Door in the Wall_, Marguerite de Angeli
-* _Duncan's War_, Douglas Bond
-* _100 Cupboards_, N.D. Wilson
+* <i>The Cricket in Times Square<i>
+* <i>The Silver Chair<i>, by C.S. Lewis
+* <i>Dangerous Journey<i>, Paul Bunyan
+* <i>Robin Hood<i>, by Roger Green
+* <i>This Was John Calvin<i>, by Van Helsema
+* <i>Beowulf<i>, translated by Seamus Heaney
+* <i>The Hobbit<i>, J.R.R. Tolkien
+* <i>Mary Poppins<i>, P.L. Travers
+* <i>A Door in the Wall<i>, Marguerite de Angeli
+* <i>Duncan's War<i>, Douglas Bond
+* <i>100 Cupboards<i>, N.D. Wilson
 
 **Phonics and Spelling:**
 
@@ -102,4 +102,4 @@ Students continue to practice **Reading** aloud in class using great literature 
 
 **Math**
 
-Students master basic math skills and get lots of practice and review using Saxon one grade level ahead: _Math 3, Math 54, Math 65, Math 76_
+Students master basic math skills and get lots of practice and review using Saxon one grade level ahead: <i>Math 3, Math 54, Math 65, Math 76<i>
