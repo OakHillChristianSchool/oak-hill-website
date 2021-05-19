@@ -13,4 +13,4 @@ Play a sport with your friends! i9 Sports offers co-ed teams for various sports.
 
 Registration now open for the fall! (Locations may vary)
 
-<u>**Flag Football**</u>
+**<u>Flag Football</u>**
