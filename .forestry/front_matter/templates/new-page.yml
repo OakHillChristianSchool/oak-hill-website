@@ -17,16 +17,29 @@ fields:
       section: jekyll-pages
       file: 
       path: 
-  label: layout
+  label: Layout
 - type: file
   name: image
-  label: image
+  label: Image
 - type: text
   name: title
-  label: title
+  label: Title
 - type: list
   name: redirect_from
-  label: redirect_from
-- type: text
-  name: container_size
-  label: container_size
+  label: Redirect From
+- name: container_size
+  type: select
+  default: []
+  config:
+    required: false
+    options:
+    - xsmall
+    - small
+    - large
+    - xlarge
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Container Size
