@@ -76,3 +76,11 @@ Even from this age students are pushed towards the solidifying analysis and comm
 * Aesop's Fables from Logos
 * Medieval Legends from Logos
 * <a href="https://classicalacademicpress.com/collections/writing-rhetoric" target="_blank">Writing & Rhetoric, levels 1-5 from Classic Academic Press</a>
+* Writing Poetry with Children from Evan Moor
+* Linguistic Development through Poetry Memorization, levels 2 & 3 from Andrew Pudewa
+
+Students continue to practice **Reading** aloud in class using great literature that they love as well as many books that mirror their history study. For example, during the Middle Ages history year, students read:
+
+* _The Cricket in Times Square_
+* _The Silver Chair_, by C.S. Lewis
+* 
