@@ -42,5 +42,7 @@ Even from this age students are pushed towards the solidifying analysis and comm
 **Penmanship from Classical Conversations** PreScripts series:
 
 * Cursive Letters and Coloring: World History
-* Cursive Words and Drawing: Scripture
+* <a href="https://classicalconversationsbooks.com/products/sc020" target="_blank">Cursive Words and Drawing: Scripture</a>
 * Cursive Words and Drawing: Math Terms
+
+**English Grammar** and sentence diagramming is mastered using <a href="https://www.shurley.com/?583c10bfdbd326ba151c5e39186a4" target="_blank">Shurley English</a> levels 2-5
