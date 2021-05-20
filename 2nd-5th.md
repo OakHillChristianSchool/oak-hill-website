@@ -6,99 +6,222 @@ title: 'Grades 2-5 '
 redirect_from: []
 
 ---
-**Grammar School Curriculum Overview and Sampling**
 
-Are you tired of computers and lessons in extraneous topics? Enjoy seeing your child continue to build a strong foundation in true academic areas during his **Grammar School** years.
+### Grammar School Curriculum Overview
+Are you tired of the overuse of computers as well as lessons in extraneous or even harmful topics? Enjoy seeing your child continue to build a strong foundation in true academic areas during his **Grammar School** years.
 
-Even from this age students are pushed towards the solidifying analysis and communication of the logic and rhetoric levels of learning, though the primary focus is on filling the mind with knowledge. At OH you may see 5th graders having a class debate of British vs. Colonists, 4th graders giving discovery presentations about electricity, 3rd graders acting out ancient customs or 2nd graders dressing up for a play.
-
+Students are pushed towards the solidifying analysis and communication of the logic and rhetoric levels of learning, though the primary focus at this age is on filling the mind with knowledge. At OH you may see 5th graders having a class debate of British vs. Colonists, 4th graders giving discovery presentations about electricity, 3rd graders acting out ancient customs or 2nd graders dressing up for a play.
+  
+#### History and Bible Courses
 **History and Bible Courses** using Veritas curriculum emphasize learning events and historical figures through projects as well as by answering questions in complete sentences and short essays. Students learn to do independent research using pre-selected sources.
 
-**History Courses:**
+<table class="uk-table">
+    <thead>
+        <tr class="uk-background-muted">
+            <th>Year</th>
+            <th>History</th>
+            <th>Bible</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="background-color:rgb(225, 239, 218)">
+            <td>1</td>
+            <td>Ancient Egypt</td>
+            <td>The Gospels</td>
+        </tr>
+        <tr style="background-color:rgb(221, 235, 247)">
+            <td>2</td>
+            <td>New Testament Greece and Rome</td>
+            <td>Chronicles through Malachi and Job</td>
+        </tr>
+        <tr style="background-color:rgb(252, 228, 214)">
+            <td>3</td>
+            <td>Middle Ages, Renaissance & Reformation</td>
+            <td>Genesis through Joshua</td>
+        </tr>
+        <tr style="background-color:rgb(255, 242, 204)">
+            <td>4</td>
+            <td><a href="https://veritaspress.com/store/explorers-to-1815-flashcards.html" target="_blank">Explorers to 1815</a> (Exploration, New World & founding of the Republic)</td>
+            <td><a href="https://veritaspress.com/store/judges-to-kings-flashcards.html" target="_blank">Judges through Kings</a></td>
+        </tr>
+    </tbody>
+</table>
 
-**2nd & 3rd**
 
-* Ancient Egypt
-* New Testament Greece and Rome
+#### Reading
+Students continue to practice **Reading** aloud in class using great literature that they love as well as many books that mirror their history study.
 
-**4th & 5th**
+<table class="uk-table">
+    <thead style="background-color:rgb(252, 228, 214)">
+        <tr>
+            <th colspan="3">Reading during Middle Ages, Renaissance & Reformation Year</th>
+        </tr>
+    </thead>
+    <tbody style="background-color:rgb(252, 228, 214)">
+        <tr>
+            <td>The Cricket in Times Square</td>
+            <td>This was John Calvin</td>
+            <td>The Hobbit, J.R.R. Tolkien</td>
+        </tr>
+        <tr>
+            <td>The Silver Chair, C.S. Lewis</td>
+            <td>A Door in the Wall</td>
+            <td>Beowulf, tr. by Heaney</td>
+        </tr>
+        <tr>
+            <td>Dangerous Journey, Bunyan</td>
+            <td>Duncan’s War, Douglas Bond</td>
+            <td>100 Cupboards, N.D. Wilson</td>
+        </tr>
+        <tr>
+            <td>Robin Hood, Roger Green</td>
+            <td>Mary Poppins, P.L. Travers</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
-* The Middle Ages, Renaissance, and Reformation
-* <a href="https://veritaspress.com/store/explorers-to-1815-flashcards.html" target="_blank">Explorers to 1815</a> (covers Exploration, New World and founding of the Republic)
+#### Science
+Students travel to our lab to study courses using Apologia curricula. They learn scientific method and how to organize a laboratory notebook.
 
-**Bible Courses:**
+<table class="uk-table">
+    <thead>
+        <tr class="uk-background-muted">
+            <th>Year</th>
+            <th>Science Course</th>
+            <th>Saxon Math, 1+ Year ahead</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="background-color:rgb(225, 239, 218)">
+            <td>1</td>
+            <td>Elementary Chemistry</td>
+            <td>Saxon Math 3</td>
+        </tr>
+        <tr style="background-color:rgb(221, 235, 247)">
+            <td>2</td>
+            <td>Astronomy</td>
+            <td>Saxon 54</td>
+        </tr>
+        <tr style="background-color:rgb(252, 228, 214)">
+            <td>3</td>
+            <td>Elementary Biology (Botany & Zoology)</td>
+            <td>Saxon 65</td>
+        </tr>
+        <tr style="background-color:rgb(255, 242, 204)">
+            <td>4</td>
+            <td>Elementary Chemistry</td>
+            <td>Saxon 76</td>
+        </tr>
+    </tbody>
+</table>  
 
-**2nd & 3rd**
+#### English Grammar
+**English Grammar** and sentence diagramming is mastered using <a href="https://cathyduffyreviews.com/homeschool-reviews-core-curricula/composition-and-grammar/graded-language-arts-curricula/shurley-english" _target="_blank">Shurley English</a> levels 2-5
 
-* The Gospels
-* Chronicles through Malachi and Job
+#### Writing
+<a href="https://www.iew.com/" target="_blank">Andrew Pudewa’s Imitation in Writing</a> approach and curriculum from Logos:
 
-**4th & 5th**
+<table class="uk-table uk-table-striped">
+    <thead>
+        <tr class="uk-background-muted">
+            <th>Year</th>
+            <th>Writing</th>
+            <th>Poetry</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="background-color:rgb(225, 239, 218)">
+            <td>1</td>
+            <td>Imitations in Writing: Fairy Tales - Logos</td>
+            <td>Writing Poetry with Children - Evan Moor</td>
+        </tr>
+        <tr style="background-color:rgb(221, 235, 247)">
+            <td>2</td>
+            <td>Writing & Rhetoric, Book 1:  Fable</td>
+            <td>Pudewa’s Linguistic Development through Poetry Memorization, Level 2</td>
+        </tr>
+        <tr style="background-color:rgb(252, 228, 214)">
+            <td>3</td>
+            <td>Medieval Legends Imitations - Logos</td>
+            <td>Linguistic Development through Poetry Memorization, Level 3</td>
+        </tr>
+        <tr style="background-color:rgb(255, 242, 204)">
+            <td>4</td>
+            <td>Writing & Rhetoric, Book 5:  Refutation & Confirmation</td>
+            <td>Linguistic Development through Poetry Memorization</td>
+        </tr>
+    </tbody>
+</table>  
+<table class="uk-table uk-table-striped">
+    <thead>
+        <tr class="uk-background-muted">
+            <th>Year</th>
+            <th>Penmanship, mostly from Classical Conversations PreScripts</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="background-color:rgb(225, 239, 218)">
+            <td>1</td>
+            <td>Writing with Phonics, Skillbook 2, A Beka</td>
+        </tr>
+        <tr style="background-color:rgb(221, 235, 247)">
+            <td>2</td>
+            <td>Cursive Letters and Coloring: World History</td>
+        </tr>
+        <tr style="background-color:rgb(252, 228, 214)">
+            <td>3</td>
+            <td><a href="https://classicalconversationsbooks.com/products/sc020" target="_blank">Cursive Words and Drawing: Scripture</a></td>
+        </tr>
+        <tr style="background-color:rgb(255, 242, 204)">
+            <td>4</td>
+            <td>Cursive Words and Drawing: Math Terms</td>
+        </tr>
+    </tbody>
+</table>  
 
-* Genesis through Joshua
-* <a href="https://veritaspress.com/store/judges-to-kings-flashcards.html" target="_blank">Judges through Kings</a>
+<table class="uk-table uk-table-striped">
+    <thead>
+        <tr class="uk-background-muted">
+            <th>Year</th>
+            <th>Spelling</th>
+            <th>Phonics</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr style="background-color:rgb(225, 239, 218)">
+            <td>1</td>
+            <td>Building Spelling Skills 4, Evan Moor</td>
+            <td>Victory Drill Book</td>
+        </tr>
+        <tr style="background-color:rgb(221, 235, 247)">
+            <td>2</td>
+            <td>Our own spelling list</td>
+            <td>Phonics Pathways</td>
+        </tr>
+        <tr style="background-color:rgb(252, 228, 214)">
+            <td>3</td>
+            <td>Building Spelling Skills 6</td>
+            <td></td>
+        </tr>
+        <tr style="background-color:rgb(255, 242, 204)">
+            <td>4</td>
+            <td>Pudewa’s Phonetic Zoo Level C</td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>  
 
-**Penmanship from Classical Conversations** PreScripts series:
+#### Latin
+**Latin** using Timothy Griffith’s <i>Orbis Pictus: the Natural World</i>
 
-* Cursive Letters and Coloring: World History
-* <a href="https://classicalconversationsbooks.com/products/sc020" target="_blank">Cursive Words and Drawing: Scripture</a>
-* Cursive Words and Drawing: Math Terms
+#### Music
+**Music** classes emphasize literacy using our own Kodály method curriculum. Each student is trained to see music as a language. When he sees a piece of music, he can sing it. (The voice is an instrument.) When a song is heard, the student can write it. Elementary students learn…
 
-**English Grammar** and sentence diagramming is mastered using <a href="https://cathyduffyreviews.com/homeschool-reviews-core-curricula/composition-and-grammar/graded-language-arts-curricula/shurley-english#" target="_blank">Shurley English</a> levels 2-5
+-   To read music written in the pentatonic scale
+-   To identify basic rhythmic patterns
+-   To notate basic melodic and rhythmic patterns
+-   To sing in parts with canons, partner songs, and ostinatos
 
-**Science**: Students travel to our lab to study courses using Apologia curricula. They learn scientific method and how to organize a laboratory notebook.
-
-**2nd & 3rd:**
-
-* Elementary Chemistry
-* Astronomy
-
-**4th & 5th:**
-
-* Biology (Botany and Zoology)
-* Science in the Industrial Age
-
-**Latin** using Timothy Griffith's <i>Orbis Pictus: the Natural World<i>
-
-**Basic music literacy** using our own Kodaly method curriculum. Each student is trained to see music as a language. When he sees a piece of music, he can sing it. (The voice is an instrument.) When a song is heard, the student can write it. Elementary students learn...
-
-* To read music written in the pentatonic scale
-* To identify basic rhythmic patterns
-* To notate basic melodic and rhythmic patterns
-* To sing in parts with canons, partner songs, and ostinatos
-
-**Art** is taught as an integral part of history and other courses. Students make frequent trips to the National Gallery and learn drawing and appreciation each week from Dr. Justin Sutters.
-
-**Artful Writing** is practiced every year using <a href="https://www.iew.com/" target="_blank">Andrew Pudewa's Imitation in Writing</a> approach and curriculum from Logos:
-
-* Imitations in Writing: Fairy Tales from Logos
-* Aesop's Fables from Logos
-* Medieval Legends from Logos
-* <a href="https://classicalacademicpress.com/collections/writing-rhetoric" target="_blank">Writing & Rhetoric, levels 1-5 from Classic Academic Press</a>
-* Writing Poetry with Children from Evan Moor
-* Linguistic Development through Poetry Memorization, levels 2 & 3 from Andrew Pudewa
-
-Students continue to practice **Reading** aloud in class using great literature that they love as well as many books that mirror their history study. For example, during the Middle Ages history year, students read:
-
-* <i>The Cricket in Times Square<i>
-* <i>The Silver Chair<i>, by C.S. Lewis
-* <i>Dangerous Journey<i>, Paul Bunyan
-* <i>Robin Hood<i>, by Roger Green
-* <i>This Was John Calvin<i>, by Van Helsema
-* <i>Beowulf<i>, translated by Seamus Heaney
-* <i>The Hobbit<i>, J.R.R. Tolkien
-* <i>Mary Poppins<i>, P.L. Travers
-* <i>A Door in the Wall<i>, Marguerite de Angeli
-* <i>Duncan's War<i>, Douglas Bond
-* <i>100 Cupboards<i>, N.D. Wilson
-
-**Phonics and Spelling:**
-
-* Victory Drill Book
-* Phonics Pathways
-* Evan-Moor's Building Spelling Skills
-* Andrew Pudewa's Phonetic Zoo
-
-**Math**
-
-Students master basic math skills and get lots of practice and review using Saxon one grade level ahead: <i>Math 3, Math 54, Math 65, Math 76<i>
+#### Art
+**Art** is taught as an integral part of history and other courses. Students make trips to the National Gallery and learn drawing and appreciation each week from Dr. Justin Sutters.
