@@ -7,12 +7,12 @@ redirect_from: []
 
 ---
 
-### Grammar School Curriculum Overview
+## Grammar School Curriculum Overview
 Are you tired of the overuse of computers as well as lessons in extraneous or even harmful topics? Enjoy seeing your child continue to build a strong foundation in true academic areas during his **Grammar School** years.
 
 Students are pushed towards the solidifying analysis and communication of the logic and rhetoric levels of learning, though the primary focus at this age is on filling the mind with knowledge. At OH you may see 5th graders having a class debate of British vs. Colonists, 4th graders giving discovery presentations about electricity, 3rd graders acting out ancient customs or 2nd graders dressing up for a play.
   
-#### History and Bible Courses
+### History and Bible Courses
 **History and Bible Courses** using Veritas curriculum emphasize learning events and historical figures through projects as well as by answering questions in complete sentences and short essays. Students learn to do independent research using pre-selected sources.
 
 <table class="uk-table">
@@ -48,7 +48,7 @@ Students are pushed towards the solidifying analysis and communication of the lo
 </table>
 
 
-#### Reading
+### Reading
 Students continue to practice **Reading** aloud in class using great literature that they love as well as many books that mirror their history study.
 
 <table class="uk-table">
@@ -81,7 +81,7 @@ Students continue to practice **Reading** aloud in class using great literature 
     </tbody>
 </table>
 
-#### Science
+### Science
 Students travel to our lab to study courses using Apologia curricula. They learn scientific method and how to organize a laboratory notebook.
 
 <table class="uk-table">
@@ -116,10 +116,10 @@ Students travel to our lab to study courses using Apologia curricula. They learn
     </tbody>
 </table>  
 
-#### English Grammar
+### English Grammar
 **English Grammar** and sentence diagramming is mastered using <a href="https://cathyduffyreviews.com/homeschool-reviews-core-curricula/composition-and-grammar/graded-language-arts-curricula/shurley-english" _target="_blank">Shurley English</a> levels 2-5
 
-#### Writing
+### Writing
 <a href="https://www.iew.com/" target="_blank">Andrew Pudewa’s Imitation in Writing</a> approach and curriculum from Logos:
 
 <table class="uk-table uk-table-striped">
@@ -212,10 +212,10 @@ Students travel to our lab to study courses using Apologia curricula. They learn
     </tbody>
 </table>  
 
-#### Latin
+### Latin
 **Latin** using Timothy Griffith’s <i>Orbis Pictus: the Natural World</i>
 
-#### Music
+### Music
 **Music** classes emphasize literacy using our own Kodály method curriculum. Each student is trained to see music as a language. When he sees a piece of music, he can sing it. (The voice is an instrument.) When a song is heard, the student can write it. Elementary students learn…
 
 -   To read music written in the pentatonic scale
@@ -223,5 +223,5 @@ Students travel to our lab to study courses using Apologia curricula. They learn
 -   To notate basic melodic and rhythmic patterns
 -   To sing in parts with canons, partner songs, and ostinatos
 
-#### Art
+### Art
 **Art** is taught as an integral part of history and other courses. Students make trips to the National Gallery and learn drawing and appreciation each week from Dr. Justin Sutters.
