@@ -19,6 +19,8 @@ events:
   event: Presidents' Day, School Closed
 - date: April 11-15
   event: Easter Recess, School Closed
+- date: May 27
+  event: Last Day of School for High School
 - date: May 30
   event: Memorial Day, School Closed
 - date: June 16
