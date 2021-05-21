@@ -16,35 +16,9 @@ Students are pushed towards the solidifying analysis and communication of the lo
 
 **History and Bible Courses** using Veritas curriculum emphasize learning events and historical figures through projects as well as by answering questions in complete sentences and short essays. Students learn to do independent research using pre-selected sources.
 
-<table class="uk-table">
-<thead>
-<tr class="uk-background-muted">
-<th>Year</th>
-<th>History</th>
-<th>Bible</th>
-</tr>
-</thead>
-<tbody>
-<tr style="background-color:rgb(225, 239, 218)">
-<td>1</td>
-<td>Ancient Egypt</td>
-<td>The Gospels</td>
-</tr>
-<tr style="background-color:rgb(221, 235, 247)">
-<td>2</td>
-<td>New Testament Greece and Rome</td>
-<td>Chronicles through Malachi and Job</td>
-</tr>
-<tr style="background-color:rgb(252, 228, 214)">
-<td>3</td>
-<td>Middle Ages, Renaissance & Reformation</td>
-<td>Genesis through Joshua</td>
-</tr>
-<tr style="background-color:rgb(255, 242, 204)">
-<td>4</td>
-<td><a href="https://veritaspress.com/store/explorers-to-1815-flashcards.html" target="_blank">Explorers to 1815</a> (Exploration, New World & founding of the Republic)</td>
-<td><a href="https://veritaspress.com/store/judges-to-kings-flashcards.html" target="_blank">Judges through Kings</a></td>
-</tr>
+<table class="uk-table"> <thead> <tr class="uk-background-muted"> <th>Year</th> <th>History</th> <th>Bible</th> </tr> </thead> <tbody> <tr style="background-color:rgb(225, 239, 218)"> <td>1</td> <td>Ancient Egypt</td> <td>Genesis through Joshua</td> </tr> <tr style="background-color:rgb(221, 235, 247)"> <td>2</td> <td>New Testament Greece and Rome</td> <td><a href="https://veritaspress.com/store/judges-to-kings-flashcards.html" target="_blank">Judges through Kings</a></td> </tr> <tr style="background-color:rgb(252, 228, 214)"> <td>3</td> <td>Middle Ages, Renaissance & Reformation</td> <td>Chronicles through Malachi and Job</td> </tr> <tr style="background-color:rgb(255, 242, 204)"> <td>4</td> <td><a href="https://veritaspress.com/store/explorers-to-1815-flashcards.html" target="_blank">Explorers to 1815</a> (Exploration, New World & founding of the Republic)</td> <td>Gospels</td>
+
+</tr_>
 </tbody>
 </table>
 
