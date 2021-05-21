@@ -6,8 +6,7 @@ title: Clubs and Activities
 redirect_from: []
 
 ---
-New Clubs are formed and others restarted as families express interest. Students, parents or teachers who may wish to join or sponsor a group should contact the office or our Student Activities Advisor, Arelis Gil, agil@oakhillk12.com.
-**Clubs meet at Herndon Campus various days for all ages. Fees range $50-$500/year.**
+New Clubs are formed and others restarted as families express interest. Students, parents or teachers who wish to join or sponsor a group should contact the office or our Student Activities Advisor, Arelis Gil, agil@oakhillk12.com. **Clubs meet at Herndon Campus various days for all ages. Fees range $50-$500/year.**
 
 Lego Club, ages 3-7
 
@@ -15,7 +14,7 @@ Math Tutoring Club, High School student-led
 
 Spanish Clubs, ages 3-12, led by Mrs. Gil who is bilingual
 
-After School Spanish Class, Grades 9-12, Earns High School credite
+After School Spanish Class, Grades 9-12, Earns High School credit
 
 Choral Ensemble, Grades 6-12
 
