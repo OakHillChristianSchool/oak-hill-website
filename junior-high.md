@@ -38,7 +38,7 @@ Students receive formal training in logic and learn to reason critically from a 
 </tr>
 </tbody>
 
-<table class="uk-table uk-table-divider uk-table-middle" style="background-color:rgb(252, 228, 214)">
+<table class="uk-table uk-table-divider uk-table-middle" style="background-color:rgb(225, 239, 218)">
 <thead>
 <tr>
 <th>Year</th>
@@ -156,7 +156,7 @@ Students receive formal training in logic and learn to reason critically from a 
 </table>
 </div>
 <div>
-<table class="uk-table uk-table-divider uk-table-middle uk-table-small" style="background-color:rgb(221, 235, 247)">
+<table class="uk-table uk-table-divider uk-table-middle uk-table-small" style="background-color:rgb(225, 239, 218)">
 <thead>
 <tr>
 <th>History</th>
