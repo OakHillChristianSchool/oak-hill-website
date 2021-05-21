@@ -1,7 +1,7 @@
 ---
 layout: image-title-formatted
 container_size: ''
-image: "/assets/images/clubs and activities/3.png"
+image: "/assets/images/clubs and activities/1.png"
 title: Clubs and Activities
 redirect_from: []
 published: false
