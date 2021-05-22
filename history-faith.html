@@ -3,15 +3,35 @@ layout: simple-title
 title: History and Faith
 ---
 
-<div class="uk-container uk-container-small uk-margin-bottom">
-    {% for item in site.data.history %}
-    <div class="uk-child-width-expand@s" uk-grid>
-        <div class="uk-width-1-5@m">
-            <p class="uk-text-primary uk-text-large">{{ item.year }}</p>
-        </div>
-        <div class="uk-width-expand">
-            <p>{{ item.content }}</p>
-        </div>
+<div class="uk-container uk-margin-top uk-margin-large-bottom">
+    <p>Oak Hill Christian School is a Protestant Christian school. Teachers belong to local bible-believing churches.</p>
+    <p>Our statement of faith is the Nicene Creed:</p>
+    <div class="uk-margin-left">
+        <p>I believe in one God, the Father almighty, maker of heaven and earth and of all things visible and invisible.</p>
+
+        <p>I believe in one Lord Jesus Christ, the only begotten Son of God, begotten of the Father before all worlds. God of God, Light of Light, very God of very God, begotten, not made, being of one substance with the Father; by whom all things were made. Who for us men and for our salvation came down from heaven, and was incarnate by the Holy Spirit of the virgin, Mary, and became man. He was crucified also for us under Pontius Pilate; he suffered and was buried. On the third day he rose again in accordance with the Scriptures, and he ascended into heaven and is seated at the right hand of the Father. He will come again in glory to judge the living and the dead, and his kingdom will have no end.</p>
+
+        <p>I believe in the Holy Spirit, the Lord and giver of life, who proceeds from the Father and the Son, who with the Father and the Son together is worshiped and glorified, who spoke through the prophets.</p>
+
+        <p>I believe in one, holy, catholic* and apostolic church. I acknowledge one baptism for the forgiveness of sins, and I look for the resurrection of the dead, and the life of the world to come.</p>
+
+        <p>Amen.</p>
     </div>
-    {% endfor %}
+
+    <p class="uk-text-meta">* “catholic” does not refer to Roman Catholic. Rather it means there is one church, one universal body of believers, whose head is Christ. When a person from one denomination visits a congregation in another, his faith and baptism are recognized just the same.</p>
+</div>
+
+<div class="uk-section uk-section-muted">
+    <div class="uk-container uk-container-small">
+        {% for item in site.data.history %}
+        <div class="uk-child-width-expand@s" uk-grid>
+            <div class="uk-width-1-5@m">
+                <p class="uk-text-primary uk-text-large">{{ item.year }}</p>
+            </div>
+            <div class="uk-width-expand">
+                <p>{{ item.content }}</p>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
 </div>
