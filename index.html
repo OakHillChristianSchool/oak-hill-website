@@ -16,14 +16,16 @@ extrahead:
             <div class="uk-margin-large-bottom uk-overlay uk-display-inline-block" style="background-color: rgba(255, 255, 255, .6);backdrop-filter: blur(2px);-webkit-backdrop-filter: blur(2px);">
                 <h1 class="uk-display-inline-block uk-margin-remove-bottom">A Classical and Christian School</h1><br>
                 <h4 class="uk-display-inline-block uk-margin-remove-top">Herndon, VA | Lynchburg, VA<br>
-                <div class="uk-light uk-display-inline-block">
+                <div class="uk-display-inline-block">
+                    <div class="uk-light uk-display-inline-block">
                     <a href="apply"
                         class="uk-margin-small-top uk-display-inline-block uk-button uk-button-large uk-button-primary">Apply</a>
                     <a href="visit"
                         class="uk-margin-small-top uk-display-inline-block uk-button uk-button-large uk-button-primary">Visit</a>
                     <a href="#contact" class="uk-margin-small-top uk-display-inline-block uk-button uk-button-large uk-button-primary"
                         uk-scroll>Contact</a>
-                    <a href="/lynchburg-campus" class="uk-margin-small-top uk-display-inline-block uk-button uk-button-large uk-button-primary">New Lynchburg Campus</a>
+                    </div>
+                    <a href="/lynchburg-campus" class="uk-margin-small-top uk-display-inline-block uk-button uk-button-primary uk-button-large">New Lynchburg Campus</a>
                 </div>
             </div>
         </div>
@@ -77,8 +79,17 @@ extrahead:
 
 <div class="uk-section-muted uk-margin-large-top">
     <div class="uk-container uk-padding uk-text-center">
-        <h1>Learn more about our new Lynchburg campus.</h1>
-        <a href="/lynchburg-campus" class="uk-button uk-button-large uk-button-primary">Learn More</a>
+        <div uk-grid>
+            <div class="uk-width-expand uk-flex uk-flex-middle">
+                <div>
+                    <h1>Learn more about our new Lynchburg campus.</h1>
+                    <a href="/lynchburg-campus" class="uk-button uk-button-large uk-button-primary">Learn More</a>
+                </div>
+            </div>
+            <div class="uk-width-1-2@m">
+                <img alt="Scool building for lynchburg campus" src="/assets/lynchburg-campus.png">
+            </div>
+        </div>
     </div>
 </div>
 
