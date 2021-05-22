@@ -97,34 +97,7 @@ Students also study music and Latin, math through Trigonometry and Calculus. We 
 </tbody>
 </table>
 
-<table class="uk-table uk-table-divider uk-table-middle" style="background-color:rgb(225, 239, 218)">
-<thead>
-<tr>
-<th>Year</th>
-<th>Grades</th>
-<th>Humanities</th>
-<th>Math</th>
-<th>Science</th>
-<th>Music/Language</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td rowspan="2">2021-22</td>
-<td>Lower</td>
-<td>Ancient 2</td>
-<td>Algebra I</td>
-<td>Biology</td>
-<td rowspan="2">Choir/Latin</td>
-</tr>
-<tr>
-<td>Upper</td>
-<td>Ancient 2 (Plus)</td>
-<td>Geometry/Calculus</td>
-<td>Physics</td>
-</tr>
-</tbody>
-</table>
+<table class="uk-table uk-table-divider uk-table-middle" style="background-color:rgb(225, 239, 218)"> <thead> <tr> <th>Year</th> <th>Grades</th> <th>Humanities</th> <th>Math</th> <th>Science</th> <th>Music/Language</th> </tr> </thead> <tbody> <tr> <td rowspan="2">2024-25</td> <td>Lower</td> <td>Ancient 2</td> <td>Algebra I</td> <td>Biology</td> <td rowspan="2">Choir/Latin</td> </tr> <tr> <td>Upper</td> <td>Ancient 2 (Plus)</td> <td>Geometry/Calculus</td> <td>Physics</td> </tr> </tbody> </table>
 
 <p><b>Year</b> = Academic Year</p>
 <p><b>Grades</b> = Lower (9th/10th) and Upper (11th/12th) based on placement.</p>

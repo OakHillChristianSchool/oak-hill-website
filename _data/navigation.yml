@@ -15,8 +15,6 @@
     url: "/faculty"
   - title: International Students
     url: "/international-students"
-  - title: Hybrid Program
-    url: "/hybrid-program"
 - title: Academics
   pages:
   - title: PK-1st
@@ -29,8 +27,8 @@
     url: "/high-school"
 - title: Students
   pages:
-  - title: Clubs and Activites
-    url: "/clubs-activities"
+  - title: Clubs and Activities
+    url: "/clubs-and-activities"
   - title: Athletics/i-9 Sports
     url: "/athletics"
 - title: Admissions
