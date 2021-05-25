@@ -1,0 +1,12 @@
+---
+layout: simple-title
+title: Frequently Asked Questions
+---
+
+<div class="uk-container uk-margin-large-bottom">
+    <img src="/assets/images/building-collage.png">
+    {% for faq in site.data.faqs %}
+    <h5 class="uk-margin-large-top">{{ faq.title }}</h5>
+    <p>{{ faq.content | markdownify }}</p>
+    {% endfor %}
+</div>
