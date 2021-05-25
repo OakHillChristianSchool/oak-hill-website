@@ -106,6 +106,7 @@ Students also study music and Latin, math through Trigonometry and Calculus. We 
 <p><b>Humanities</b> = 2 period class covering History, Literature, Bible, and English (4 Year Chronological Cycle) </p>
 <p><b>Plus</b> = Additional coursework assigned for students in the Upper level Humanities class.</p>
 <p><b>Choir/Latin</b> = School year split between 1/2 year of Latin & 1/2 year of Choir</p>
+<p><b>PE</b> = Meets 2:00 Mon & Fri for Herndon Campus Students</p>
 
 <h4>4 Year Humanities Course Book List</h4>
 <div class="uk-child-width-1-3@m" uk-grid>
