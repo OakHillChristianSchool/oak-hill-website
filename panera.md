@@ -1,30 +1,16 @@
 ---
-layout: simple-title
+layout: image-title-formatted
 container_size: ''
-image: ''
+image: "/assets/panera-salad.jpg"
 title: Panera Lunch Program
 redirect_from: []
 
 ---
 Parents can now purchase a Panera lunch for their child for delivery on Thursdays. Lunches must be purchased before Monday for delivery that Thursday. Please see the information below regarding how to set up your account and purchase lunches.
 
-<h4></h4>
-<table class="uk-table uk-table-divider uk-table-middle">
-<thead>
-<tr>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Parents can now purchase a Panera lunch for their child for delivery on Thursdays. Lunches must be purchased before Monday for delivery that Thursday. Please see the information below regarding how to set up your account and purchase lunches.</td>
-<td>image</td>
-</tr>
-</tbody>
-
-
 **Get started!**
 
-* **Go to:** [**https://panerabread.boonli.com**](https://panerabread.boonli.com "https://panerabread.boonli.com") - (please bookmark this page)
+* **Go to:** <a href="https://panerabread.boonli.com" _target="_blank">https://panerabread.boonli.com</a> - (please bookmark this page)
 * **Click Create an Account:** Password is: **OHCS4**
 * Enter information and click **Submit**
 * Enter information for your students, **Add Profile**. Repeat for any additional students
