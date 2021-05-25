@@ -41,5 +41,7 @@
     url: "/admissions-tuition"
 - title: Current Students
   pages:
-  - title: Current Students
+  - title: Panera Lunch Program
+    url: "/panera"
+  - title: More
     url: "/current-students"
