@@ -6,7 +6,7 @@ title: Visit Us
 ---
 <div class="uk-margin-large uk-container">
     <h3>Schedule a Visit</h3>
-    <p>We offer in-person tours Monday through Friday.</p>
+    <p>We offer in-person tours at our Lynchburg campus Monday through Friday.</p>
     <p class="uk-margin-remove-bottom">If you are out of town or prefer not to come in, Zoom or Facebook Messenger
         tours are available at all the times that in-person tours are available. Simply:</p>
     <ol class="uk-margin-remove-top">
@@ -149,14 +149,14 @@ title: Visit Us
     <div class="uk-card uk-card-default uk-card-body">
         <h3 class="uk-card-title">Thank you.</h3>
         <p><b>Your tour is booked. Please save this information.</b><br>
-            <span id="final-location">Location: 13525 Dulles Technology Dr, Herndon 20170</span><br>
+            <span id="final-location">Location: Providence Church, 108 Melinda Dr, Lynchburg, VA</span><br>
             <span id="final-time">Time:</span>
     </div>
 </div>
 
 <script>
-    const TIME_AVAILABLE_SHEET = 'Time Available'
-    const TIME_UNAVAILABLE_SHEET = 'Time Unavailable'
+    const TIME_AVAILABLE_SHEET = 'Time Available (Lynchburg)'
+    const TIME_UNAVAILABLE_SHEET = 'Time Unavailable (Lynchburg)'
     const TIME_AVAILABLE_SHEET_URL_ENCODED = encodeURI(TIME_AVAILABLE_SHEET)
     const TIME_UNAVAILABLE_SHEET_URL_ENCODED = encodeURI(TIME_UNAVAILABLE_SHEET)
 
@@ -175,7 +175,7 @@ title: Visit Us
     var year;
     var date;
     var time;
-    let city = 'Herndon';
+    let city = 'Lynchburg';
 
     function daysInMonth(month, year) {
         year_leap = (year % 4 == 0);
