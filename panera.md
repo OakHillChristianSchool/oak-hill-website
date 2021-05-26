@@ -10,7 +10,7 @@ Parents can now purchase a Panera lunch for their child for delivery on Thursday
 
 **Get started!**
 
-* **Go to:** <a href="https://panerabread.boonli.com" _target="_blank">https://panerabread.boonli.com</a> - (please bookmark this page)
+* **Go to:** <a href="https://panerabread.boonli.com" target="_blank">https://panerabread.boonli.com</a> - (please bookmark this page)
 * **Click Create an Account:** Password is: **OHCS4**
 * Enter information and click **Submit**
 * Enter information for your students, **Add Profile**. Repeat for any additional students
