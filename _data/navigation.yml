@@ -1,20 +1,4 @@
 ---
-- title: About
-  pages:
-  - title: Blog
-    url: http://oakhillk12.blogspot.com/
-  - title: Our Campus
-    url: "/campus"
-  - title: New Lynchburg Campus
-    url: "/lynchburg-campus"
-  - title: Frequently Asked Questions
-    url: "/faqs"
-  - title: History and Faith
-    url: "/history-faith"
-  - title: Faculty
-    url: "/faculty"
-  - title: International Students
-    url: "/international-students"
 - title: Academics
   pages:
   - title: PK-1st
@@ -33,6 +17,22 @@
     url: "/visit"
   - title: Admissions and Tuition
     url: "/admissions-tuition"
+- title: About
+  pages:
+  - title: Blog
+    url: http://oakhillk12.blogspot.com/
+  - title: Our Campus
+    url: "/campus"
+  - title: New Lynchburg Campus
+    url: "/lynchburg-campus"
+  - title: Frequently Asked Questions
+    url: "/faqs"
+  - title: History and Faith
+    url: "/history-faith"
+  - title: Faculty
+    url: "/faculty"
+  - title: International Students
+    url: "/international-students"
 - title: Current Students
   pages:
   - title: School Calendar and Hours
