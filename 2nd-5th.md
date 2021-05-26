@@ -162,11 +162,11 @@ English Grammar and sentence diagramming are mastered using <a href="https://cat
 
 ### Latin
 
-**Latin** using Timothy Griffith’s <i>Orbis Pictus: the Natural World</i>
+Latin using Timothy Griffith’s <i>Orbis Pictus: the Natural World</i>
 
 ### Music
 
-**Music** classes emphasize literacy using our own Kodály method curriculum. Each student is trained to see music as a language. When he sees a piece of music, he can sing it. (The voice is an instrument.) When a song is heard, the student can write it. Elementary students learn…
+Music classes emphasize literacy using our own Kodály method curriculum. Each student is trained to see music as a language. When he sees a piece of music, he can sing it. (The voice is an instrument.) When a song is heard, the student can write it. Elementary students learn…
 
 * To read music written in the pentatonic scale
 * To identify basic rhythmic patterns
@@ -175,4 +175,4 @@ English Grammar and sentence diagramming are mastered using <a href="https://cat
 
 ### Art
 
-**Art** is taught as an integral part of history and other courses. Students make trips to the National Gallery and learn drawing and appreciation each week from Dr. Justin Sutters.
+Art is taught as an integral part of history and other courses. Students make trips to the National Gallery and learn drawing and appreciation each week from Dr. Justin Sutters.
