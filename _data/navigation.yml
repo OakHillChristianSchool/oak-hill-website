@@ -11,8 +11,6 @@
     url: "/faqs"
   - title: History and Faith
     url: "/history-faith"
-  - title: School Calendar and Hours
-    url: "/calendar-hours"
   - title: Faculty
     url: "/faculty"
   - title: International Students
@@ -37,6 +35,8 @@
     url: "/admissions-tuition"
 - title: Current Students
   pages:
+  - title: ''
+    url: ''
   - title: Panera Lunch Program
     url: "/panera"
   - title: More
