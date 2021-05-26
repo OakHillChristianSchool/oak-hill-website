@@ -17,8 +17,8 @@ Kindergarten students typically read on a third grade level by the end of the ye
 
 We use Saxon Math 1 in the Kindergarten and Saxon Kindergarten Math in Junior Kindergarten. Three year olds receive the same instruction but at a slower pace.
 
-In PK-1st we offer multiple reading groups allowing advanced students to move ahead and as fast as they are able. Challenge math and spelling.
+In PK-1st we offer multiple reading groups allowing advanced students to move ahead and as fast as they are able. Challenge math and spelling lessons for exceptional students are a regular part of our curriculum.
 
 Good penmanship is taught and practiced. Students at this age do not use computers at school.
 
-First grade adds...science activities (growing dandelion seeds, observing the egret and ducks and turtles at the nature reserve, dissecting owl pellets), Virginia geography, retelling fairy tales, challenge spelling words.
+First grade adds some more amazing science activities (growing dandelion seeds, observing the egret and ducks and turtles at the nature reserve, dissecting owl pellets), and Virginia geography, retelling fairy tales and in other exercises speaking to the class.
