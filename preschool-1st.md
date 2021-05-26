@@ -21,4 +21,4 @@ In PK-1st we offer multiple reading groups allowing advanced students to move ah
 
 Good penmanship is taught and practiced. Students at this age do not use computers at school.
 
-First grade adds some more amazing science activities (growing dandelion seeds, observing the egret and ducks and turtles at the nature reserve, dissecting owl pellets), and Virginia geography, retelling fairy tales and in other exercises speaking to the class.
+First grade adds some more amazing science activities (growing dandelion seeds, observing the egret and ducks and turtles at the nature reserve, dissecting owl pellets), and Virginia geography. Students practice rhetorical skills by retelling fairy tales and in other exercises speaking to the class.
