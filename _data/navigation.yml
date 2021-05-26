@@ -27,12 +27,6 @@
     url: "/junior-high"
   - title: High School
     url: "/high-school"
-- title: 'Extracurriculars '
-  pages:
-  - title: Clubs and Activities
-    url: "/clubs-and-activities"
-  - title: Athletics/i-9 Sports
-    url: "/athletics"
 - title: Admissions
   pages:
   - title: Apply
@@ -47,3 +41,9 @@
     url: "/panera"
   - title: More
     url: "/current-students"
+- title: 'Extracurriculars '
+  pages:
+  - title: Clubs and Activities
+    url: "/clubs-and-activities"
+  - title: Athletics/i-9 Sports
+    url: "/athletics"
