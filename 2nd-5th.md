@@ -73,37 +73,7 @@ English Grammar and sentence diagramming are mastered using <a href="https://cat
 <table class="uk-table uk-table-striped"> <thead> <tr class="uk-background-muted"> <th>Writing</th> <th>Poetry</th> </tr> </thead> <tbody> <tr style="background-color:rgb(225, 239, 218)"> <td>Imitations in Writing: Fairy Tales - Logos</td> <td>Writing Poetry with Children - Evan Moor</td> </tr> <tr style="background-color:rgb(221, 235, 247)"> <td>Writing & Rhetoric, Book 1:  Fable</td> <td>Pudewa’s Linguistic Development through Poetry Memorization, Level 2</td> </tr> <tr style="background-color:rgb(252, 228, 214)"> <td>Medieval Legends Imitations - Logos</td> <td>Linguistic Development through Poetry Memorization, Level 3</td> </tr> <tr style="background-color:rgb(255, 242, 204)"> <td>Writing & Rhetoric, Book 5:  Refutation & Confirmation</td> <td>Linguistic Development through Poetry Memorization</td> </tr> </tbody> </table>  
 <table class="uk-table uk-table-striped"> <thead> <tr class="uk-background-muted"> <th>4 Year Penmanship Course, mostly from Classical Conversations PreScripts</th> </tr> </thead> <tbody> <tr style="background-color:rgb(225, 239, 218)"> <td>Writing with Phonics, Skillbook 2, A Beka</td> </tr> <tr style="background-color:rgb(221, 235, 247)"> <td>Cursive Letters and Coloring: World History</td> </tr> <tr style="background-color:rgb(252, 228, 214)"> <td><a href="https://classicalconversationsbooks.com/products/sc020" target="_blank">Cursive Words and Drawing: Scripture</a></td> </tr> <tr style="background-color:rgb(255, 242, 204)"> <td>Cursive Words and Drawing: Math Terms</td> </tr> </tbody> </table>
 
-<table class="uk-table uk-table-striped">
-<thead>
-<tr class="uk-background-muted">
-<th>Year</th>
-<th>Spelling</th>
-<th>Phonics</th>
-</tr>
-</thead>
-<tbody>
-<tr style="background-color:rgb(225, 239, 218)">
-<td>1</td>
-<td>Building Spelling Skills 4, Evan Moor</td>
-<td>Victory Drill Book</td>
-</tr>
-<tr style="background-color:rgb(221, 235, 247)">
-<td>2</td>
-<td>Our own spelling list</td>
-<td>Phonics Pathways</td>
-</tr>
-<tr style="background-color:rgb(252, 228, 214)">
-<td>3</td>
-<td>Building Spelling Skills 6</td>
-<td></td>
-</tr>
-<tr style="background-color:rgb(255, 242, 204)">
-<td>4</td>
-<td>Pudewa’s Phonetic Zoo Level C</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<table class="uk-table uk-table-striped"> <thead> <tr class="uk-background-muted"> <th>Spelling</th> <th>Phonics</th> </tr> </thead> <tbody> <tr style="background-color:rgb(225, 239, 218)"> <td>Building Spelling Skills 4, Evan Moor</td> <td>Victory Drill Book</td> </tr> <tr style="background-color:rgb(221, 235, 247)"> <td>Our own spelling list</td> <td>Phonics Pathways</td> </tr> <tr style="background-color:rgb(252, 228, 214)"> <td>Building Spelling Skills 6</td> <td></td> </tr> <tr style="background-color:rgb(255, 242, 204)"> <td>Pudewa’s Phonetic Zoo Level C</td> <td></td> </tr> </tbody> </table>
 
 ### Latin
 
