@@ -35,8 +35,8 @@
     url: "/admissions-tuition"
 - title: Current Students
   pages:
-  - title: ''
-    url: ''
+  - title: School Calendar and Hours
+    url: " /calendar-hours"
   - title: Panera Lunch Program
     url: "/panera"
   - title: More
