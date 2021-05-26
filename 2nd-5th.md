@@ -56,13 +56,13 @@ Students continue to practice Reading aloud in class using great literature that
 </tbody>
 </table>
 
-### Science and Math
+### 4 Year Science and Math Curriculum
 
 Students travel to our lab to study science using Apologia curricula. They learn scientific method and how to organize a laboratory notebook.
 
-<table class="uk-table"> <thead> <tr class="uk-background-muted"> <th>Year</th> <th>Science Course</th> <th>Saxon Math, 1+ Year ahead</th> </tr> </thead> <tbody> <tr style="background-color:rgb(225, 239, 218)"> <td>1</td> <td>Elementary Chemistry</td> <td>Saxon Math 3</td> </tr> <tr style="background-color:rgb(221, 235, 247)"> <td>2</td> <td>Astronomy</td> <td>Saxon 54</td> </tr> <tr style="background-color:rgb(252, 228, 214)"> <td>3</td> <td>Science of the Industrial Age</td> <td>Saxon 65</td> </tr> <tr style="background-color:rgb(255, 242, 204)"> <td>4</td> <td>Elementary Physics</td> <td>Saxon 76</td> </tr> </tbody> </table>
+<table class="uk-table"> <thead> <tr class="uk-background-muted"> <th>Science Course</th> <th>Saxon Math, 1+ Year ahead</th> </tr> </thead> <tbody> <tr style="background-color:rgb(225, 239, 218)"> <td>Elementary Chemistry</td> <td>Saxon Math 3</td> </tr> <tr style="background-color:rgb(221, 235, 247)"> <td>Astronomy</td> <td>Saxon 54</td> </tr> <tr style="background-color:rgb(252, 228, 214)"> <td>Science of the Industrial Age</td> <td>Saxon 65</td> </tr> <tr style="background-color:rgb(255, 242, 204)"> <td>Elementary Physics</td> <td>Saxon 76</td> </tr> </tbody> </table>
 
-### English Grammar
+### English Grammar Courses
 
 English Grammar and sentence diagramming are mastered using <a href="https://cathyduffyreviews.com/homeschool-reviews-core-curricula/composition-and-grammar/graded-language-arts-curricula/shurley-english" _target="_blank">Shurley English</a> levels 2-5
 
