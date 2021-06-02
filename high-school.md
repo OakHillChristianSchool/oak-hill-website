@@ -6,7 +6,7 @@ redirect_from:
 - "/upper-school"
 
 ---
-With the help of the Veritas Omnibus textbooks and teacher-led discussion, students analyze timeless works of the West. Students are trained to discern the antithesis between biblical ideas and man centered ideas. In a given year we cover Ancient Works, Medieval, or Modern Works. Juniors and seniors engage in a year- long thesis writing process, culminating in defending a thesis before a panel of faculty. Rhetoric students practice many types of speeches, writing in various styles, and incorporation of stylistic techniques.
+Following the approach in the Veritas Omnibus series and through teacher-led discussion, students analyze timeless works of the West. Students are trained to discern the antithesis between biblical ideas and man centered ideas. In a given year we cover Ancient Works, Medieval, or Modern Works. Juniors and seniors engage in a year- long thesis writing process, culminating in defending a thesis before a panel of faculty. Rhetoric students practice many types of speeches, writing in various styles, and incorporation of stylistic techniques.
 
 Students also study music and Latin, math through Trigonometry and Calculus. We offer science courses through Chemistry and Physics. There is a strong emphasis on learning to read for ideas and enjoyment, learning to write clearly and to speak eloquently.
 

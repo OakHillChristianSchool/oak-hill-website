@@ -10,7 +10,7 @@ Parents can now purchase a Panera lunch for their child for delivery on Thursday
 
 **Get started!**
 
-* **Go to:** <a href="https://panerabread.boonli.com" _target="_blank">https://panerabread.boonli.com</a> - (please bookmark this page)
+* **Go to:** <a href="https://panerabread.boonli.com" target="_blank">https://panerabread.boonli.com</a> - (please bookmark this page)
 * **Click Create an Account:** Password is: **OHCS4**
 * Enter information and click **Submit**
 * Enter information for your students, **Add Profile**. Repeat for any additional students
@@ -18,8 +18,8 @@ Parents can now purchase a Panera lunch for their child for delivery on Thursday
 
 **PROGRAM INFO -** (also available online once you are logged in to your account)
 
-* **FOOD or POLICY (Missed/Late Orders, Credits, and Changes/Cancellations):** email [PaneraConnects@panerabread.com]() and they'll get back to you right away.
-* **TECHNICAL SUPPORT (help navigating the site):** email [support@boonli.com]()
+* **FOOD or POLICY (Missed/Late Orders, Credits, and Changes/Cancellations):** email <a href="mailto:PaneraConnects@panerabread.com">PaneraConnects@panerabread.com</a> and they'll get back to you right away.
+* **TECHNICAL SUPPORT (help navigating the site):** email <a href="mailto:support@boonli.com">support@boonli.com</a>
 * **PAYMENT INFORMATION:** The program accepts payment by Debit Card or Credit Card: Visa, MasterCard & Discover.
 
 **Be sure to proceed to checkout** and process your payment. Orders that are left in the shopping cart will NOT be processed and your student(s) will not be included in the lunch service.
