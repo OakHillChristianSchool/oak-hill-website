@@ -18,7 +18,7 @@ Parents can now purchase a Panera lunch for their child for delivery on Thursday
 
 **PROGRAM INFO -** (also available online once you are logged in to your account)
 
-* **FOOD or POLICY (Missed/Late Orders, Credits, and Changes/Cancellations):** email [PaneraConnects@panerabread.com]() and they'll get back to you right away.
+* **FOOD or POLICY (Missed/Late Orders, Credits, and Changes/Cancellations):** email <a href="mailto:PaneraConnects@panerabread.com">PaneraConnects@panerabread.com</a> and they'll get back to you right away.
 * **TECHNICAL SUPPORT (help navigating the site):** email [support@boonli.com]()
 * **PAYMENT INFORMATION:** The program accepts payment by Debit Card or Credit Card: Visa, MasterCard & Discover.
 
