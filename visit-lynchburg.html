@@ -208,7 +208,8 @@ title: Visit Us
                 first = false;
             }
             // i % 7 == 0 --> sunday; counter <= this_day && month == this_month && year == this_year --> days before today; 
-            tableDataFromIndex(i).html((first || i % 7 == 0 || (counter <= this_day && month == this_month && year == this_year)) || gray ? `<span class="uk-text-muted">${counter}</span>` : `<a href="#available-times" style="cursor: pointer;" class="uk-icon-button uk-text-primary check-times-day" uk-scroll>${counter}</a>`);
+            // (i % 7 != 1 && i % 7 != 5) --> day == monday or friday
+            tableDataFromIndex(i).html((first || i % 7 == 0 || (counter <= this_day && month == this_month && year == this_year)) || gray || (i % 7 != 1 && i % 7 != 5) ? `<span class="uk-text-muted">${counter}</span>` : `<a href="#available-times" style="cursor: pointer;" class="uk-icon-button uk-text-primary check-times-day" uk-scroll>${counter}</a>`);
             counter++;
         }
         $('#month').text(`${months[month]}, ${year}`);
