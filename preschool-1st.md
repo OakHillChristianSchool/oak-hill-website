@@ -1,6 +1,6 @@
 ---
 layout: image-title-formatted
-image: assets/images/preschool-kindergarten.webp
+image: assets/images/preschool-kindergarten.png
 title: PK-1st
 redirect_from:
 - "/lower-school"
