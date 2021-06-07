@@ -374,7 +374,7 @@ title: Visit Us in Herndon
         data = $('form').serialize();
         email = $('#email').val()
         $('#step-two').html('<div class="uk-text-center"><div uk-spinner="ratio:3"></div></div>');
-        url = `https://script.google.com/macros/s/AKfycbxorMBEuud5wDy4RVKB3nVyMBwOpZEUgK4UxyM8R9T8zZrF11w4jbcI1SyYFwZcVQ1UTw/exec?date=${month + 1}/${date}/${year}&city=${city}&time=${time}&${data}&callback=?`;
+        url = `https://script.google.com/macros/s/AKfycbwTWMIwB97Hx4zbjlA1gSeuvqpEHyc9LLfu0icRuDyVv3xsfLvq8J1Wa-SLNlrWzwWaZg/exec?date=${month + 1}/${date}/${year}&city=${city}&time=${time}&${data}&callback=?`;
         
         var request = jQuery.ajax({
             crossDomain: true,
