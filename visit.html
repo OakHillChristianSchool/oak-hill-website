@@ -2,410 +2,507 @@
 layout: image-title
 image: assets/images/building-front.jpg
 title: Visit Us in Herndon
-
+days_of_week_available:
+  - Monday
+  - Tuesday
+  - Wednesday
+  - Thursday
+  - Friday
 ---
+
 <div class="uk-margin-large uk-container">
-    <h3>Schedule a Visit</h3>
-    <p>We offer in-person tours at our Herndon Campus Monday through Friday.</p>
-    <p class="uk-margin-remove-bottom">If you are out of town or prefer not to come in, Zoom or Facebook Messenger
-        tours are available at all the times that in-person tours are available. Simply:</p>
-    <ol class="uk-margin-remove-top">
-        <li>Select your time.</li>
-        <li>If you would like a tour by Zoom, indicate this in the message section and also tell us what email to send the Zoom link to.</li>
-        <li>If you prefer Facebook Messenger, indicate this in the message section and tell us what email to send the
-            Facebook Messenger room link to.</li>
-        <li>Your personal tour guide will send a link to the Zoom call or the Facebook Messenger room a few minutes before your tour.</li>
-    </ol>
-  <a class="uk-button uk-button-large uk-button-primary" href="/visit-lynchburg">Click here for Lynchburg Bookings.</a>
+  <h3>Schedule a Visit</h3>
+  <p>We offer in-person tours at our Herndon Campus Monday through Friday.</p>
+  <p class="uk-margin-remove-bottom">
+    If you are out of town or prefer not to come in, Zoom or Facebook Messenger
+    tours are available at all the times that in-person tours are available.
+    Simply:
+  </p>
+  <ol class="uk-margin-remove-top">
+    <li>Select your time.</li>
+    <li>
+      If you would like a tour by Zoom, indicate this in the message section and
+      also tell us what email to send the Zoom link to.
+    </li>
+    <li>
+      If you prefer Facebook Messenger, indicate this in the message section and
+      tell us what email to send the Facebook Messenger room link to.
+    </li>
+    <li>
+      Your personal tour guide will send a link to the Zoom call or the Facebook
+      Messenger room a few minutes before your tour.
+    </li>
+  </ol>
+  <a class="uk-button uk-button-large uk-button-primary" href="/visit-lynchburg"
+    >Click here for Lynchburg Bookings.</a
+  >
 </div>
 
 <div id="step-one" class="uk-container uk-container-xsmall uk-margin-bottom">
-    <div class="uk-overflow-auto">
-        <p id="month"></p>
-        <a href="#" onclick="decrementMonth()" class="uk-icon-button uk-margin-small-right" uk-icon="chevron-left"></a>
-        <span onclick="setMonthToday()" style="cursor: pointer;width: 5em;"
-            class="uk-icon-button uk-margin-small-right">Today</span>
-        <a href="#" onclick="incrementMonth()" class="uk-icon-button uk-margin-small-right" uk-icon="chevron-right"></a>
-        <table class="uk-table uk-table-divider uk-text-center">
-            <thead>
-                <tr>
-                    <th>Sunday</th>
-                    <th>Monday</th>
-                    <th>Tuesday</th>
-                    <th>Wednesday</th>
-                    <th>Thursday</th>
-                    <th>Friday</th>
-                    <th>Saturday</th>
-                </tr>
-            </thead>
-            <tbody id="calendar">
-                <tr>
-                    <td>1</td>
-                    <td>2</td>
-                    <td>3</td>
-                    <td>4</td>
-                    <td>5</td>
-                    <td>6</td>
-                    <td>7</td>
-                </tr>
-                <tr>
-                    <td>8</td>
-                    <td>9</td>
-                    <td>10</td>
-                    <td>11</td>
-                    <td>12</td>
-                    <td>13</td>
-                    <td>14</td>
-                </tr>
-                <tr>
-                    <td>15</td>
-                    <td>16</td>
-                    <td>17</td>
-                    <td>18</td>
-                    <td>19</td>
-                    <td>20</td>
-                    <td>21</td>
-                </tr>
-                <tr>
-                    <td>22</td>
-                    <td>23</td>
-                    <td>24</td>
-                    <td>25</td>
-                    <td>26</td>
-                    <td>27</td>
-                    <td>28</td>
-                </tr>
-                <tr>
-                    <td>29</td>
-                    <td>30</td>
-                    <td>1</td>
-                    <td>2</td>
-                    <td>3</td>
-                    <td>4</td>
-                    <td>5</td>
-                </tr>
-                <tr>
-                    <td>6</td>
-                    <td>7</td>
-                    <td>8</td>
-                    <td>9</td>
-                    <td>10</td>
-                    <td>11</td>
-                    <td>12</td>
-                </tr>
-            </tbody>
-        </table>
-    </div>
+  <div class="uk-overflow-auto">
+    <p id="month"></p>
+    <a
+      href="#"
+      onclick="decrementMonth()"
+      class="uk-icon-button uk-margin-small-right"
+      uk-icon="chevron-left"
+    ></a>
+    <span
+      onclick="setMonthToday()"
+      style="cursor: pointer; width: 5em"
+      class="uk-icon-button uk-margin-small-right"
+      >Today</span
+    >
+    <a
+      href="#"
+      onclick="incrementMonth()"
+      class="uk-icon-button uk-margin-small-right"
+      uk-icon="chevron-right"
+    ></a>
+    <table class="uk-table uk-table-divider uk-text-center">
+      <thead>
+        <tr>
+          <th>Sunday</th>
+          <th>Monday</th>
+          <th>Tuesday</th>
+          <th>Wednesday</th>
+          <th>Thursday</th>
+          <th>Friday</th>
+          <th>Saturday</th>
+        </tr>
+      </thead>
+      <tbody id="calendar">
+        <tr>
+          <td>1</td>
+          <td>2</td>
+          <td>3</td>
+          <td>4</td>
+          <td>5</td>
+          <td>6</td>
+          <td>7</td>
+        </tr>
+        <tr>
+          <td>8</td>
+          <td>9</td>
+          <td>10</td>
+          <td>11</td>
+          <td>12</td>
+          <td>13</td>
+          <td>14</td>
+        </tr>
+        <tr>
+          <td>15</td>
+          <td>16</td>
+          <td>17</td>
+          <td>18</td>
+          <td>19</td>
+          <td>20</td>
+          <td>21</td>
+        </tr>
+        <tr>
+          <td>22</td>
+          <td>23</td>
+          <td>24</td>
+          <td>25</td>
+          <td>26</td>
+          <td>27</td>
+          <td>28</td>
+        </tr>
+        <tr>
+          <td>29</td>
+          <td>30</td>
+          <td>1</td>
+          <td>2</td>
+          <td>3</td>
+          <td>4</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>6</td>
+          <td>7</td>
+          <td>8</td>
+          <td>9</td>
+          <td>10</td>
+          <td>11</td>
+          <td>12</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
 
-    <div id="available-times" class="uk-child-width-expand@s uk-margin-large-top uk-text-center" uk-grid>
-        <div>
-            <p>Morning</p>
-            <div id="morning" uk-margin>
-                <p>--</p>
-            </div>
-        </div>
-        <div>
-            <p>Afternoon</p>
-            <div id="afternoon" uk-margin>
-                <p>--</p>
-            </div>
-        </div>
+  <div
+    id="available-times"
+    class="uk-child-width-expand@s uk-margin-large-top uk-text-center"
+    uk-grid
+  >
+    <div>
+      <p>Morning</p>
+      <div id="morning" uk-margin>
+        <p>--</p>
+      </div>
     </div>
+    <div>
+      <p>Afternoon</p>
+      <div id="afternoon" uk-margin>
+        <p>--</p>
+      </div>
+    </div>
+  </div>
 </div>
 
-<div style="display: none" id="step-two" class="uk-container uk-container-small uk-margin-bottom">
-    <h3>Visit info</h3>
-    <ul class="uk-list">
-        <li id="visit-date"></li>
-        <li id="visit-time"></li>
-    </ul>
-    <form action="" method="POST" onsubmit="bookTime(event)">
-        <div class="uk-margin">
-            <input name="customer" class="uk-input" type="text" placeholder="Name (Required)" required>
-        </div>
-        <div class="uk-margin">
-            <input name="studentage" class="uk-input" type="text" placeholder="Age of Student (Required)" required>
-        </div>
-        <div class="uk-margin">
-            <input id="email" name="email" class="uk-input" type="email" placeholder="Email (Required)" required>
-        </div>
-        <div class="uk-margin">
-            <input name="phonenumber" class="uk-input" type="text" placeholder="Phone Number">
-        </div>
-        <div class="uk-margin">
-            <textarea name="howheard" class="uk-textarea" rows="5"
-                placeholder="How did you hear about Oak Hill?"></textarea>
-        </div>
-        <div class="uk-margin">
-            <textarea name="message" class="uk-textarea" rows="5" placeholder="Message"></textarea>
-        </div>
-        <div class="uk-margin">
-            <input class="uk-button uk-button-large uk-button-primary" type="submit" value="Book It">
-        </div>
-    </form>
+<div
+  style="display: none"
+  id="step-two"
+  class="uk-container uk-container-small uk-margin-bottom"
+>
+  <h3>Visit info</h3>
+  <ul class="uk-list">
+    <li id="visit-date"></li>
+    <li id="visit-time"></li>
+  </ul>
+  <form action="" method="POST" onsubmit="bookTime(event)">
+    <div class="uk-margin">
+      <input
+        name="customer"
+        class="uk-input"
+        type="text"
+        placeholder="Name (Required)"
+        required
+      />
+    </div>
+    <div class="uk-margin">
+      <input
+        name="studentage"
+        class="uk-input"
+        type="text"
+        placeholder="Age of Student (Required)"
+        required
+      />
+    </div>
+    <div class="uk-margin">
+      <input
+        id="email"
+        name="email"
+        class="uk-input"
+        type="email"
+        placeholder="Email (Required)"
+        required
+      />
+    </div>
+    <div class="uk-margin">
+      <input
+        name="phonenumber"
+        class="uk-input"
+        type="text"
+        placeholder="Phone Number"
+      />
+    </div>
+    <div class="uk-margin">
+      <textarea
+        name="howheard"
+        class="uk-textarea"
+        rows="5"
+        placeholder="How did you hear about Oak Hill?"
+      ></textarea>
+    </div>
+    <div class="uk-margin">
+      <textarea
+        name="message"
+        class="uk-textarea"
+        rows="5"
+        placeholder="Message"
+      ></textarea>
+    </div>
+    <div class="uk-margin">
+      <input
+        class="uk-button uk-button-large uk-button-primary"
+        type="submit"
+        value="Book It"
+      />
+    </div>
+  </form>
 </div>
 
-<div id="step-three" style="display: none" class="uk-container uk-container-xsmall uk-margin-bottom">
-    <div class="uk-card uk-card-default uk-card-body">
-        <h3 class="uk-card-title">Thank you.</h3>
-        <p><b>Your tour is booked. Please save this information.</b><br>
-            <span id="final-location">Location: 13525 Dulles Technology Dr, Herndon 20170</span><br>
-            <span id="final-time">Time:</span>
-    </div>
+<div
+  id="step-three"
+  style="display: none"
+  class="uk-container uk-container-xsmall uk-margin-bottom"
+>
+  <div class="uk-card uk-card-default uk-card-body">
+    <h3 class="uk-card-title">Thank you.</h3>
+    <p>
+      <b>Your tour is booked. Please save this information.</b><br />
+      <span id="final-location"
+        >Location: 13525 Dulles Technology Dr, Herndon 20170</span
+      ><br />
+      <span id="final-time">Time:</span>
+    </p>
+  </div>
 </div>
 
 <script>
-    const TIME_AVAILABLE_SHEET = 'Time Available'
-    const TIME_UNAVAILABLE_SHEET = 'Time Unavailable'
-    const TIME_AVAILABLE_SHEET_URL_ENCODED = encodeURI(TIME_AVAILABLE_SHEET)
-    const TIME_UNAVAILABLE_SHEET_URL_ENCODED = encodeURI(TIME_UNAVAILABLE_SHEET)
+  const TIME_AVAILABLE_SHEET = 'Time Available'
+  const TIME_UNAVAILABLE_SHEET = 'Time Unavailable'
+  const TIME_AVAILABLE_SHEET_URL_ENCODED = encodeURI(TIME_AVAILABLE_SHEET)
+  const TIME_UNAVAILABLE_SHEET_URL_ENCODED = encodeURI(TIME_UNAVAILABLE_SHEET)
 
-    var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
-    var _daysInMonth = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
-    var sheets_days = {
-        0: 'B',
-        1: 'C',
-        2: 'D',
-        3: 'E',
-        4: 'F',
-        5: 'G',
-        6: 'H',
-    }
-    var month;
-    var year;
-    var date;
-    var time;
-    let city = 'Herndon';
+  var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+  var _daysInMonth = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
+  var sheets_days = {
+      0: 'B',
+      1: 'C',
+      2: 'D',
+      3: 'E',
+      4: 'F',
+      5: 'G',
+      6: 'H',
+  }
+  var daysOfTheWeek = [
+      'Sunday',
+      'Monday',
+      'Tuesday',
+      'Wednesday',
+      'Thursday',
+      'Friday',
+      'Saturday',
+  ]
+  var month;
+  var year;
+  var date;
+  var time;
+  let city = 'Herndon';
+  let daysOfWeekAvailable = {{ page.days_of_week_available | jsonify }}
 
-    function daysInMonth(month, year) {
-        year_leap = (year % 4 == 0);
-        return year_leap && month == 1 ? 29 : _daysInMonth[month];
-    }
+  function daysInMonth(month, year) {
+      year_leap = (year % 4 == 0);
+      return year_leap && month == 1 ? 29 : _daysInMonth[month];
+  }
 
-    function tableDataFromIndex(index) {
-        let row = Math.floor(index / 7);
-        let column = index % 7;
-        return $('#calendar').children('tr').eq(row).children('td').eq(column)
-    }
+  function tableDataFromIndex(index) {
+      let row = Math.floor(index / 7);
+      let column = index % 7;
+      return $('#calendar').children('tr').eq(row).children('td').eq(column)
+  }
 
-    function displayMonth(month, year) {
-        let today = new Date();
-        let this_day = today.getDate();
-        let this_month = today.getMonth();
-        let this_year = today.getFullYear();
-        let day = new Date(year, month, 1).getDay();
-        let prev_days = daysInMonth(month == 0 ? 11 : month - 1);
-        let days = daysInMonth(month, year);
-        let counter = prev_days - day + 1;
-        let first = true;
-        let gray = false
-        for (i = 0; i < 42; i++) {
-            if (first ? counter > prev_days : counter > days) {
-                counter = 1;
-                if (!first) {
-                    gray = true;
-                }
-                first = false;
-            }
-            // i % 7 == 0 --> sunday; counter <= this_day && month == this_month && year == this_year --> days before today; 
-            tableDataFromIndex(i).html((first || i % 7 == 0 || (counter <= this_day && month == this_month && year == this_year)) || gray ? `<span class="uk-text-muted">${counter}</span>` : `<a href="#available-times" style="cursor: pointer;" class="uk-icon-button uk-text-primary check-times-day" uk-scroll>${counter}</a>`);
-            counter++;
-        }
-        $('#month').text(`${months[month]}, ${year}`);
-    }
+  function displayMonth(month, year) {
+      let today = new Date();
+      let this_day = today.getDate();
+      let this_month = today.getMonth();
+      let this_year = today.getFullYear();
+      let day = new Date(year, month, 1).getDay();
+      let prev_days = daysInMonth(month == 0 ? 11 : month - 1);
+      let days = daysInMonth(month, year);
+      let counter = prev_days - day + 1;
+      let first = true;
+      let gray = false
+      for (i = 0; i < 42; i++) {
+          if (first ? counter > prev_days : counter > days) {
+              counter = 1;
+              if (!first) {
+                  gray = true;
+              }
+              first = false;
+          }
+          // i % 7 == 0 --> sunday; counter <= this_day && month == this_month && year == this_year --> days before today;
+          let muted = (first || i % 7 == 0 || (counter <= this_day && month == this_month && year == this_year)) || gray || !(daysOfWeekAvailable.includes(daysOfTheWeek[i % 7]))
 
-    function setMonth(_month, _year) {
-        month = _month
-        year = _year
-        displayMonth(month, year)
-    }
+          tableDataFromIndex(i).html(muted ? `<span class="uk-text-muted">${counter}</span>` : `<a href="#available-times" style="cursor: pointer;" class="uk-icon-button uk-text-primary check-times-day" uk-scroll>${counter}</a>`);
+          counter++;
+      }
+      $('#month').text(`${months[month]}, ${year}`);
+  }
 
-    function incrementMonth() {
-        event.preventDefault();
-        if (month == 11) {
-            setMonth(0, year + 1);
-        } else {
-            setMonth(month + 1, year);
-        }
-    }
+  function setMonth(_month, _year) {
+      month = _month
+      year = _year
+      displayMonth(month, year)
+  }
 
-    function decrementMonth() {
-        event.preventDefault();
-        if (month == 0) {
-            setMonth(11, year - 1);
-        } else {
-            setMonth(month - 1, year);
-        }
-    }
+  function incrementMonth() {
+      event.preventDefault();
+      if (month == 11) {
+          setMonth(0, year + 1);
+      } else {
+          setMonth(month + 1, year);
+      }
+  }
 
-    function setMonthToday() {
-        let d = new Date();
-        // display the next month if it's the last day of a month
-        if (d.getDate() == daysInMonth(d.getMonth(), d.getFullYear())) {
-            if (d.getMonth() == 11) {
-                setMonth(0, d.getFullYear() + 1);
-            } else {
-                setMonth(d.getMonth() + 1, d.getFullYear());
-            }
-        } else {
-            setMonth(d.getMonth(), d.getFullYear());
-        }
-    }
+  function decrementMonth() {
+      event.preventDefault();
+      if (month == 0) {
+          setMonth(11, year - 1);
+      } else {
+          setMonth(month - 1, year);
+      }
+  }
 
-    function timeFromIndex(index) {
-        hour = Math.floor(index / 2) + (index >= 14 ? -6 : 6);
-        minute = index % 2 == 0 ? '00' : '30';
-        return `${hour}:${minute}`;
-    }
+  function setMonthToday() {
+      let d = new Date();
+      // display the next month if it's the last day of a month
+      if (d.getDate() == daysInMonth(d.getMonth(), d.getFullYear())) {
+          if (d.getMonth() == 11) {
+              setMonth(0, d.getFullYear() + 1);
+          } else {
+              setMonth(d.getMonth() + 1, d.getFullYear());
+          }
+      } else {
+          setMonth(d.getMonth(), d.getFullYear());
+      }
+  }
 
-    function indexFromTime(time) {
-        parts = time.split(':');
-        hour = parseInt(parts[0]);
-        minute = parseInt(parts[1]);
-        if (time.slice(-2) == 'pm') {
-            hour = hour + 12;
-        }
-        index = Math.floor((hour - 6) * 2);
-        if (minute == 30) {
-            index++;
-        }
-        return index;
-    }
+  function timeFromIndex(index) {
+      hour = Math.floor(index / 2) + (index >= 14 ? -6 : 6);
+      minute = index % 2 == 0 ? '00' : '30';
+      return `${hour}:${minute}`;
+  }
 
-    function getAvailabilities(day, date) {
-        let d = new Date();
-        let this_year = d.getFullYear();
-        let this_month = d.getMonth();
-        let this_date = d.getDate();
-        morning = $('#morning');
-        afternoon = $('#afternoon');
+  function indexFromTime(time) {
+      parts = time.split(':');
+      hour = parseInt(parts[0]);
+      minute = parseInt(parts[1]);
+      if (time.slice(-2) == 'pm') {
+          hour = hour + 12;
+      }
+      index = Math.floor((hour - 6) * 2);
+      if (minute == 30) {
+          index++;
+      }
+      return index;
+  }
 
-        if (year < this_year || (year == this_year && ((month < this_month) || (month == this_month && date <= this_date)))) {
-            morning.html('<p>Please choose a later date</p>');
-            afternoon.html('<p>Please choose a later date</p>');
-            return;
-        }
-        $('#month').text(`${months[month]} ${date}, ${year}`);
-        column = sheets_days[day];
-        url = `https://sheets.googleapis.com/v4/spreadsheets/1vTVT1z-a5O9IBOCOR5KilVnKFfbMf4_-Rd_H4AYlruk/values/${TIME_AVAILABLE_SHEET_URL_ENCODED}!${column}7:${column}?key=AIzaSyDCL2JGEo_oR9GsIWL3TjyJCBpsz3DMfBM`;
+  function getAvailabilities(day, date) {
+      let d = new Date();
+      let this_year = d.getFullYear();
+      let this_month = d.getMonth();
+      let this_date = d.getDate();
+      morning = $('#morning');
+      afternoon = $('#afternoon');
 
-        morning.html('<div uk-spinner></div>');
-        afternoon.html('<div uk-spinner></div>');
+      if (year < this_year || (year == this_year && ((month < this_month) || (month == this_month && date <= this_date)))) {
+          morning.html('<p>Please choose a later date</p>');
+          afternoon.html('<p>Please choose a later date</p>');
+          return;
+      }
+      $('#month').text(`${months[month]} ${date}, ${year}`);
+      column = sheets_days[day];
+      url = `https://sheets.googleapis.com/v4/spreadsheets/1vTVT1z-a5O9IBOCOR5KilVnKFfbMf4_-Rd_H4AYlruk/values/${TIME_AVAILABLE_SHEET_URL_ENCODED}!${column}7:${column}?key=AIzaSyDCL2JGEo_oR9GsIWL3TjyJCBpsz3DMfBM`;
 
-        $.getJSON(url, function (data) {
-            url = `https://sheets.googleapis.com/v4/spreadsheets/1vTVT1z-a5O9IBOCOR5KilVnKFfbMf4_-Rd_H4AYlruk/values/${TIME_UNAVAILABLE_SHEET_URL_ENCODED}!B13:E?key=AIzaSyDCL2JGEo_oR9GsIWL3TjyJCBpsz3DMfBM`;
-            $.getJSON(url, function (days_not_avail) {
-                url = `https://sheets.googleapis.com/v4/spreadsheets/1vTVT1z-a5O9IBOCOR5KilVnKFfbMf4_-Rd_H4AYlruk/values/Bookings!B7:I?key=AIzaSyDCL2JGEo_oR9GsIWL3TjyJCBpsz3DMfBM&_=2`
-                $.getJSON(url, function (bookings) {
-                    items = []
-                    console.log(bookings.values)
-                    if (bookings.values) {
-                        let sameCityBookings = [];
-                        bookings.values.forEach((item, index) => {
-                            if (item[7] == city) {
-                                sameCityBookings.push([item[4], '', '', item[5]])
-                            }
-                        });
-                        if (days_not_avail.values) {
-                            items = days_not_avail.values.concat(sameCityBookings);
-                        } else {
-                            items = sameCityBookings;
-                        }
-                    } else {
-                        if (days_not_avail.values) {
-                            items = days_not_avail.values
-                        }
-                    }
-                    items.forEach(function (item, index) {
-                        parts = item[0].split('/');
-                        if (parseInt(parts[0]) == month + 1 && parseInt(parts[1]) == date && parseInt(parts[2]) == year) {
-                            if (item[3] == 'all') {
-                                data.values.forEach(function(item, index) {
-                                    // if the whole day is blocked off, remove all available times from the data
-                                    // just setting data.values to [] will throw an error if there is an appointment on that same day
-                                    data.values[index] = []
-                                })
-                            } else {
-                                times = item[3].replace(/ /g, '').toLowerCase().split(',');
-                                times.forEach((item, index) => {
-                                    data.values[indexFromTime(item)] = [];
-                                });
-                            }
-                        }
-                    });
-                    morning.empty();
-                    afternoon.empty();
-                    if (data.values) {
-                        data.values.slice(0, 12).forEach(function (item, index) {
-                            if (item == '1') {
-                                morning.append(`<button onclick="setTime()" class="chose-time uk-button uk-button-default uk-width-1-1">${timeFromIndex(index)} am</button>`);
-                            }
-                        });
+      morning.html('<div uk-spinner></div>');
+      afternoon.html('<div uk-spinner></div>');
 
-                        data.values.slice(12).forEach(function (item, index) {
-                            if (item == '1') {
-                                afternoon.append(`<button onclick="setTime()" class="choose-time uk-button uk-button-default uk-width-1-1">${timeFromIndex(index + 12)} pm</button>`);
-                            }
-                        });
-                    }
-                    if (morning.html() == '') {
-                        morning.html('<p>No available times.</p>');
-                    }
-                    if (afternoon.html() == '') {
-                        afternoon.html('<p>No available times.</p>');
-                    }
-                });
-            });
-        });
-    }
+      $.getJSON(url, function (data) {
+          url = `https://sheets.googleapis.com/v4/spreadsheets/1vTVT1z-a5O9IBOCOR5KilVnKFfbMf4_-Rd_H4AYlruk/values/${TIME_UNAVAILABLE_SHEET_URL_ENCODED}!B13:E?key=AIzaSyDCL2JGEo_oR9GsIWL3TjyJCBpsz3DMfBM`;
+          $.getJSON(url, function (days_not_avail) {
+              url = `https://sheets.googleapis.com/v4/spreadsheets/1vTVT1z-a5O9IBOCOR5KilVnKFfbMf4_-Rd_H4AYlruk/values/Bookings!B7:I?key=AIzaSyDCL2JGEo_oR9GsIWL3TjyJCBpsz3DMfBM&_=2`
+              $.getJSON(url, function (bookings) {
+                  items = []
+                  console.log(bookings.values)
+                  if (bookings.values) {
+                      let sameCityBookings = [];
+                      bookings.values.forEach((item, index) => {
+                          if (item[7] == city) {
+                              sameCityBookings.push([item[4], '', '', item[5]])
+                          }
+                      });
+                      if (days_not_avail.values) {
+                          items = days_not_avail.values.concat(sameCityBookings);
+                      } else {
+                          items = sameCityBookings;
+                      }
+                  } else {
+                      if (days_not_avail.values) {
+                          items = days_not_avail.values
+                      }
+                  }
+                  items.forEach(function (item, index) {
+                      parts = item[0].split('/');
+                      if (parseInt(parts[0]) == month + 1 && parseInt(parts[1]) == date && parseInt(parts[2]) == year) {
+                          if (item[3] == 'all') {
+                              data.values.forEach(function(item, index) {
+                                  // if the whole day is blocked off, remove all available times from the data
+                                  // just setting data.values to [] will throw an error if there is an appointment on that same day
+                                  data.values[index] = []
+                              })
+                          } else {
+                              times = item[3].replace(/ /g, '').toLowerCase().split(',');
+                              times.forEach((item, index) => {
+                                  data.values[indexFromTime(item)] = [];
+                              });
+                          }
+                      }
+                  });
+                  morning.empty();
+                  afternoon.empty();
+                  if (data.values) {
+                      data.values.slice(0, 12).forEach(function (item, index) {
+                          if (item == '1') {
+                              morning.append(`<button onclick="setTime()" class="chose-time uk-button uk-button-default uk-width-1-1">${timeFromIndex(index)} am</button>`);
+                          }
+                      });
 
-    function setTime() {
-        time = $(event.target).text();
-        $('#visit-date').text(`Date: ${months[month]} ${date}, ${year}`);
-        $('#visit-time').text(`Time: ${time}`);
-        $('#step-one').slideUp(.5, () => {
-            $('#step-two').slideDown();
-        });
-    }
+                      data.values.slice(12).forEach(function (item, index) {
+                          if (item == '1') {
+                              afternoon.append(`<button onclick="setTime()" class="choose-time uk-button uk-button-default uk-width-1-1">${timeFromIndex(index + 12)} pm</button>`);
+                          }
+                      });
+                  }
+                  if (morning.html() == '') {
+                      morning.html('<p>No available times.</p>');
+                  }
+                  if (afternoon.html() == '') {
+                      afternoon.html('<p>No available times.</p>');
+                  }
+              });
+          });
+      });
+  }
 
-    function bookTime(event) {
-        event.preventDefault();
-        $('#final-time').text(`Time: ${months[month]} ${date}, ${year} at ${time}`);
-        data = $('form').serialize();
-        email = $('#email').val()
-        $('#step-two').html('<div class="uk-text-center"><div uk-spinner="ratio:3"></div></div>');
-        url = `https://script.google.com/macros/s/AKfycbwTWMIwB97Hx4zbjlA1gSeuvqpEHyc9LLfu0icRuDyVv3xsfLvq8J1Wa-SLNlrWzwWaZg/exec?date=${month + 1}/${date}/${year}&city=${city}&time=${time}&${data}&callback=?`;
-        
-        var request = jQuery.ajax({
-            crossDomain: true,
-            url: url,
-            method: "GET",
-            dataType: "jsonp"
-        }).done(() => {
-            $('#step-two').slideUp(.5, () => {
-                $('#step-three').slideDown();
-                dataLayer.push({
-                    'event': 'book visit',
-                    'email': email,
-                    'city': city,
-                });
-            });
-        });
+  function setTime() {
+      time = $(event.target).text();
+      $('#visit-date').text(`Date: ${months[month]} ${date}, ${year}`);
+      $('#visit-time').text(`Time: ${time}`);
+      $('#step-one').slideUp(.5, () => {
+          $('#step-two').slideDown();
+      });
+  }
 
-        return false;
-    }
+  function bookTime(event) {
+      event.preventDefault();
+      $('#final-time').text(`Time: ${months[month]} ${date}, ${year} at ${time}`);
+      data = $('form').serialize();
+      email = $('#email').val()
+      $('#step-two').html('<div class="uk-text-center"><div uk-spinner="ratio:3"></div></div>');
+      url = `https://script.google.com/macros/s/AKfycbwTWMIwB97Hx4zbjlA1gSeuvqpEHyc9LLfu0icRuDyVv3xsfLvq8J1Wa-SLNlrWzwWaZg/exec?date=${month + 1}/${date}/${year}&city=${city}&time=${time}&${data}&callback=?`;
 
-    $(document).ready(() => {
-        date = 0;
-        setMonthToday();
-        $('td').click(function () {
-            column = $(this).index();
-            row = $(this).parent().index();
-            if ($(this).children('.uk-icon-button').length !== 0) {
-                date = parseInt($(this).children('.uk-icon-button').text());
-                getAvailabilities(column, date);
-            }
-        });
-    });
+      var request = jQuery.ajax({
+          crossDomain: true,
+          url: url,
+          method: "GET",
+          dataType: "jsonp"
+      }).done(() => {
+          $('#step-two').slideUp(.5, () => {
+              $('#step-three').slideDown();
+              dataLayer.push({
+                  'event': 'book visit',
+                  'email': email,
+                  'city': city,
+              });
+          });
+      });
 
+      return false;
+  }
+
+  $(document).ready(() => {
+      date = 0;
+      setMonthToday();
+      $('td').click(function () {
+          column = $(this).index();
+          row = $(this).parent().index();
+          if ($(this).children('.uk-icon-button').length !== 0) {
+              date = parseInt($(this).children('.uk-icon-button').text());
+              getAvailabilities(column, date);
+          }
+      });
+  });
 </script>
