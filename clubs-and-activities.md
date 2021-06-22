@@ -12,9 +12,7 @@ Lego Club, ages 3-7
 
 Math Tutoring Club, High School student-led
 
-Spanish Clubs, ages 3-12, led by Mrs. Gil who is bilingual
-
-After School Spanish Class, Grades 9-12, Earns High School credit
+Spanish Club, Kg-5th Grade, led by Mrs. Gil who is bilingual
 
 Choral Ensemble, Grades 6-12
 
