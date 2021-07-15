@@ -10,8 +10,6 @@ redirect_from: []
 
 Are you tired of the overuse of computers as well as lessons in extraneous or even harmful topics? Enjoy seeing your child continue to build a strong foundation in true academic areas during his Grammar School years.
 
-Students are pushed towards the solidifying analysis and communication of the logic and rhetoric levels of learning, though the primary focus at this age is on filling the mind with knowledge. At OH you may see 5th graders having a class debate of British vs. Colonists, 4th graders giving discovery presentations about electricity, 3rd graders acting out ancient customs or 2nd graders dressing up for a play.
-
 ### 4 Year History and Bible Courses
 
 History and Bible Courses using Veritas curriculum emphasize learning events and historical figures through projects as well as by answering questions in complete sentences and short essays. Students learn to do independent research using pre-selected sources.
