@@ -3,12 +3,16 @@ layout: image-title
 image: assets/images/building-front.jpg
 title: Visit Us in Herndon
 days_of_week_available:
-- Thursday
-
+  - Thursday
 ---
+
 <div class="uk-margin-large uk-container">
   <h3>Schedule a Visit</h3>
-  <p>We offer in-person tours at our Herndon Campus mostly on Thursdays in the summer. Email us at office@oakhillk12.com to schedule a tour on a different day.</p>
+  <p>
+    We offer in-person tours at our Herndon Campus mostly on Thursdays in the
+    summer. Email us at office@oakhillk12.com to schedule a tour on a different
+    day.
+  </p>
   <p class="uk-margin-remove-bottom">
     If you are out of town or prefer not to come in, Zoom or Facebook Messenger
     tours are available at all the times that in-person tours are available.
@@ -468,7 +472,7 @@ days_of_week_available:
       data = $('form').serialize();
       email = $('#email').val()
       $('#step-two').html('<div class="uk-text-center"><div uk-spinner="ratio:3"></div></div>');
-      url = `https://script.google.com/macros/s/AKfycbwTWMIwB97Hx4zbjlA1gSeuvqpEHyc9LLfu0icRuDyVv3xsfLvq8J1Wa-SLNlrWzwWaZg/exec?date=${month + 1}/${date}/${year}&city=${city}&time=${time}&${data}&callback=?`;
+      url = `https://script.google.com/macros/s/AKfycbxz_Y6UILK7x-KtqS0EPcUAeA14MHeUeI_JF3iWEshbhtAJi2qYVMV9SLAG6HjMOF-JxQ/exec?date=${month + 1}/${date}/${year}&city=${city}&time=${time}&${data}&callback=?`;
 
       var request = jQuery.ajax({
           crossDomain: true,
