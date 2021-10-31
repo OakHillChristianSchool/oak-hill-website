@@ -21,13 +21,6 @@
   bio: 'Abigail Faith Thoburn is a rising senior at New Saint Andrews College.  She
     is currently taking a leave of absence to work as the school Office Manager.  '
   image: "/assets/abigail.jpg"
-- name: Rita Barillas
-  bio: 'Rita Barillas joined us in 2014 after teaching at a classical Christian school
-    in Georgia. She is working on her M.A.T. in secondary English and currently holds
-    a B.S. in English Magna Cum Laude from Liberty University. Originally from Pennsylvania,
-    Mrs. Barillas spent seven years teaching on the mission field in El Salvador.  Teaching:  elementary
-    school'
-  image: assets/images/faculty/barillas.jpg
 - name: Katherine Culver
   bio: 'Katherine Culver earned an elementary education degree as an honor student
     at Methodist University. She taught at another ACCS school before coming to Oak
@@ -41,12 +34,6 @@
     came to OH in 2014 and currently serves as our Athletic Director and Student Activities
     Advisor.
   image: assets/images/faculty/gil.jpg
-- name: Steven Powers
-  bio: 'Steven Powers teaches Algebra and facilitates workshops with our upper school
-    students.  Mr. Powers holds a B.A. in Russian Studies from George Mason.  He has
-    four boys who attend OH as well as a new daughter.  His family belongs to St.
-    Athanasius Lutheran Church.  '
-  image: "/assets/powers.jpg"
 - name: Andrew Privler
   bio: Andrew Privler teaches mathematics. He studied history and education earning
     a B.A. from the City College of New York as well as an M.A. in Administration
