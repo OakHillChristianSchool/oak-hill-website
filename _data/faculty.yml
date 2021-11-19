@@ -1,7 +1,4 @@
 ---
-- name: Mandy Fournier, Assistant Teacher, OH since 2021
-  bio: ''
-  image: "/assets/img_6546.JPG"
 - name: Robert Loren Thoburn, Jr., OH since 1997
   bio: 'Robert Thoburn II, founder and School Headmaster. Robert and his wife Sheila
     spend most of their time living and working in Herndon.  They have five sons and
@@ -129,6 +126,9 @@
 - name: Nancy Weathers, Kindergarten, OH since 2004
   bio: ''
   image: "/assets/weatherssized-250x300.png"
+- name: Mandy Fournier, Assistant Teacher, OH since 2021
+  bio: ''
+  image: "/assets/img_6546.JPG"
 - name: Yanet Birehan, Assistant Teacher, OH since 2019
   bio: ''
   image: "/assets/img_6487.JPG"
