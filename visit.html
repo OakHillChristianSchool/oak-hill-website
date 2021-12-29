@@ -3,16 +3,16 @@ layout: image-title
 image: assets/images/building-front.jpg
 title: Visit Us in Herndon
 days_of_week_available:
-- Tuesday
-- Wednesday
-- Thursday
-
+  - Tuesday
+  - Wednesday
+  - Thursday
 ---
+
 <div class="uk-margin-large uk-container">
   <h3>Schedule a Visit</h3>
   <p>
-    We offer in-person tours at our Herndon Campus Tuesday-Thursday. Email us at office@oakhillk12.com to schedule a tour on a different
-    day.
+    We offer in-person tours at our Herndon Campus Tuesday-Thursday. Email us at
+    office@oakhillk12.com to schedule a tour on a different day.
   </p>
   <p class="uk-margin-remove-bottom">
     If you are out of town or prefer not to come in, Zoom or Facebook Messenger
@@ -242,7 +242,7 @@ days_of_week_available:
 </div>
 
 <script>
-  const TIME_AVAILABLE_SHEET = 'Time Available'
+  const TIME_AVAILABLE_SHEET = 'Time Available (Herndon)'
   const TIME_UNAVAILABLE_SHEET = 'Time Unavailable'
   const TIME_AVAILABLE_SHEET_URL_ENCODED = encodeURI(TIME_AVAILABLE_SHEET)
   const TIME_UNAVAILABLE_SHEET_URL_ENCODED = encodeURI(TIME_UNAVAILABLE_SHEET)
@@ -351,9 +351,10 @@ days_of_week_available:
       }
   }
 
+  const MINUTE_INCREMENTS = ["00", "15", "30", "45"]
   function timeFromIndex(index) {
-      hour = Math.floor(index / 2) + (index >= 14 ? -6 : 6);
-      minute = index % 2 == 0 ? '00' : '30';
+      hour = Math.floor(index / 4) + (index >= 28 ? -6 : 6);
+      minute = MINUTE_INCREMENTS[index % 4]
       return `${hour}:${minute}`;
   }
 
@@ -364,10 +365,8 @@ days_of_week_available:
       if (time.slice(-2) == 'pm') {
           hour = hour + 12;
       }
-      index = Math.floor((hour - 6) * 2);
-      if (minute == 30) {
-          index++;
-      }
+      index = Math.floor((hour - 6) * 4);
+      index += Math.floor(minute / 15);
       return index;
   }
 
@@ -435,15 +434,15 @@ days_of_week_available:
                   morning.empty();
                   afternoon.empty();
                   if (data.values) {
-                      data.values.slice(0, 12).forEach(function (item, index) {
+                      data.values.slice(0, 24).forEach(function (item, index) {
                           if (item == '1') {
                               morning.append(`<button onclick="setTime()" class="chose-time uk-button uk-button-default uk-width-1-1">${timeFromIndex(index)} am</button>`);
                           }
                       });
 
-                      data.values.slice(12).forEach(function (item, index) {
+                      data.values.slice(24).forEach(function (item, index) {
                           if (item == '1') {
-                              afternoon.append(`<button onclick="setTime()" class="choose-time uk-button uk-button-default uk-width-1-1">${timeFromIndex(index + 12)} pm</button>`);
+                              afternoon.append(`<button onclick="setTime()" class="choose-time uk-button uk-button-default uk-width-1-1">${timeFromIndex(index + 24)} pm</button>`);
                           }
                       });
                   }
