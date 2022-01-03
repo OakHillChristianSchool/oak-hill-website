@@ -1,140 +1,158 @@
 ---
 - name: Robert Loren Thoburn, Jr., OH since 1997
-  bio: 'Robert Thoburn II, founder and School Headmaster. Robert and his wife Sheila
+  bio:
+    "Robert Thoburn II, founder and School Headmaster. Robert and his wife Sheila
     spend most of their time living and working in Herndon.  They have five sons and
     four daughters as well as seven grandchildren. Robert is a member of Providence
     Church, Lynchburg. He earned a B.A. at Grove City College studying business as
     well as Austrian economics under Dr. Hans F. Sennholz and hold a Juris Doctor
     from Pepperdine University School of Law.  Courses taught in past years:  Omnibus
-    (history, government, economics).'
-  image: "/assets/img_6815.JPG"
+    (history, government, economics)."
+  image: "/assets/images/faculty/robert-thoburn.png"
 - name: Michael Harkin, OH since 2021
-  bio: 'Michael Harkin is the Principal of the Oak Hill - Lynchburg Campus as well
+  bio:
+    "Michael Harkin is the Principal of the Oak Hill - Lynchburg Campus as well
     as the Senior Humanities instructor.  Mr. Harkin was the founder and former Headmaster
     of Tidewater Classical Academy in Virginia Beach and served as a Captain in the
     US Marine Corps.  He holds a BA in Liberal Arts and Culture from New Saint Andrews
     College, a BA in Classics from the University of Idaho, and an MBA from Regent
     University.  Mr. Harkin is also President of FeO, Inc and is a member of Providence
-    Church, Lynchburg. '
-  image: "/assets/harkin-rs.jpg"
+    Church, Lynchburg. "
+  image: "/assets/images/faculty/mike-harkin.png"
 - name: Abigail Thoburn, OH since 2020
-  bio: Abigail Faith Thoburn is our School Office Manager. She is working remotely
+  bio:
+    Abigail Faith Thoburn is our School Office Manager. She is working remotely
     as she finishes her senior year at New Saint Andrews College in Moscow, Idaho.
     Abigail plays violin and loves boba milk tea.
-  image: "/assets/abigail.jpg"
+  image: "/assets/images/faculty/abigail-thoburn.png"
 - name: Adam Thoburn, OH since 2020
-  bio: Adam Jacob Thoburn teaches high school science and is our Herndon Campus Assistant
+  bio:
+    Adam Jacob Thoburn teaches high school science and is our Herndon Campus Assistant
     Principal. He married his wife, Cherie, while a junior in college. They have 2
     children attending Oak Hill as well as 2 more still at home. Adam is a graduate
     of New Saint Andrews College where he studied Natural History with Riot and the
     Dance producer Gordon Wilson. Adam is the founder of <a href="https://www.facebook.com/TorbjornWoodworking"
     target="_blank">Thoburn Woodworking</a>
-  image: "/assets/img_6863.JPG"
+  image: "/assets/images/faculty/adam-thoburn.png"
 - name: Robert Thoburn III, OH since 2020
-  bio: Robert III is the Lynchburg Campus Assistant Principal and teaches music, practicum,
+  bio:
+    Robert III is the Lynchburg Campus Assistant Principal and teaches music, practicum,
     Algebra I and calculus. He graduated from New Saint Andrews with a B.A. in Liberal
     Arts and Culture as well as a Music Certification. He plays cello and is currently
     earning his Kodaly music teaching certificate. Robert and his wife Sharon are
     members of Providence Church in Lynchburg.
-  image: "/assets/pxl_20210214_190530787-portrait2.jpg"
+  image: "/assets/images/faculty/robert-thoburn-3.png"
 - name: Autumn Aardsma, OH since 2021
-  bio: Autumn Aardsma is our Herndon Campus Office Administrator. She has 2 sons and
+  bio:
+    Autumn Aardsma is our Herndon Campus Office Administrator. She has 2 sons and
     3 daughters attending OH. A former Christian school instructor herself, Autumn
     is well equipped to help our teachers.
-  image: "/assets/img_6865.JPG"
+  image: "/assets/images/faculty/autumn-aardsma.png"
 - name: Megan Okimoto, OH since 2021
-  bio: Megan Okimoto is our Lynchburg Campus Office Administrator and serves as a
+  bio:
+    Megan Okimoto is our Lynchburg Campus Office Administrator and serves as a
     co-teacher. She holds a B.A. in French from Miami University, has 3 children attending
     OH and is a member of Providence Church, Lynchburg.
-  image: ''
+  image: "/assets/images/faculty/megan-okimoto.png"
 - name: Andrew Privler, OH since 2014
-  bio: Andrew Privler teaches mathematics. He studied history and education earning
+  bio:
+    Andrew Privler teaches mathematics. He studied history and education earning
     a B.A. from the City College of New York as well as an M.A. in Administration
     from Bowie State University.  He went on to become a math teacher for over 30
     years in New York City and in Prince George’s County schools.
-  image: assets/images/faculty/privler.jpg
+  image: assets/images/faculty/andrew-privler.png
 - name: David Sabin, OH since 2016
-  bio: David Sabin teaches English and Boys’ PE and Junior High courses. Born into
+  bio:
+    David Sabin teaches English and Boys’ PE and Junior High courses. Born into
     a family of missionaries to Botswana and Guatamala, he taught international students
     for 15 years and became a fluent speaker of Spanish. Mr. Sabin participates in
     music ministry, prayer team and a food bank at his congregation, <a href="https://www.gracetabernaclevirginia.com/"
     target="_blank">Grace Tabernacle Church</a>, in Ashburn.  He is married with two
     children and holds a B.S. in English Education and a master’s in Educational Administration
     from Pensacola Christian College.
-  image: "/assets/img_6813.JPG"
+  image: "/assets/images/faculty/david-sabin.png"
 - name: Sharon Thoburn, OH since 2020
-  bio: Sharon Thoburn teaches Latin. She holds an A.A. in Liberal Arts and Culture
+  bio:
+    Sharon Thoburn teaches Latin. She holds an A.A. in Liberal Arts and Culture
     from New Saint Andrews College. She spent time working at Eagle Cap Chalets and
     her family's other hotel in beautiful Enterprise, Oregon and is married to Robert
     Thoburn III.
-  image: "/assets/sharon.jpg"
+  image: "/assets/images/faculty/sharon-thoburn.png"
 - name: Seth Thoburn, OH since 2018
-  bio: Seth Thoburn teaches advanced Latin. He is a senior at New Saint Andrews College.
+  bio:
+    Seth Thoburn teaches advanced Latin. He is a senior at New Saint Andrews College.
     He also works as a Full Stack Developer at Treefort and does coding and IT work
     for Canon Press and Oak Hill.
-  image: "/assets/seth-thoburn.jpg"
+  image: "/assets/images/faculty/seth-thoburn.png"
 - name: Arelis Gil, OH since 2014
-  bio: Arelis Gil earned an M.Ed. and B.A. from the University of Nevada, Las Vegas.
+  bio:
+    Arelis Gil earned an M.Ed. and B.A. from the University of Nevada, Las Vegas.
     She spent six years at Palo Verde High School in Las Vegas teaching honors history
     and other courses. She and her husband attend Centreville Baptist.  Mrs. Gil taught
     at OH and currently serves as our Athletic Director and College Counselor.
-  image: assets/images/faculty/gil.jpg
+  image: assets/images/faculty/arelis-gil.png
 - name: Allen Aardsma, OH since 2005
   bio: |-
     Adirondack Al returned this year from his studio in Long Lake, New York to teach at Oak Hill. Mr. A is a musician as well as a woodcarver par excellence who brings great character instruction to his elementary students. He taught and served as a principal for 20 years in Christian schools. Mr. A earned a Bachelor's of Bible Research studying at Seeway Baptist Bible Institute and Bible Research International.
 
     <a href="https://www.pondsidestudio.net/my-music.html" target="_blank">Thy Mercy, Psalm 36</a>
-  image: "/assets/adk-allen-picture.jpg"
+  image: "/assets/images/faculty/allen-aardsma.png"
 - name: Robin Aardsma, OH since 2005
-  bio: Robin Aardsma has much experience in teaching, including fifteen years in Christian
+  bio:
+    Robin Aardsma has much experience in teaching, including fifteen years in Christian
     schools as well as home schooling her own children. She studied history at SUNY
     Potsdam and Houghton College. She and her husband, Allen, have 5 grandchildren
     attending Oak Hill. Always full of energy, after teaching all day she can be found
     walking on a bike trail.
-  image: "/assets/mrs-a.JPEG"
+  image: "/assets/images/faculty/robin-aardsma.png"
 - name: Katherine Culver, OH since 2010
-  bio: Katherine Culver earned an elementary education degree as an honor student
+  bio:
+    Katherine Culver earned an elementary education degree as an honor student
     at Methodist University. She taught at another ACCS school before coming to Oak
     Hill. Mrs. Culver and her husband, William, worship at Potomac Hills Presbyterian
     Church in Leesburg and have two beautiful daughters.
-  image: "/assets/img_6687.JPG"
+  image: "/assets/images/faculty/katherine-culver.png"
 - name: Sheila Key Thoburn, OH since 1997
-  bio: Sheila Key Thoburn was influential in creating a classical curriculum at Oak
+  bio:
+    Sheila Key Thoburn was influential in creating a classical curriculum at Oak
     Hill over the years. She grew up in Arlington and is a great mother to her and
     Robert’s children.  She thoroughly enjoys reading almost any book and, when she
     can, runs an Etsy shop which can be found [here](https://www.etsy.com/people/SKT74).
     Mrs. Thoburn serves as Director of Curriculum and teaches elementary school.
-  image: "/assets/sheila.JPEG"
+  image: "/assets/images/faculty/sheila-thoburn.png"
 - name: Zachary Aardsma, OH since 2021
-  bio: Zachary Aardsma teaches elementary science classes. He loves science and studied
+  bio:
+    Zachary Aardsma teaches elementary science classes. He loves science and studied
     biology at Houghton College. He bikes and used to teach swim lessons.
-  image: "/assets/img_6860.JPG"
+  image: "/assets/images/faculty/zach-aardsma.png"
 - name: Mary Saka, OH since 2004
-  bio: Mary Saka directs our after care. She greets everyone with a smile. Gardening
+  bio:
+    Mary Saka directs our after care. She greets everyone with a smile. Gardening
     and sewing and cooking especially interest her, but she loves economics in which
     she holds undergraduate and graduate degrees. Mrs. Saka belongs to Chantilly Bible
     Church.
-  image: ''
+  image: ""
 - name: Justin Sutters, OH since 2018
-  bio: Dr. Justin Sutters is a part-time art instructor at Oak Hill, where his daughters
+  bio:
+    Dr. Justin Sutters is a part-time art instructor at Oak Hill, where his daughters
     Zoe and Livia attend. He is the Director of the Graduate Art Education program
     at George Mason University. He attained a PhD in Art Education from the Ohio State
     University and has extensive K-12 teaching experience including two years in Brazil.
     He presents his research regularly both nationally and internationally and is
     published widely. <a href="https://gmu.academia.edu/justinsutters" target="_blank">https://gmu.academia.edu/justinsutters</a>
-  image: assets/images/faculty/sutters.jpg
+  image: assets/images/faculty/justin-sutters.png
 - name: Nancy Weathers, Kindergarten, OH since 2004
-  bio: ''
-  image: "/assets/weatherssized-250x300.png"
+  bio: ""
+  image: "/assets/images/faculty/nancy-weathers.png"
 - name: Mandy Fournier, Assistant Teacher, OH since 2021
-  bio: ''
-  image: "/assets/img_6546.JPG"
+  bio: ""
+  image: "/assets/images/faculty/mandy-fournier.png"
 - name: Yanet Birehan, Assistant Teacher, OH since 2019
-  bio: ''
-  image: "/assets/img_6487.JPG"
+  bio: ""
+  image: "/assets/images/faculty/yanet-birehan.png"
 - name: Moriah Gonzalez, Pre-Kindergarten, OH since 2014
-  bio: ''
-  image: "/assets/img_6479.JPG"
+  bio: ""
+  image: "/assets/images/faculty/moriah-gonzalez.png"
 - name: Nery Washington, Reading and Assistant Teacher, OH since 2019
-  bio: ''
-  image: "/assets/img_6631.JPG"
+  bio: ""
+  image: "/assets/images/faculty/nery-washington.png"
