@@ -93,9 +93,7 @@
   image: assets/images/faculty/arelis-gil.png
 - name: Allen Aardsma, OH since 2005
   bio: |-
-    Adirondack Al returned this year from his studio in Long Lake, New York to teach at Oak Hill. Mr. A is a musician as well as a woodcarver par excellence who brings great character instruction to his elementary students. He taught and served as a principal for 20 years in Christian schools. Mr. A earned a Bachelor's of Bible Research studying at Seeway Baptist Bible Institute and Bible Research International.
-
-    <a href="https://www.pondsidestudio.net/my-music.html" target="_blank">Thy Mercy, Psalm 36</a>
+    Adirondack Al returned this year from his studio in Long Lake, New York to teach at Oak Hill. Mr. A <a href="https://www.pondsidestudio.net/my-music.html" target="_blank">is a musician</a> as well as a woodcarver par excellence who brings great character instruction to his elementary students. He taught and served as a principal for 20 years in Christian schools. Mr. A earned a Bachelor's of Bible Research studying at Seeway Baptist Bible Institute and Bible Research International.
   image: "/assets/images/faculty/allen-aardsma.png"
 - name: Robin Aardsma, OH since 2005
   bio:
@@ -125,13 +123,6 @@
     Zachary Aardsma teaches elementary science classes. He loves science and studied
     biology at Houghton College. He bikes and used to teach swim lessons.
   image: "/assets/images/faculty/zach-aardsma.png"
-- name: Mary Saka, OH since 2004
-  bio:
-    Mary Saka directs our after care. She greets everyone with a smile. Gardening
-    and sewing and cooking especially interest her, but she loves economics in which
-    she holds undergraduate and graduate degrees. Mrs. Saka belongs to Chantilly Bible
-    Church.
-  image: ""
 - name: Justin Sutters, OH since 2018
   bio:
     Dr. Justin Sutters is a part-time art instructor at Oak Hill, where his daughters
@@ -141,6 +132,13 @@
     He presents his research regularly both nationally and internationally and is
     published widely. <a href="https://gmu.academia.edu/justinsutters" target="_blank">https://gmu.academia.edu/justinsutters</a>
   image: assets/images/faculty/justin-sutters.png
+- name: Mary Saka, OH since 2004
+  bio:
+    Mary Saka directs our after care. She greets everyone with a smile. Gardening
+    and sewing and cooking especially interest her, but she loves economics in which
+    she holds undergraduate and graduate degrees. Mrs. Saka belongs to Chantilly Bible
+    Church.
+  image: ""
 - name: Nancy Weathers, Kindergarten, OH since 2004
   bio: ""
   image: "/assets/images/faculty/nancy-weathers.png"
