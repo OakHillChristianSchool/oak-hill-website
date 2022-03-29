@@ -1,23 +1,23 @@
 ---
 year: 2021-22
 events:
-- date: September 6, 2021
-  event: Labor Day
-- date: September 7
-  event: First Day of School
-- date: November 22-26
-  event: Thanksgiving Recess, School Closed
-- date: December 20, 2021-January 3, 2022
-  event: Christmas Recess, School Closed
-- date: January 4, 2022
-  event: First Day of School in 2022
-- date: February 21
-  event: Presidents' Day, School Closed
-- date: April 11-15
-  event: Easter Recess, School Closed
-- date: May 27
-  event: Last Day of School for High School
-- date: May 30
-  event: Memorial Day, School Closed
-- date: June 16
-  event: Last Day of School
+  - date: September 6, 2021
+    event: Labor Day
+  - date: September 7
+    event: First Day of School
+  - date: November 22-26
+    event: Thanksgiving Recess, School Closed
+  - date: December 20, 2021-January 3, 2022
+    event: Christmas Recess, School Closed
+  - date: January 4, 2022
+    event: First Day of School in 2022
+  - date: February 21
+    event: Presidents' Day, School Closed
+  - date: April 11-15, April 18
+    event: Easter Recess, School Closed
+  - date: May 27
+    event: Last Day of School for High School
+  - date: May 30
+    event: Memorial Day, School Closed
+  - date: June 14
+    event: Last Day of School
