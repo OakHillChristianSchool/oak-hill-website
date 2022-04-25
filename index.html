@@ -248,9 +248,8 @@ extrahead:
         event.preventDefault();
         email = $('#contact-email').val()
         data = $('form').serialize();
-        url = `https://script.google.com/macros/s/AKfycbxIA024H355SaEd9qxBk-LroWVxVbvyKaUw4oncOKABkyhZMi3ShuC7cQC7aovoroC6/exec?${data}&callback=?`
+        url = `https://script.google.com/macros/s/AKfycbya-YSHKSxRv4VBHh4dIJ9Eo-EvM46qq8Tsq-cdmNk9JAG_IgwOtznlrJ-yrkhB3nok/exec?${data}&callback=?`
         $('#contact').html('<div class="uk-text-center"><div uk-spinner="ratio:3"></div></div>');
-
         var request = jQuery.ajax({
             crossDomain: true,
             url: url,
