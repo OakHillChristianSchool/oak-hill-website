@@ -420,7 +420,7 @@ days_of_week_available:
                       parts = item[0].split('/');
                       if (parseInt(parts[0]) == month + 1 && parseInt(parts[1]) == date && parseInt(parts[2]) == year) {
                           if (item[3] == 'all') {
-                              data.values.forEach(function(item, index) {
+                              data.values?.forEach(function(item, index) {
                                   // if the whole day is blocked off, remove all available times from the data
                                   // just setting data.values to [] will throw an error if there is an appointment on that same day
                                   data.values[index] = []
