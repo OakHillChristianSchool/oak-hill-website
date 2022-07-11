@@ -1,31 +1,13 @@
 sports:
-  - title: Flag Football
-    start_date: 4/23/2022
-    end_date: 6/11/2022
-    grades: PK3-12th Grade
-    fee: $169 if paid by 2/13/2022
-    details_link: https://www.i9sports.com/programs/86533/centreville-centreville-flag-football-league-april-2022
-  - title: Soccer
-    start_date: 4/23/2022
-    end_date: 6/11/2022
-    grades: PK3-6th Grade
-    fee: $169 if paid by 2/13/2022
-    details_link: https://www.i9sports.com/programs/86558/centreville-centreville-soccer-league-april-2022
-  - title: Basketball
-    start_date: 4/23/2022
-    end_date: 6/11/2022
-    grades: PK3-9th grade
-    fee: $179 if paid by 2/13/2022
-    details_link: https://www.i9sports.com/programs/86723/centreville-centreville-basketball-league-april-2022
   - title: Baseball
-    start_date: 4/23/2022
-    end_date: 6/11/2022
-    grades: PK3-3rd grade
-    fee: $169 if paid by 2/13/2022
-    details_link: https://www.i9sports.com/programs/86818/centreville-centreville-baseball-league-april-2022
+    fee: $160
+    details_link: https://www.chantillyyouth.org/baseball
+  - title: Football
+    fee: $250
+    details_link: https://chantillyfootball.org/
+  - title: Soccer
+    fee: $165
+    details_link: https://www.cyasoccer.org/
   - title: Volleyball
-    start_date: 4/23/2022
-    end_date: 6/11/2022
-    grades: Ages 7-16
-    fee: $169 if paid by 2/13/2022
-    details_link: https://www.i9sports.com/programs/86823/centreville-centreville-volleyball-league-april-2022
+    fee: $170
+    details_link: https://www.chantillyyouth.org/volleyball
