@@ -1,14 +1,15 @@
 ---
 - title: Who are we?
-  content: Founded in 1997, we are Oak Hill Christian School - a privately-owned Classical
-    Christian school - with a primary campus in Herndon, VA (PK-12) and a new extension
-    campus in Lynchburg, VA (9th -12th).
+  content:
+    Founded in 1997, we are Oak Hill Christian School - a privately-owned PK-12
+    Classical Christian school - in Herndon, VA.
 - title: Where is Oak Hill Christian School Located?
-  content: The Herndon campus is located at 13525 Dulles Technology Drive, Herndon,
-    VA. The Lynchburg campus is located at Providence Church, 108 Melinda Dr, Lynchburg,
+  content:
+    The Herndon campus is located at 13525 Dulles Technology Drive, Herndon,
     VA.
 - title: What colleges do Oak Hill High School graduates attend?
-  content: "Oak Hill has been teaching students in Virginia for over 20 years.  Students
+  content:
+    "Oak Hill has been teaching students in Virginia for over 20 years.  Students
     are issued a high school diploma upon graduation.  Our graduates have been accepted
     at all types of colleges and universities.  \n\n  \n\nSome of our college acceptances:
     \ \n<img style=\"max-width: 96px;\" src=\"/assets/college-logos/jh.png\"> <img
@@ -25,37 +26,44 @@
     96px;\" src=\"/assets/college-logos/jh-p.png\"> <img style=\"max-width: 96px;\"
     src=\"/assets/college-logos/ur.png\">\n"
 - title: What is the school schedule?
-  content: 'Classes meet Monday - Friday, 9 a.m. to 3 p.m.  Students begin arriving
+  content:
+    "Classes meet Monday - Friday, 9 a.m. to 3 p.m.  Students begin arriving
     at 8:30.  The day begins with chapel or devotions at 8:45 a.m.  See our school
-    calendar for more detail.  '
+    calendar for more detail.  "
 - title: What is the 3-day 'hybrid' schedule?
-  content: High School students as well as those entering K-8 may apply to attend
+  content:
+    High School students as well as those entering K-8 may apply to attend
     our 3 day ‘hybrid’ program. This means students are on-campus Tues, Wed, and Thurs
     and then work independently, supervised by a parent, off-campus Mon & Fri. The
     curriculum is the same as the 5-Day ‘standard’ on-campus schedule.
 - title: Does Oak Hill offer an extended day?
-  content: Yes! Our Herndon Campus is set up to accommodate busy parents. The extended
+  content:
+    Yes! Our Herndon Campus is set up to accommodate busy parents. The extended
     day is open 7:30-8:30 a.m. and 3-6:15 p.m. Extended day can be added or dropped
     during the year. Students not registered for extended day may attend for an hourly
     fee.
 - title: What do students do in after care?
-  content: After 3, students have snack and complete their homework. There is a free
+  content:
+    After 3, students have snack and complete their homework. There is a free
     play or organized play time outside or in our gym. After care teachers organize
     crafts and fun activities. After care students may participate in any of our clubs.
     See Clubs and Activities for more information about how clubs are formed.
 - title: What else should I be asking?
-  content: We have aimed to cover information parents need to decide whether to apply
+  content:
+    We have aimed to cover information parents need to decide whether to apply
     on our website. But each family is unique. Come talk to an admissions counselor,
     or just call. We’d love to hear your story and find out if OH might be a good
     fit for your child.
 - title: Does Oak Hill accept below average students?
-  content: It is our vision to set high expectations for our children. At the same
+  content:
+    It is our vision to set high expectations for our children. At the same
     time, good teaching involves starting where a child is and we are in the business
     of seeing students grow and mature. If you have a strong interest in authentically
     Christian education, we encourage you to contact us and find out if we can meet
     your child’s individual needs.
 - title: How does Oak Hill challenge exceptional students?
-  content: Our regular curriculum is advanced and offers a lot of opportunity for
+  content:
+    Our regular curriculum is advanced and offers a lot of opportunity for
     students to move ahead. We also offer challenge spelling and challenge math assignments
     for advanced students in the younger grades. Every student is pushed to excel
     in all subjects. In some cases, we may place a student in a higher grade for one
