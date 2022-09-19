@@ -1,17 +1,18 @@
 title: Oak Hill Christian School
 email: office@oakhillk12.com
-description: Oak Hill is a private Christian school in Northern Virginia which offers classes
-  for preschool through 12th grade and international students. Located outside of
+description:
+  Oak Hill is a private Christian school in Northern Virginia which offers classes
+  for preschool through 12th grade students. Located outside of
   DC.
-baseurl: ''
+baseurl: ""
 url: https://www.oakhillk12.com
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
 theme: minima
 plugins:
-- jekyll-feed
-- jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-redirect-from
 whitelist:
   - jekyll-redirect-from
 permalink: /:categories/:year/:month/:day/:title
