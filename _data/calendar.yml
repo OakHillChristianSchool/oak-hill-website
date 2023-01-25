@@ -1,25 +1,27 @@
 ---
 year: 2022-23
-events:
-  - date: September 5, 2022
-    event: Labor Day
-  - date: September 6
-    event: First Day of School
-  - date: November 21-25
-    event: Thanksgiving Recess, School Closed
-  - date: December 19, 2022-January 2, 2023
-    event: Christmas Recess, School Closed
-  - date: January 3, 2023
-    event: First Day of School in 2023
-  - date: January 16, 2023
-    event: King Day, School Closed
-  - date: February 20
-    event: Presidents’ Day, School Closed
-  - date: April 3-7
-    event: Easter Recess, School Closed
-  - date: May 26
-    event: Last Day of High School
-  - date: May 29
-    event: Memorial Day, School Closed
-  - date: June 16
-    event: Last Day of School
+sections:
+  - title: 2022-23 School Calendar
+    events:
+      - date: September 5, 2022
+        event: Labor Day
+      - date: September 6
+        event: First Day of School
+      - date: November 21-25
+        event: Thanksgiving Recess, School Closed
+      - date: December 19, 2022-January 2, 2023
+        event: Christmas Recess, School Closed
+      - date: January 3, 2023
+        event: First Day of School in 2023
+      - date: January 16, 2023
+        event: King Day, School Closed
+      - date: February 20
+        event: Presidents’ Day, School Closed
+      - date: April 3-7
+        event: Easter Recess, School Closed
+      - date: May 26
+        event: Last Day of High School
+      - date: May 29
+        event: Memorial Day, School Closed
+      - date: June 16
+        event: Last Day of School

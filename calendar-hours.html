@@ -21,12 +21,15 @@ title: Calendar and Hours
 <div class="uk-container uk-margin-large">
     <div class="uk-child-width-expand@s" uk-grid>
         <div class="uk-width-1-2@m">
-            <h3>{{ site.data.calendar.year }} School Calendar</h3>
+            <h3>School Calendar</h3>
+            {% for section in site.data.calendar.sections %}
+            {% if section.title %}<h5>{{ section.title }}</h5>{% endif %}
             <ul>
-                {% for item in site.data.calendar.events %}
+                {% for item in section.events %}
                 <li>{{ item.date }}: {{ item.event }}</li>
                 {% endfor %}
             </ul>
+            {% endfor %}
         </div>
         <div class="uk-width-1-2@m">
             <img src="assets/images/ch-1.png">
