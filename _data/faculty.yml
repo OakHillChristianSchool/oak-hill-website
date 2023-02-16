@@ -9,7 +9,7 @@
         Lynchburg and earned a B.A. at Grove City College studying business as well as
         Austrian economics. He also holds a J.D. from Pepperdine University School of
         Law.
-      image: "/assets/images/faculty/robert-thoburn.png"
+      image: "/assets/images/faculty/robert-thoburn.jpg"
     - name: Heather Yarashus
       subtitle: High School/Junior High Science
       ohsince: 2022
@@ -18,7 +18,7 @@
         Mary, worked as a homeschool science teacher for many years and as a
         substitute at Chesapeake Bay Governor’s School. She has 8 children and is a
         member of Sterling Orthodox Presbyterian Church.
-      image: "/assets/images/faculty/heather-yarashus.png"
+      image: "/assets/images/faculty/heather-yarashus.jpg"
     - name: Seth Thoburn
       subtitle: Junior High and High School Latin
       ohsince: 2018
@@ -37,7 +37,7 @@
         Grace Tabernacle Church in Ashburn. Mr. Sabin has 4 sons and holds a B.S. in
         English Education and an M.A. in Educational Administration from Pensacola
         Christian College.
-      image: "/assets/images/faculty/david-sabin.png"
+      image: "/assets/images/faculty/david-sabin.jpg"
     - name: Zachary Aardsma
       subtitle: Herndon Campus Co-teacher, Math/Science
       ohsince: 2021
@@ -45,7 +45,7 @@
         “Mr. Z” works as an upper school co-teacher and also teaches Physics and
         Geometry. He loves science and studied biology at Houghton College. He bikes
         and worked as a swim instructor.
-      image: "/assets/images/faculty/zach-aardsma.png"
+      image: "/assets/images/faculty/zachary-aardsma.jpg"
     - name: Arelis Gil
       subtitle: Athletic Director and College Counselor
       ohsince: 2014
@@ -62,7 +62,7 @@
         Abigail Faith Thoburn is our School Office Manager. She is working remotely
         as she finishes her B.A. in Liberal Arts and Culture at New Saint Andrews
         College in Moscow, Idaho. Abigail plays violin and loves Boba milk tea.
-      image: "/assets/images/faculty/abigail-thoburn.png"
+      image: "/assets/images/faculty/abigail-thoburn.jpg"
     - name: Sheila Key Thoburn
       subtitle: Curriculum Director
       ohsince: 1997
@@ -71,7 +71,15 @@
         Hill over the years. She grew up in Arlington and is a great mother to her
         and Robert’s children. She thoroughly enjoys reading almost any book and,
         when she can, runs her own Etsy Shop.
-      image: "/assets/images/faculty/sheila-thoburn.png"
+      image: "/assets/images/faculty/sheila-thoburn.jpg"
+    - name: Jocelyn Geier
+      subtitle: Secretary
+      ohsince: 2022
+      bio:
+        Jocelyn Geier, B.S.N., worked as a charge nurse for the ICU and Labor &
+        Delivery. She homeschooled her three children and worships with her
+        husband at Grace Covenant Church in Sterling.
+      image: "/assets/images/faculty/jocelyn-geier.jpg"
 - title: Elementary – Grades 2-6
   persons:
     - name: Allen Aardsma
@@ -84,7 +92,7 @@
         students. He taught and served as a principal for 20 years in Christian
         schools. Mr. A earned a Bachelor’s of Bible Research studying at Seeway
         Baptist Bible Institute.
-      image: "/assets/images/faculty/allen-aardsma.png"
+      image: "/assets/images/faculty/allen-aardsma.jpg"
     - name: Hannah Miller
       subtitle: Grade 4
       ohsince: 2022
@@ -93,7 +101,7 @@
         schools. Mrs. Miller holds a B.A. in history from Patrick Henry College. She
         has a passion for Christ and for elementary school teaching and belongs to
         Hamilton Baptist Church in Western Loudoun County.
-      image: "/assets/images/faculty/hannah-miller.png"
+      image: "/assets/images/faculty/hannah-miller.jpg"
     - name: Mandy Fournier
       subtitle: Grade 3
       ohsince: 2021
@@ -101,7 +109,7 @@
         Amanda Fournier has worked at schools in various capacities as well as in
         the children’s ministry at her church, McLean Bible Church. She has 2
         children at OH and holds a B.A. from the University of Delaware.
-      image: "/assets/images/faculty/mandy-fournier.png"
+      image: "/assets/images/faculty/mandy-fournier.jpg"
     - name: Katherine Culver
       subtitle: Grade 2
       ohsince: 2010
@@ -110,7 +118,7 @@
         at Methodist University. She taught at another ACCS school before coming to
         Oak Hill. Mrs. Culver and her husband, William, worship at Potomac Hills
         Presbyterian Church in Leesburg and have two beautiful daughters.
-      image: "/assets/images/faculty/katherine-culver.png"
+      image: "/assets/images/faculty/katherine-culver.jpg"
     - name: Chesney Taylor
       subtitle: Elementary Science
       ohsince: 2022
@@ -119,7 +127,7 @@
         creation while tutoring with Classical Conversations. She studied teaching
         and earned a B.S. in History at Pensacola Christian College and earned a
         J.D. from Regent University.
-      image: "/assets/images/faculty/chesney-taylor.png"
+      image: "/assets/images/faculty/chesney-taylor.jpg"
     - name: Dr. Justin Sutters
       subtitle: Elementary Art
       ohsince: 2018
@@ -127,36 +135,41 @@
         Justin Sutters is the art educator at Oak Hill. He is the Director of the
         Graduate Art Education program at George Mason University and attained a PhD
         in Art Education from the Ohio State University.
-      image: assets/images/faculty/justin-sutters.png
+      image: assets/images/faculty/justin-sutters.jpg
 - title: JK, Kindergarten, Grade 1 & Extended Day
   persons:
     - name: Robin Aardsma
       subtitle: Grade 1
       ohsince: 2005
       bio: ""
-      image: "/assets/images/faculty/robin-aardsma.png"
+      image: "/assets/images/faculty/robin-aardsma.jpg"
     - name: Nancy Weathers
       subtitle: Kindergarten
       ohsince: 2004
       bio: ""
-      image: "/assets/images/faculty/nancy-weathers.png"
+      image: "/assets/images/faculty/nancy-weathers.jpg"
     - name: Claudia Key
       subtitle: Junior Kindergarten (3’s/4’s) and Elementary Music
       ohsince: 2005
       bio: ""
-      image: "/assets/images/faculty/claudia-key.png"
+      image: "/assets/images/faculty/claudia-key.jpg"
     - name: Yanet Birehan
-      subtitle: Junior Jr. Kg. Assistant Teacher
+      subtitle: Junior Kg. Assistant Teacher
       ohsince: 2019
       bio: ""
-      image: "/assets/images/faculty/yanet-birehan.png"
+      image: "/assets/images/faculty/yanet-birehan.jpg"
     - name: Mary Saka
       subtitle: Extended Care
       ohsince: 2004
       bio: ""
-      image: "/assets/images/faculty/mary-saka.png"
+      image: "/assets/images/faculty/mary-saka.jpg"
     - name: Gina Wisor
       subtitle: Kindergarten Assistant Teacher
       ohsince: 2022
       bio: ""
-      image: "/assets/images/faculty/gina-wisor.png"
+      image: "/assets/images/faculty/gina-wisor.jpg"
+    - name: Dora Crow
+      subtitle: Reading Assistant
+      ohsince: 2022
+      bio: ""
+      image: "/assets/images/faculty/dora-crow.jpg"
