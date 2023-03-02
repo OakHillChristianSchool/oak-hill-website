@@ -5,7 +5,7 @@ $global-font-size: 18px;
 $global-color: #303030;
 $base-body-font-weight: 200;
 $global-secondary-background: #efefef;
-$global-primary-background: #8c242b;
+$global-primary-background: #1d3557;
 $global-link-color: $global-primary-background;
 $global-link-hover-color: lighten($global-link-color, 10%);
 $overlay-primary-background: rgba(#1e1e1e, 0.6);
@@ -42,19 +42,19 @@ $navbar-background: #ffffff;
 }
 
 @mixin hook-inverse-button-primary-hover(){
-    background-color: #771e24;
+    background-color: #1d3557;
     color: white;
     transition: .2s;
 }
 
 @mixin hook-button-primary(){
-    background-color: #771e24;
+    background-color: #1d3557;
     transition: .2s;
 }
 
 @mixin hook-button-primary-hover(){
     background-color: white;
-    color: #771e24;
+    color: #1d3557;
     transition: .2s;
 }
 
