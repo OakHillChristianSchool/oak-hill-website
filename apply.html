@@ -4,20 +4,13 @@ title: Apply
 ---
 
 <div class="uk-container uk-margin-large-top uk-margin-large-bottom">
-    <p>Fill this out to request a link to our online application form.</p>
-    <iframe class="uk-width-1-1" height="1024" src="https://forms.oakhillk12.com/forms/request"></iframe>
+  <p>
+    Apply below. Please note that there is a separate application form and fee
+    schedule for international students.
+  </p>
+  <iframe
+    class="uk-width-1-1"
+    height="1024"
+    src="https://forms.oakhillk12.com/form/application-form-23-24"
+  ></iframe>
 </div>
-
-<script>
-    window.addEventListener('message', function (event) {
-        // ignore messages from the wrong domain
-        if (event.origin != 'https://forms.oakhillk12.com' || event.data.type != 'form submitted') {
-            return;
-        }
-
-        dataLayer.push({
-            'event': 'request application',
-            'email': event.data.email,
-        });
-    });
-</script>
