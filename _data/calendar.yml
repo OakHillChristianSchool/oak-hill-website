@@ -25,3 +25,25 @@ sections:
         event: Memorial Day, School Closed
       - date: June 16
         event: Last Day of School
+  - title: 2023-24 School Calendar
+    events:
+      - date: September 4, 2023
+        event: Labor Day
+      - date: September 5
+        event: First Day of School
+      - date: November 20-24
+        event: Thanksgiving Recess, School Closed
+      - date: December 18, 2023-January 2, 2024
+        event: Christmas Recess, School Closed
+      - date: January 3, 2024
+        event: First Day of School in 2024
+      - date: February 19
+        event: Presidents’ Day, School Closed
+      - date: March 25-29
+        event: Easter Recess, School Closed
+      - date: May 24
+        event: Last Day of High School
+      - date: May 27
+        event: Memorial Day, School Closed
+      - date: June 14
+        event: Last Day of School
