@@ -1,0 +1,47 @@
+---
+- title: Academics
+  pages:
+    - title: PK-1st
+      url: "/preschool-1st"
+    - title: Grades 2-5
+      url: "/2nd-5th"
+    - title: Junior High
+      url: "/junior-high"
+    - title: High School
+      url: "/high-school"
+- title: Admissions
+  pages:
+    - title: Apply
+      url: "/apply"
+    - title: Visit
+      url: "/visit"
+    - title: Admissions and Tuition
+      url: "/admissions-tuition"
+- title: About
+  pages:
+    - title: Faculty
+      url: "/faculty"
+    - title: Blog
+      url: http://oakhillk12.blogspot.com/
+    - title: Our Campus
+      url: "/campus"
+    - title: High School Hybrid Program
+      url: "/high-school-hybrid"
+    - title: Frequently Asked Questions
+      url: "/faqs"
+    - title: History and Faith
+      url: "/history-faith"
+- title: Current Students
+  pages:
+    - title: School Calendar and Hours
+      url: "/calendar-hours"
+    - title: Panera Lunch Program
+      url: "/panera"
+    - title: More
+      url: "/current-students"
+- title: "Extracurriculars "
+  pages:
+    - title: Clubs and Activities
+      url: "/clubs-and-activities"
+    - title: Athletics
+      url: "/athletics"

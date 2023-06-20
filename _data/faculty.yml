@@ -1,175 +1,172 @@
 ---
-- title: High School, Grades 7-8, and Administrative
+- title: Administration
   persons:
     - name: Robert Loren Thoburn
-      subtitle: Founder, Headmaster, high school co-teacher
+      subtitle: Founder, Headmaster, High School History, Government, Economics
       ohsince: 1997
-      bio: Robert and his wife Sheila spend most of their time in Herndon. They
-        have 9 children and 9 grandchildren. Robert is a member of Providence Church,
-        Lynchburg and earned a B.A. at Grove City College studying business as well as
-        Austrian economics. He also holds a J.D. from Pepperdine University School of
-        Law.
-      image: "/assets/images/faculty/robert-thoburn.jpg"
-    - name: Heather Yarashus
-      subtitle: High School/Junior High Science
-      ohsince: 2022
       bio:
-        Heather Yarashus, B.A. in Chemistry and M.A. in Chemistry from William and
-        Mary, worked as a homeschool science teacher for many years and as a
-        substitute at Chesapeake Bay Governor’s School. She has 8 children and is a
-        member of Sterling Orthodox Presbyterian Church.
-      image: "/assets/images/faculty/heather-yarashus.jpg"
-    - name: Seth Thoburn
-      subtitle: Junior High and High School Latin
-      ohsince: 2018
+        Robert and his wife, Sheila, founded OH in 1997.  They have 3 children
+        at the school as well as 6 grown children who are OH graduates.  They
+        attend Trinity Reformed Church in Martinsburg.  Robert earned a B.A. at
+        Grove City College and a J.D. from Pepperdine University School of Law.
+      image: "/assets/images/faculty/robert-thoburn.png"
+    - name: Sheila Key Thoburn
+      subtitle: Curriculum, 7th-12th Literature
+      ohsince: 1997
       bio:
-        Seth Thoburn graduated <i>cum laude</i> with a B.A. in Liberal Arts and
-        Culture from New Saint Andrews College. At NSA he learned a spoken
-        approach to Latin and studied ancient Hebrew. He is a full stack
-        developer at ConsignCloud.
-      image: "/assets/images/faculty/seth-thoburn.png"
-    - name: David Sabin
-      subtitle: Grades 7/8 and PE
-      ohsince: 2016
-      bio: David Sabin was born into a family of missionaries to Botswana and
-        Guatamala. He taught international students for 15 years and is a fluent
-        speaker of Spanish. He participates in music ministry and prayer team at
-        Grace Tabernacle Church in Ashburn. Mr. Sabin has 4 sons and holds a B.S. in
-        English Education and an M.A. in Educational Administration from Pensacola
-        Christian College.
-      image: "/assets/images/faculty/david-sabin.jpg"
-    - name: Zachary Aardsma
-      subtitle: Herndon Campus Co-teacher, Math/Science
-      ohsince: 2021
-      bio:
-        “Mr. Z” works as an upper school co-teacher and also teaches Physics and
-        Geometry. He loves science and studied biology at Houghton College. He bikes
-        and worked as a swim instructor.
-      image: "/assets/images/faculty/zachary-aardsma.jpg"
-    - name: Arelis Gil
-      subtitle: Athletic Director and College Counselor
-      ohsince: 2014
-      bio:
-        Arelis Gil earned an M.Ed. and B.A. from the University of Nevada, Las
-        Vegas. She spent six years at Palo Verde High School in Las Vegas teaching
-        honors history and other courses. She and her husband attend Centreville
-        Baptist.
-      image: assets/images/faculty/arelis-gil.png
+        Sheila Key Thoburn was influential in creating a classical curriculum at
+        Oak Hill over the years. She grew up in Arlington and is a great mother
+        to her and Robert’s children. She thoroughly enjoys reading almost any
+        book and, when she can, runs her own Etsy Shop.
+      image: "/assets/images/faculty/sheila-thoburn.png"
     - name: Abigail Thoburn
       subtitle: Office Manager
       ohsince: 2020
       bio:
-        Abigail Faith Thoburn is our School Office Manager. She is working remotely
-        as she finishes her B.A. in Liberal Arts and Culture at New Saint Andrews
-        College in Moscow, Idaho. Abigail plays violin and loves Boba milk tea.
-      image: "/assets/images/faculty/abigail-thoburn.jpg"
-    - name: Sheila Key Thoburn
-      subtitle: Curriculum Director
-      ohsince: 1997
-      bio:
-        Sheila Key Thoburn was influential in creating a classical curriculum at Oak
-        Hill over the years. She grew up in Arlington and is a great mother to her
-        and Robert’s children. She thoroughly enjoys reading almost any book and,
-        when she can, runs her own Etsy Shop.
-      image: "/assets/images/faculty/sheila-thoburn.jpg"
-    - name: Jocelyn Geier
-      subtitle: Secretary
-      ohsince: 2022
-      bio:
-        Jocelyn Geier, B.S.N., worked as a charge nurse for the ICU and Labor &
-        Delivery. She homeschooled her three children and worships with her
-        husband at Grace Covenant Church in Sterling.
-      image: "/assets/images/faculty/jocelyn-geier.jpg"
-- title: Elementary – Grades 2-6
+        Abigail Faith Thoburn is our School Office Manager. She  earned an A.A.
+        in Liberal Arts and Culture from New Saint Andrews College.  Abigail
+        plays violin and loves boba milk tea.
+      image: "/assets/images/faculty/abigail-thoburn.png"
+- title: Elementary Homeroom Teachers
   persons:
-    - name: Allen Aardsma
-      subtitle: Grades 5/6
-      ohsince: 2005
+    - name: Brynna Clendenan
+      subtitle: Grade 1
+      ohsince: 2023
+      bio: Brynna Clendenan graduated from Patrick Henry College with a B.A. in
+        Classical Liberal Arts.  She served for 3 years as an assistant dance
+        instructor (Irish Step/Folk), taught at Providence Preparatory Academy
+        in Purcellville, studied 4 levels of ancient Greek and plays the flute.
+      image: "assets/images/faculty/brynna-clendenan.png"
+    - name: Katherine Culver
+      subtitle: Grade 2, Elementary Music
+      ohsince: 2010
       bio:
-        Adirondack Al returned in 2021 from his studio in Long Lake, New York to
-        teach at Oak Hill. Mr. A is a musician as well as a woodcarver par
-        excellence who brings great character instruction to his elementary
-        students. He taught and served as a principal for 20 years in Christian
-        schools. Mr. A earned a Bachelor’s of Bible Research studying at Seeway
-        Baptist Bible Institute.
-      image: "/assets/images/faculty/allen-aardsma.jpg"
-    - name: Hannah Miller
-      subtitle: Grade 4
-      ohsince: 2022
-      bio:
-        Hannah Miller joins us this fall after several years teaching in Christian
-        schools. Mrs. Miller holds a B.A. in history from Patrick Henry College. She
-        has a passion for Christ and for elementary school teaching and belongs to
-        Hamilton Baptist Church in Western Loudoun County.
-      image: "/assets/images/faculty/hannah-miller.jpg"
+        Katherine Culver earned a B.S. in Elementary Education, <i>summa cum laude</i>,
+        at Methodist University. Mrs. Culver and her husband, William, worship
+        at Potomac Hills Presbyterian Church in Leesburg and have two beautiful
+        daughters.
+      image: "/assets/images/faculty/katherine-culver.png"
     - name: Mandy Fournier
       subtitle: Grade 3
       ohsince: 2021
       bio:
-        Amanda Fournier has worked at schools in various capacities as well as in
-        the children’s ministry at her church, McLean Bible Church. She has 2
-        children at OH and holds a B.A. from the University of Delaware.
-      image: "/assets/images/faculty/mandy-fournier.jpg"
-    - name: Katherine Culver
-      subtitle: Grade 2
-      ohsince: 2010
+        Amanda Fournier has worked at schools in various capacities as well as
+        in the children’s ministry at her church, McLean Bible Church. She has 1
+        son attending OH as well as one who is an alumnus.  She  holds a B.A.
+        from the University of Delaware.
+      image: "/assets/images/faculty/mandy-fournier.png"
+    - name: Hannah Miller
+      subtitle: Grade 4
+      ohsince: 2022
       bio:
-        Katherine Culver earned an elementary education degree as an honor student
-        at Methodist University. She taught at another ACCS school before coming to
-        Oak Hill. Mrs. Culver and her husband, William, worship at Potomac Hills
-        Presbyterian Church in Leesburg and have two beautiful daughters.
-      image: "/assets/images/faculty/katherine-culver.jpg"
+        Hannah holds a B.A. in History from Patrick Henry College where she was
+        a Presidential Scholar.   She has a passion for Christ and for
+        elementary school teaching and belongs to Hamilton Baptist Church in
+        Western Loudoun County.
+      image: "/assets/images/faculty/hannah-miller.png"
+    - name: Anthony Clendenan
+      subtitle: Grades 5/6
+      ohsince: 2023
+      bio: Anthony Clendenan earned a B.A. with honors in Classical Liberal Arts
+        from Patrick Henry College.  He has taught speech, debate and math and
+        joins our elementary teaching staff this fall.  He is a member of
+        Potomac Hills Presbyterian Church (PCA).
+      image: "/assets/images/faculty/anthony-clendenan.png"
+- title: Science
+  persons:
+    - name: Heather Yarashus
+      subtitle: Upper School Science
+      ohsince: 2022
+      bio:
+        Heather Yarashus, B.A. in Chemistry and M.A. in Chemistry from William
+        and Mary, worked as a homeschool science teacher for many years and as a
+        substitute at Chesapeake Bay Governor’s School. She has 8 children and
+        is a member of Sterling Orthodox Presbyterian Church.
+      image: "/assets/images/faculty/heather-yarashus.png"
     - name: Chesney Taylor
       subtitle: Elementary Science
       ohsince: 2022
       bio:
         Chesney Taylor discovered a real love for science and seeing God in his
-        creation while tutoring with Classical Conversations. She studied teaching
-        and earned a B.S. in History at Pensacola Christian College and earned a
-        J.D. from Regent University.
-      image: "/assets/images/faculty/chesney-taylor.jpg"
+        creation while tutoring with Classical Conversations. She studied
+        teaching and earned a B.S. in History at Pensacola Christian College and
+        earned a J.D. from Regent University.  She belongs to Grace Covenant
+        Church.
+      image: "/assets/images/faculty/chesney-taylor.png"
+    - name: Zachary Aardsma
+      subtitle: Assistant Office Manager, Upper School Science and Math, Chess Clubs
+      ohsince: 2021
+      bio:
+        “Mr. Z” works as an upper school co-teacher and also teaches Physics and
+        Geometry. He loves science and studied biology at Houghton College. He
+        bikes and served as a swim instructor and was recently married.
+      image: "/assets/images/faculty/zachary-aardsma.png"
+- title: Physical Education
+  persons:
+    - name: David Sabin
+      subtitle: PE, Running Club, Junior High History, English and Bible, Enrollment Advisor
+      ohsince: 2016
+      bio: David Sabin was born into a family of missionaries.  He speaks fluent
+        Spanish and participates in music ministry and prayer team at Grace
+        Tabernacle Church in Ashburn. Mr. Sabin has 4 sons and holds a B.S. and
+        an M.A. in Education from Pensacola Christian College.
+      image: "/assets/images/faculty/david-sabin.png"
+    - name: Arelis Gil
+      subtitle: Athletic Director, College Counselor, Spanish Club
+      ohsince: 2014
+      bio:
+        Arelis Gil earned an M.Ed. and B.A. from the University of Nevada, Las
+        Vegas. She spent six years at Palo Verde High School in Las Vegas
+        teaching honors history and other courses. She has 3 children at OH and
+        attends Centreville Baptist Church.
+      image: assets/images/faculty/arelis-gil.png
+    - name: Destiny McGorman
+      subtitle: Elementary PE Teacher, Assistant Teacher
+      ohsince: 2023
+      bio:
+        Destiny McGorman is our new Elementary PE Teacher.  She graduated <i>summa
+        cum laude</i> with a degreee in finance from Liberty University.  She has 2
+        children attending OH.  She and her husband coach an i-9 basketball team
+        in the community and attend Cornerstone Chapel in Leesburg.
+      image: assets/images/faculty/destiny-mcgorman.png
+- title: Latin and Art
+  persons:
+    - name: Seth Thoburn
+      subtitle: Upper School Latin
+      ohsince: 2018
+      bio:
+        'Seth Thoburn enjoys just about any language: Latin and Hebrew as well as
+        math and programming which he also considers to be languages.  Seth is a
+        full stack developer at <a href="https://consigncloud.com" target="_blank">ConsignCloud</a> and
+        graduated <i>cum laude</i> with a B.A. in Liberal Arts and Culture from New
+        Saint Andrews College.'
+      image: "/assets/images/faculty/seth-thoburn.png"
     - name: Dr. Justin Sutters
       subtitle: Elementary Art
       ohsince: 2018
-      bio:
-        Justin Sutters is the art educator at Oak Hill. He is the Director of the
-        Graduate Art Education program at George Mason University and attained a PhD
-        in Art Education from the Ohio State University.
-      image: assets/images/faculty/justin-sutters.jpg
-- title: JK, Kindergarten, Grade 1 & Extended Day
+      bio: Justin Sutters is the art educator at Oak Hill. He is the Director of
+        the Graduate Art Education program at George Mason University and
+        attained a PhD in Art Education from the Ohio State University.
+      image: assets/images/faculty/justin-sutters.png
+- title: Kindergarten and Junior Kindergarten
   persons:
-    - name: Robin Aardsma
-      subtitle: Grade 1
-      ohsince: 2005
-      bio: ""
-      image: "/assets/images/faculty/robin-aardsma.jpg"
     - name: Nancy Weathers
       subtitle: Kindergarten
       ohsince: 2004
       bio: ""
-      image: "/assets/images/faculty/nancy-weathers.jpg"
+      image: "/assets/images/faculty/nancy-weathers.png"
     - name: Claudia Key
-      subtitle: Junior Kindergarten (3’s/4’s) and Elementary Music
+      subtitle: Junior Kindergarten (3’s/4’s) and Upper School Music Teacher
       ohsince: 2005
       bio: ""
-      image: "/assets/images/faculty/claudia-key.jpg"
+      image: "/assets/images/faculty/claudia-key.png"
     - name: Yanet Birehan
       subtitle: Junior Kg. Assistant Teacher
       ohsince: 2019
       bio: ""
-      image: "/assets/images/faculty/yanet-birehan.jpg"
+      image: "/assets/images/faculty/yanet-birehan.png"
     - name: Mary Saka
       subtitle: Extended Care
       ohsince: 2004
       bio: ""
-      image: "/assets/images/faculty/mary-saka.jpg"
-    - name: Gina Wisor
-      subtitle: Kindergarten Assistant Teacher
-      ohsince: 2022
-      bio: ""
-      image: "/assets/images/faculty/gina-wisor.jpg"
-    - name: Dora Crow
-      subtitle: Reading Assistant
-      ohsince: 2022
-      bio: ""
-      image: "/assets/images/faculty/dora-crow.jpg"
+      image: "/assets/images/faculty/mary-saka.png"

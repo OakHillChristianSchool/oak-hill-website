@@ -1,15 +1,14 @@
 ---
 layout: simple-title
-title: Faculty/Staff
 ---
 
 {% for section in site.data.faculty %}
-<div class="uk-section uk-section-primary">
+<div class="uk-section uk-section-small uk-section-primary">
   <div class="uk-container uk-text-center">
     <h1>{{ section.title }}</h1>
   </div>
 </div>
-<div class="uk-container uk-margin-large-top">
+<div class="uk-container uk-margin-large-bottom uk-margin-large-top">
   <div
     class="uk-child-width-expand@s uk-grid-column-large uk-grid-row-medium"
     uk-height-match=".faculty-name"
@@ -17,20 +16,20 @@ title: Faculty/Staff
   >
     {% for person in section.persons %}
     <div class="uk-width-1-2@s uk-width-1-3@m">
+      {% if person.image and person.image != "" %}<img
+        src="{{ person.image }}"
+        class="uk-margin-bottom"
+      />{% endif %}
       <div class="faculty-name">
         <h3 class="uk-margin-remove-bottom">{{ person.name }}</h3>
         {% if person.subtitle and person.subtitle != "" %}
-        <h5 class="uk-margin-remove-top uk-margin-remove-bottom">
-          {{ person.subtitle }}
-        </h5>
+        <strong class="uk-margin-remove-top uk-margin-remove-bottom">
+          {{ person.subtitle }} </strong
+        ><br />
         {% endif %} {% if person.ohsince and person.ohsince != "" %}<i
           >OH since {{ person.ohsince }}</i
         >{% endif %}
       </div>
-      {% if person.image and person.image != "" %}<img
-        src="{{ person.image }}"
-        class="uk-margin-top"
-      />{% endif %}
       <p>{{ person.bio|markdownify }}</p>
     </div>
     {% endfor %}
