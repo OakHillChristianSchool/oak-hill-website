@@ -1,3 +1,14 @@
+<div
+  class="uk-alert-warning uk-margin-remove-top uk-margin-remove-bottom uk-text-center"
+  uk-alert
+  style="position: sticky; top: 0; z-index: 1000"
+>
+  <a class="uk-alert-close" uk-close></a>
+  <p>
+    🚧 Our website is under construction, please excuse any outdated information
+    or formatting issues! 🚧
+  </p>
+</div>
 <div style="background-color: rgba(255, 255, 255, 0.5)">
   <nav
     class="uk-container uk-dark uk-position-z-index uk-navbar-container {% if include.transparent %}uk-navbar-transparent uk-light {% endif %}uk-visible@m"
@@ -90,11 +101,12 @@
     >
       <ul class="uk-nav-default uk-nav-parent-icon" uk-nav>
         {% for item in site.data.navigation %}
-        <li class="uk-parent">
+        <li class="{% if item.pages|length > 0 %}uk-parent{% endif %}">
           <a
             href="{% if item.url %}{{ item.url | relative_url }}{% else %}#{% endif %}"
             >{{ item.title }}</a
           >
+          {% if item.pages|length > 0 %}
           <ul class="uk-nav-sub">
             {% for child in item.pages %}
             <li>
@@ -102,6 +114,7 @@
             </li>
             {% endfor %}
           </ul>
+          {% endif %}
         </li>
         {% endfor %}
         <li class="uk-margin-bottom uk-margin-top">
